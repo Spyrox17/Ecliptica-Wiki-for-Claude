@@ -1,0 +1,57 @@
+== Lore ==
+A curse Incarnate. They say that the forests are alive. The trees and animals are alive of course, but the larger whole is alive as well. The forest enjoys the lushness of life at dawn, but by dusk, it works. To seek out and remove any poison infecting its roots, so that the day may be ever brighter. To those who wander into these systems after nightfall, pray that your spirit is clean. For if it is not, it shall be.
+Those who are lost should be wary, for the forest gives and takes what it can without asking why.
+
+An abomination made out of the souls of children who were lost in the forest, the compound spirit is far beyond a spirit and has become a potent curse that seeks those who wish to exchange the soul of a living being for the soul of a dead child.
+
+It appears that it's natural habitat is in the upper floors of the dungeon, mimicking the sounds of laughter of children and tricking adventurers into a false sense of security before trapping them in the trees and taking their bodies.
+
+"If you hear the sound of kids playing in the dungeon, go the other way unless you want your soul taken"
+
+- Axiol Morah, second in command of the Oak Guild.
+{| class="wikitable" style="background:#000000; color:#ffffff; border:1px solid #444;"
+| colspan="3" |<center>'''<big>Kodama</big>'''</center>
+|-
+| rowspan="8" |[[File:Kodama.png|frameless|center]]
+|Affinity
+|Resistance
+|-
+|<font color="GREY">PHYSICAL</font>
+|RESIST (0.5x)
+|-
+|<font color="ORANGE">FIRE</font>
+|NEUTRAL (1x)
+|-
+|<font color="LIGHTBLUE">FROST</font>
+|NEUTRAL (1x)
+|-
+|<font color="YELLOW">ELECTRIC</font>
+|NEUTRAL (1x)
+|-
+|<font color="#e4e08c">LUMINOUS</font>
+|WEAK (1.5x)
+|-
+|<font color="PURPLE">SHADOW</font>
+|NEUTRAL (1x)
+|-
+|<font color="#f02ae0">POISON</font>
+|NEUTRAL (1x)
+|-
+| colspan="3" |Base HP: 6500
+|-
+| colspan="3" |Damage: <font color="PURPLE">SHADOW</font>
+|-
+| colspan="3" |Can inflict: [[File:Status Bleed.png|frameless|20x20px]]<font COLOR="DARKRED">BLEEDING</font>, [[File:Status Breach.png|frameless|20x20px]]<font COLOR="LIGHTGREY">BREACHED</font>, [[File:Status Decay.png|frameless|20x20px]]<font COLOR="#76E065">DECAYED</font> and [[File:Status Heavy.png|frameless|20x20px]]<font COLOR="DARKGREY">HEAVY</font>
+|-
+| colspan="3" |Phases: 1
+|-
+| colspan="3" |This boss is Stationary, meaning it doesn't move when spawned.
+|}
+
+== Strategy ==
+Kodama is a stationary boss with a ring of shadow around the arena that constantly deal damage. He attacks with large AOE blasts and tentacles that he summons in various patterns, capable of applying bleed, breached, decay and heavy.
+
+== Credits ==
+Made by Have and Mantibro 
+
+Music: [https://youtu.be/Oj6m8sJfbdU?si=6YXLQvuxaFL-6iXR The Moody Blues - The Voyage]

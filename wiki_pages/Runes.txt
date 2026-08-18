@@ -1,0 +1,169 @@
+Runes are powerful upgrades that you can equip before you begin your run, however, require you to complete a full run prior to unlock one at random.
+
+You can equip runes in the beginning lobby at the Workshop Anvil.
+[[File:Workshop.png|center|frameless|600x600px]]
+
+There are four slots you can equip runes to, though you will not see your first rune upgrade activate until you get to the [[Difficulty Modifier|Penumbral]] phase. It increases in phase requirement for each slot until [[Difficulty Modifier|Eclipse]].[[File:RuneHUD.png|center|frameless|580x580px]]
+
+<center>'''⚠️ As of the Patreon Playtest Demo, you can only use the Penumbral and Antumbral Rune slots!'''</center>
+
+
+Be careful! While powerful, runes will also activate a random, potent Runic Curse.
+
+There are 17 runes currently as of Patreon Release.
+
+== Runes ==
+{| class="wikitable" style="background:#000000; border:1px solid #555; color:#ffffff;"
+|+ style="font-size:110%; color:#ffffff;" | Runes
+! style="background:#000000; color:#ffffff;" | Picture
+! style="background:#000000; color:#ffffff;" | Name
+! style="background:#000000; color:#ffffff;" | Effect
+|-
+| style="background:#000000; color:#ffffff;" |[[File:RuneCritical.png|center|frameless|128x128px]]
+| style="background:#000000; color:#ffffff;" | Focus Growth
+| style="background:#000000; color:#ffffff;" | Critical Strike Chance +10% (+10% for each phase).
+|-
+| style="background:#000000; color:#ffffff;" |[[File:RuneStatusDefense.png|center|frameless|128x128px]]
+| style="background:#000000; color:#ffffff;" | Cleansing Growth
+| style="background:#000000; color:#ffffff;" | Gain a small resistance to all negative status effects (increases resistance each phase).
+|-
+| style="background:#000000; color:#ffffff;" |[[File:RuneUtility.png|center|frameless|128x128px]]
+| style="background:#000000; color:#ffffff;" | Recovery Growth
+| style="background:#000000; color:#ffffff;" | Utility Cooldown -15% (-15% for each phase).
+|-
+| style="background:#000000; color:#ffffff;" |[[File:RuneAttack1.png|center|frameless|128x128px]]
+| style="background:#000000; color:#ffffff;" | Power Growth
+| style="background:#000000; color:#ffffff;" | Damage +10% (+10% for each phase).
+|-
+| style="background:#000000; color:#ffffff;" |[[File:RuneAttackSpeed2.png|center|frameless|128x128px]]
+| style="background:#000000; color:#ffffff;" | Dexterity Growth
+| style="background:#000000; color:#ffffff;" | Attack Speed +30% (+30% for each phase).
+|-
+| style="background:#000000; color:#ffffff;" |[[File:Critical-Damage-Rune.png|center|frameless|128x128px]]
+| style="background:#000000; color:#ffffff;" | Precision Growth
+| style="background:#000000; color:#ffffff;" | Critical Strike Damage +15% (+15% for each phase).
+|-
+| style="background:#000000; color:#ffffff;" |[[File:RuneHealth.png|center|frameless|128x128px]]
+| style="background:#000000; color:#ffffff;" | Health Growth
+| style="background:#000000; color:#ffffff;" | Max HP +15 (+15 for each phase).
+|-
+| style="background:#000000; color:#ffffff;" |[[File:RuneHealing.png|center|frameless|128x128px]]
+| style="background:#000000; color:#ffffff;" | Satiety Growth
+| style="background:#000000; color:#ffffff;" | Healing Received +10% (+10% for each phase).
+|-
+| style="background:#000000; color:#ffffff;" |[[File:RuneDefense.png|center|frameless|128x128px]]
+| style="background:#000000; color:#ffffff;" | Defence Growth
+| style="background:#000000; color:#ffffff;" | Defense +5% (+5% for each phase).
+|-
+| style="background:#000000; color:#ffffff;" |[[File:RuneRegen.png|center|frameless|128x128px]]
+| style="background:#000000; color:#ffffff;" | Rejuvenating Growth
+| style="background:#000000; color:#ffffff;" | Health Regeneration +150% (+150% for each phase).
+|-
+| style="background:#000000; color:#ffffff;" |[[File:RuneJump.png|center|frameless|128x128px]]
+| style="background:#000000; color:#ffffff;" | Skybound
+| style="background:#000000; color:#ffffff;" | Extra Jump +1 (+1 for each phase).
+|-
+| style="background:#000000; color:#ffffff;" |[[File:RuneTurtle.png|center|frameless|128x128px]]
+| style="background:#000000; color:#ffffff;" | Way of the Turtle
+| style="background:#000000; color:#ffffff;" |
+Max HP +20 (+10 for each phase).<br>
+Defence +10% (+10% for each phase).<br>
+Movement Speed -20% (-20% for each phase).
+|-
+| style="background:#000000; color:#ffffff;" |[[File:RuneShield.png|center|frameless|128x128px]]
+| style="background:#000000; color:#ffffff;" | Active Guard
+| style="background:#000000; color:#ffffff;" | Using your Utility Skill has a 5% chance to grant you the [[File:Status Warden.png|frameless|20x20px]]<font COLOR="#ff7bef">RESILIENCE</font> status effect (+2% for each phase).
+|-
+| style="background:#000000; color:#ffffff;" |[[File:RuneArtifactGambit.png|center|frameless|128x128px]]
+| style="background:#000000; color:#ffffff;" | Manic Gambit
+| style="background:#000000; color:#ffffff;" | Any sacrificed [[Artifacts|Artifact]] will grant you 300% of its stats (+100% for each phase).
+You will only get 1 Token in every stage.
+|-
+| style="background:#000000; color:#ffffff;" |[[File:Big-and-Greedy.png|center|frameless|128x128px]]
+| style="background:#000000; color:#ffffff;" | Big and Greedy
+| style="background:#000000; color:#ffffff;" |
+Chance to find an extra [[Tokens|Token]] +15% (+15% for each phase).<br>If successful, have a 50% chance to find another extra [[Tokens|Token]].
+|-
+| style="background:#000000; color:#ffffff;" |[[File:RuneBigandNeedy.png|center|frameless|128x128px]]
+| style="background:#000000; color:#ffffff;" | Big and Needy
+| style="background:#000000; color:#ffffff;" | Chance to refund your [[Tokens|Token]] after purchasing a <b>COMMON</b> upgrade +15% (+5% for each phase).
+|-
+| style="background:#000000; color:#ffffff;" |[[File:RuneBigandPicky.png|center|frameless|128x128px]]
+| style="background:#000000; color:#ffffff;" | Big and Picky
+| style="background:#000000; color:#ffffff;" | Gain 1 extra option when choosing an upgrade.
+Gain 1 extra re-roll when choosing an [[Upgrades|upgrade]] (+1 re-roll for each phase).
+|-
+| style="background:#000000; color:#ffffff;" |[[File:BigAndInsured.png|center|frameless|128x128px]]
+| style="background:#000000; color:#ffffff;" | Big and Insured
+| style="background:#000000; color:#ffffff;" | Receive 1 [[Tokens|Token]] (+1 for Antumbra or above phases).
+Gain 1 extra re-roll when choosing an upgrade (+1 for each phase).
+|}
+
+== Curses ==
+There are 14 Runic Curses that you can receive when your rune activates, each one received is random, and you can get the same one twice!
+
+You will get one stack of a curse for your Penumbral Rune, two stacks of a curse for your Antumbral Rune and so on.
+
+{| class="wikitable" style="background:#000000; border:1px solid #555; color:#ffffff; margin:0 auto;"
+! style="background:#000000; color:#ffffff;" | Picture
+! style="background:#000000; color:#ffffff;" | Name
+! style="background:#000000; color:#ffffff;" | Effect
+! style="background:#000000; color:#ffffff;" | Stats
+|-
+| rowspan="14" |[[File:Runic-Curse.png|center|frameless|128x128px]]
+|Runic Curse: Fragility
+|Decreased resistance to <font color="GREY">PHYSICAL</font> Damage.
+| -10% <font color="GREY">PHYSICAL</font> Defense per stack
+|-
+| Runic Curse: Smolder
+|Decreased resistance to <font color="ORANGE">FIRE</font> Damage.
+| -10% <font color="ORANGE">FIRE</font> Defense per stack
+|-
+|Runic Curse: Fever
+|Decreased resistance to <font color="LIGHTBLUE">FROST</font> Damage.
+| -10% <font color="LIGHTBLUE">FROST</font> Defense per stack
+|-
+|Runic Curse: Conductor
+|Decreased resistance to <font color="YELLOW">ELECTRIC</font> Damage.
+| -10% <font color="YELLOW">ELECTRIC</font> Defense per stack
+|-
+|Runic Curse: Profane
+|Decreased resistance to <font color="#e4e08c">LUMINOUS</font> Damage.
+| -10% <font color="#e4e08c">LUMINOUS</font> Defense per stack
+|-
+|Runic Curse: Divine
+|Decreased resistance to <font color="PURPLE">SHADOW</font> Damage.
+| -10% <font color="PURPLE">SHADOW</font> Defense per stack
+|-
+|Runic Curse: Rot
+|Decreased resistance to <font color="#f02ae0">POISON</font> Damage.
+| -10% <font color="#f02ae0">POISON</font> Defense per stack
+|-
+|Runic Curse: Tremor
+|Projectiles will suffer from spread.
+| +2.5% Projectile Spread per stack
+|-
+|Runic Curse: Drain
+|Maximum HP will be reduced.
+| -10 Maximum HP per stack
+|-
+|Runic Curse: Shedding
+|Overall Defence will be reduced.
+| -5% Overall Defense per stack
+|-
+|Runic Curse: Anaemia
+|Health Regeneration will be reduced.
+| -150% Health Regeneration per stack
+|-
+|Runic Curse: Hypoxia
+|Healing Received is reduced.
+| -15% Healing Received per stack
+|-
+|Runic Curse: Light
+|Knockback from enemies is increased.
+| +15% increased Knockback per stack
+|-
+|Runic Curse: Asthma
+|Utility Cooldown will be increased.
+| +15% Utility Cooldown per stack
+|}

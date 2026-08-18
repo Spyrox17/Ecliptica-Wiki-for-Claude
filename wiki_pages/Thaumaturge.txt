@@ -1,0 +1,96 @@
+= Thaumaturge =
+In life, everything that gives us pleasure also gives us pain to measure it by. 
+
+Damaging enemies builds up LIFE ENERGY. 
+
+== Skills ==
+
+=== [[File:Thaumaturge-Life-Energy-a.png|frameless|64x64px]] Passive ===
+Damaging enemies builds up LIFE ENERGY, LIFE ENERGY gain is proportional to the Damage you do.
+
+=== [[File:Thaumaturge-Primary-c.png|frameless|64x64px]] Primary: Foul Pustule ===
+Fire a ball of poison, dealing 30 <font COLOR="#f02ae0">POISON</font> damage.
+
+10% chance to inflict X stacks of the [[File:Status Poison.png|frameless|20x20px]]<font color="#f02ae0">POISONED</font> status effect.
+
+Has a projectile speed of Xm/s and a max distance of Xm.
+
+=== [[File:Thaumaturge-Secondary.png|frameless|64x64px]] Secondary: Pain Exchange ===
+Spend 25% LIFE ENERGY to HEAL 60 HP to yourself or an ally and cleansing their negative status effects.
+
+* Thaumaturge begins with 50% healing received so the base value is halved for yourself.
+
+3 second cooldown.
+
+The cooldown is increased by 75% if you are healing yourself.
+
+=== [[File:Thaumaturge-Utility.png|frameless|64x64px]] Utility: Soulborne ===
+For 4 seconds enter an absorption stance, doubling movement speed, reducing damage taken by X%, and converting any damage taken into LIFE ENERGY.
+
+* All above stats are multipliers to your base stats and go above any caps.
+
+10 second cooldown.
+
+== Class Upgrades ==
+{| class="wikitable" style="background:#000000; border:1px solid #555; color:#ffffff; margin:0 auto;"
+|+
+! style="background:#000000; color:#ffffff;" | Image
+! style="background:#000000; color:#ffffff;" | Rarity
+! style="background:#000000; color:#ffffff;" | Skill
+! style="background:#000000; color:#ffffff;" | Description
+! style="background:#000000; color:#ffffff;" | Stack Type
+|-
+|[[File:Thaumaturge Keen Eye.png|center|frameless|128x128px]]
+|Common
+|Thaumaturge: Keen Eye
+|Pain Exchange range: +15 (+15 per stack) meters
+|Linear
+|-
+|[[File:Thaumaturge Proficiency.png|center|frameless|128x128px]]
+|Common
+|Thaumaturge: Proficiency
+|Pain Exchange Healing amount +3 (+3 per stack)
+Pain Exchange Cooldown: -10% (-10% per stack)
+|Linear
+|-
+|[[File:Thaumaturge Mastery.png|center|frameless|128x128px]]
+|Rare
+|Thaumaturge: Mastery
+|LIFE ENERGY required to cast Pain Exchange: -3% (-3% per stack)
+
+* This is additive, not multiplicative, Ex. 25% - 3% = 22% life energy cost. 
+|Reciprocal(?)
+|-
+|[[File:Thaumaturge Splitshot.png|center|frameless|128x128px]]
+|Rare
+|Thaumaturge: Splitshot
+|When using Foul Pustule, fire an extra projectile. 
+Projectile Spread +2.5% (+2.5% per stack)
+
+Overall Damage -30% (-30% per stack)
+|Linear
+|-
+|[[File:Thaumaturge Doping.png|center|frameless|128x128px]]
+|Legendary
+|Thaumaturge: Doping
+|The target of Pain Exchange will receive 6 (+3 per stack) stacks of the [[File:Status_Defense.png|frameless|20x20px]]<font color="#12ebff">ENFORCED</font> status effect
+If the target of Pain Exchange is yourself, a maximum of 3 stacks of [[File:Status_Defense.png|frameless|20x20px]]<font color="#12ebff">ENFORCED</font> is applied and cannot be pushed past
+
+If the target of Pain Exchange is someone else, there is a maximum of X stacks of [[File:Status_Defense.png|frameless|20x20px]]<font color="#12ebff">ENFORCED</font> applied 
+|Linear
+|-
+|[[File:Thaumaturge Everlife.png|center|frameless|128x128px]]
+|Legendary
+|Thaumaturge: Everlife
+|Gain the ability to spend 100% LIFE ENERGY to revive a player with the [[File:Mortal Curse.png|frameless|20x20px]]<font COLOR="DARKGREY">MORTAL CURSE</font>. Doing so will inflict you with 60 (-10 per stack) stacks of the [[File:Status Breach.png|frameless|20x20px]]<font COLOR="#7f7f7f">BREACHED</font> and [[File:Status Weak.png|frameless|20x20px]]<font COLOR="#802525">WEAKENED</font> status effects.
+Upon use, reduces Max Health by 25 until the end of the current round.
+
+LIFE ENERGY gain -10% (-10% per stack)
+|Linear/Reciprocal
+|-
+|[[File:Thaumaturge Splashback.png|center|frameless|128x128px]]
+|Legendary
+|Thaumaturge: Splashback
+|When healing yourself or an ally, cast an explosion on the target that deals 75 (+25 per stack) <font COLOR="#f02ae0">POISON</font> damage in a 3 (+3 per stack) meter radius.
+|Linear
+|}

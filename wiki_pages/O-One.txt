@@ -1,0 +1,60 @@
+== Lore ==
+O-OOOO1 was constructed as a prototype automaton, sent to the planet MBS-02 to act as a surveyor and a test of the Operative Automaton design. After cutting contact with the Opton overlord, the lone prototype was left to explore the planet and form his own directives, on his own terms. On the planet, he became the closest comrade of Sir Alux, a legendary figure within the FOX, the one who was to protect and serve the King directly, and the one who gifted the disposable soldier with the name "O-One." After the planet’s liberation, the mercenary known on the planet as The Smiling Opton managed to escape the planet as one of its very few survivors, scarred after witnessing the agonizing death of Alux caused by the planet’s infectious nanomachines. After years of exploration and a period of strength conditioning to learn to overclock his body’s energy output at the expense of its longevity, O-One isolated himself to the existence of a hermit, unconvinced in being able to find any purpose, now wielding an exact replica of Sir Alux’s longsword which he had trained to be proficient with through remembering the fighting style of his old comerade, also adorned with a hat closely resembling that which Alux used to wear.
+
+As the Opton War against the FOX Empire raged on and the tales of his existence spread, it was inevitable for him to be eventually found and admired as a survivor of the MBS Incident, and asked to assist with the conflict. While his unyielding self found no drive to assist an intergalactic Empire, he did decide to swear upon himself a solemn vow. He was to live for just as long as the Empire he was born with, no more, no less. Perhaps it was his intrigue and and the questions Alux left him with which eventually made him eager to learn about the "beings of conscience" which his comrade was adamant in deeply respecting.
+{| class="wikitable" style="background:#000000; color:#ffffff; border:1px solid #444;"
+| colspan="3" |<center>'''<big>O-One</big>'''</center>
+|-
+| rowspan="8" |[[File:O-One.png|frameless|center]]
+|Affinity
+|Resistance
+|-
+|<font color="GREY">PHYSICAL</font>
+|NEUTRAL (1x)
+|-
+|<font color="ORANGE">FIRE</font>
+|NEUTRAL (1x)
+|-
+|<font color="LIGHTBLUE">FROST</font>
+|WEAK (1.25x)
+|-
+|<font color="YELLOW">ELECTRIC</font>
+|NEUTRAL (1x)
+|-
+|<font color="#e4e08c">LUMINOUS</font>
+|RESIST (0.75x)
+|-
+|<font color="PURPLE">SHADOW</font>
+|WEAK (1.25x)
+|-
+|<font color="#f02ae0">POISON</font>
+|NEUTRAL (1x)
+|-
+| colspan="3" |Base HP: 16000
+|-
+| colspan="3" |Damage: <font color="GREY">PHYSICAL</font>
+|-
+| colspan="3" |Can inflict: [[File:Status Bleed.png|frameless|20x20px]]<font color="DARKRED">BLEEDING</font> and [[File:Status Stun.png|frameless|20x20px]]<font color="YELLOW">PARALYZED</font>
+|-
+| colspan="3" |Phases: 2
+|}
+
+== Strategy ==
+O-One's battle has two phases.
+
+In the first he wields a small battle axe with a pistol. He typically circles around his opponents firing shots at them and occasionally dashes in to strike them with his axe. He mostly repeats this cycle of staying far to shoot and coming in to slash with his high speeds.
+
+Once his health reaches 40% he will change out his weapons for a single sword and attack his opponents at close range with even more speed and new attacks.
+
+== Credits ==
+Made by Mantibro
+
+Voiced by Mapleveins
+
+Music Phase 1: [https://youtu.be/VKfyq_hOL0c?si=4E2pnryt-bL2Fz_u Alisa Okehazama, Jujutsu Kaisen OST - Self-Embodiment of Perfection]
+
+Music Phase 2: [https://youtu.be/_D0YiIzjzyg?si=t415sHzXxmHHgw-y Yoshimasa Terui, Jujutsu Kaisen II OST - Transformation (Metamorphosis)]
+
+== Additional Information ==
+[[File:O-One Shawarma.png|thumb|From the O-One Voice Actor]]
+Likes Shawarma.

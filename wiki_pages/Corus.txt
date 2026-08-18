@@ -1,0 +1,56 @@
+== Lore ==
+With the combined research and innovation of the Proto Colony alongside Omen, The FOX were close to finding a worthy recreation of the regenerative body of the Onyx Pilot. Their progress eventually landed on self-sufficient nanomachines, which feasted on metal and formed themselves into sentient constructs with the ability to replicate. An experimental batch of the nanobots was deposited into a sealed container to act as a controlled environment for monitoring the activity of the nanomachines, dubbed the Mechanical Biosphere System. After many Gaian days, it was noticed that the containment was slowly, but continuously rising in temperature. A monitoring probe was lowered into the box, and inside, a fully formed construct was seemingly laying dormant, emitting extreme heat and combustible gas. The construct was soon given the name Corus.
+
+After further research and refinements, a new strand of nanomachines would be soon created, one which would later be deposited onto a planet which would later be named MBS-02, Mechanical Biosphere System 02. The original containment was eventually also dropped onto the planet, but by then it was treated as merely a way of disposal.
+
+As the knowledge of the construct spread outside the Proto Colony research team, through hearsay it eventually became a niche legend.
+
+"A being molded from the star itself, sealed away under a mountain of metal."
+{| class="wikitable" style="background:#000000; color:#ffffff; border:1px solid #444;"
+| colspan="3" |<center>'''<big>Corus</big>'''</center>
+|-
+| rowspan="8" |[[File:Corus.png|frameless|center]]
+|Affinity
+|Resistance
+|-
+|<font color="GREY">PHYSICAL</font>
+|NEUTRAL (1x)
+|-
+|<font color="ORANGE">FIRE</font>
+|RESIST (0.5x)
+|-
+|<font color="LIGHTBLUE">FROST</font>
+|WEAK (1.5x)
+|-
+|<font color="YELLOW">ELECTRIC</font>
+|NEUTRAL (1x)
+|-
+|<font color="#e4e08c">LUMINOUS</font>
+|RESIST (0.75x)
+|-
+|<font color="PURPLE">SHADOW</font>
+|WEAK (1.25x)
+|-
+|<font color="#f02ae0">POISON</font>
+|NEUTRAL (1x)
+|-
+| colspan="3" |Base HP: 12000
+|-
+| colspan="3" |Damage: <font color="ORANGE">FIRE</font>
+|-
+| colspan="3" |Can inflict: [[File:Status Fire.png|frameless|20x20px]]<font COLOR="ORANGE">BURNING</font>
+|-
+| colspan="3" |Phases: 2
+|}
+
+== Strategy ==
+Corus' fight consists of two phases. In the first phase he releases constant barrages of fire balls spread throughout the battlefield with every attack. He can also jump high into the air and throw down a larger fireball that leaves a lingering puddle that damages his opponents.
+
+Upon death, he gets engulfed in blue flames and enters his second phase. In this phase the majority of the fireballs he launches leave an addition puddle of fire covering the floor of the battlefield. Additionally, his jump attack leaves a pillar of flames which lingers and grows overtime. Combined with the puddles, Corus leaves his battlefield mostly untraversable allowing little room to avoid his onslaught of attacks when he's close.
+
+== Credits ==
+Made by Beyond and Mantibro 
+
+Music: [https://youtu.be/_ysPpT7-f4o?si=Yyf1syBzIlFDa32U Heaven Pierce Her, ULTRAKILL OST - No Devil Lived On]
+
+First appear in [https://sots.terror.moe/compendium/corus Terrors of Nowhere - Star of the Show]!

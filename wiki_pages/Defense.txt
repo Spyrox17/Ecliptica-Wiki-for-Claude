@@ -1,0 +1,27 @@
+== Inaccuracies of the Defense Stat ==
+
+=== Adding defense ===
+You will notice very quickly that the amount of defense you gain from upgrades is entirely inaccurate. This is because Defense is actually not a real stat, rather it is a translated number based on the actual stat which internally is referred to as Damage Taken with the formula being:
+
+1/DamageTaken
+
+Rather than ''adding'' to a Defense stat, upgrades instead ''subtract'' that value from your Damage Taken, which is a multiplier to how much damage you take. In practice this means most defense upgrades will add significantly more to your Defense% than they say they do, which will get exponentially higher the more of them you have (even after hitting the falloff point of 200% Defense, or 0.5 Damage Taken.)
+
+Using conductive armor as a prime example, rather than increasing your Physical Defense by 20%, it instead subtracts 0.2 (or 20%) from your "Physical Damage Taken". This means you will take 20% less damage from physical attacks and it will show up on the board as 125% Physical Defense.
+
+Adding a second Conductive Armor will subtract another 0.2, bringing you down to 40% less damage taken from physical attacks. You would expect this to be 140% Physical Defense, but it will actually show up as 167% Physical Defense.
+
+A third will begin to hit the soft cap, but you will still hit 240% Physical Defense (Or 0.42 Physical Damage Taken) despite expecting to be at 160%, double the expected value.
+
+=== Subtracting Defense ===
+This affects how much defense is removed by any upgrade in the same way but reversed. Rather than subtracting your Defense% it adds to your Damage Taken stat by that amount, meaning you will actually lose less defense than an upgrade says you will. 
+
+=== In Practice ===
+To get the amount of damage you will actually take, you can simply divide by your Defense%. With 200% Overall Defense for example, you will take half damage as expected. The inaccuracy of the defense stat only applies to how much defense you actually end up gaining.
+
+== Defense Calculations ==
+The full formula for how much damage you'll take comes out to:
+
+Damage(DamageTaken x ElemDamageTaken) x (Breached Multiplier) x (Enforced Multiplier) x (Enemy Weakened Multiplier)
+
+Where the multipliers for Breached, Enforced, and Weakened of course only apply if you or the enemy are actively being affected by them. The multipliers for these can be found on the [[Status Effects]] page.

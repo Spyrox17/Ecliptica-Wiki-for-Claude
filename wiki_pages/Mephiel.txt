@@ -1,0 +1,56 @@
+== Lore ==
+After an unsuccessful attempt to murder his brother Veelch, Mephiel, known as the Corrupt God of Dominion, was imprisoned in a lonely dimension of his brother’s making, which only served to act as a reminder of what drove Mephiel to commit an act of treachery against his family, for it was the ability to reach into the multiverse, an ability which his brother possessed, that the Traitor greatly envied Veelch for. Mephiel, himself blessed with the innate ability to absorb the magical powers of others and use them for himself, was fully prepared to utilize his wicked power against his very own sibling to fuel his own selfish and greedy desires.
+
+After hundreds of years of isolation, Mephiel rejoiced as a dimensional interloper, DarkGrey, fell within his grasp. Seeing his one way out of his prison, he manipulated the grey goo creature to do his bidding and defeat his brother in his place. Mephiel’s plan was successful, and after acquiring the ability of dimensional travel he’s seeked for so long, he set out to amass as much power in the multiverse as he could.
+{| class="wikitable" style="background:#000000; color:#ffffff; border:1px solid #444;"
+| colspan="3" |<center>'''<big>Mephiel</big>'''</center>
+|-
+| rowspan="8" |[[File:Mephiel.png|frameless|center]]
+|Affinity
+|Resistance
+|-
+|<font color="GREY">PHYSICAL</font>
+|NEUTRAL (1x)
+|-
+|<font color="ORANGE">FIRE</font>
+|NEUTRAL (1x)
+|-
+|<font color="LIGHTBLUE">FROST</font>
+|NEUTRAL (1x)
+|-
+|<font color="YELLOW">ELECTRIC</font>
+|RESIST (0.75x)
+|-
+|<font color="#e4e08c">LUMINOUS</font>
+|WEAK (1.5x)
+|-
+|<font color="PURPLE">SHADOW</font>
+|NEUTRAL (1x)
+|-
+|<font color="#f02ae0">POISON</font>
+|NEUTRAL (1x)
+|-
+| colspan="3" |Base HP: 19000
+|-
+| colspan="3" |Damage: <font color="PURPLE">SHADOW</font>
+|-
+| colspan="3" |Can inflict: [[File:Status Bleed.png|frameless|20x20px]]<font COLOR="DARKRED">BLEEDING</font>, [[File:Status Breach.png|frameless|20x20px]]<font COLOR="LIGHTGREY">BREACHED</font> and [[File:Status Decay.png|frameless|20x20px]]<font COLOR="#87FF73">DECAY</font>
+|-
+| colspan="3" |Phases: 2
+|}
+
+== Strategy ==
+The Mephiel fight consists of 2 phases. Phase 2 has a greatly expanded moveset and previous moves are enhanced.
+
+Mephiel is a boss with a bullet-hell focused style, covering with swathes of the arena in hazards. In phase 2, Mephiel will gain the ability to fly, leaving players with a period more focused on surviving rather than damaging the boss.
+
+Mephiel possesses a powerful rotating pizza cutter move, requiring players to rotate around.
+
+== Credits ==
+Made by Scena and Mantibro
+
+Voiced by WanderBlues
+
+Music Phase 1: [https://youtu.be/kRN-DYgSOeQ?si=_UV4d5xi6FmpMtc0 Kenji Kawai (Mob Psycho 100 OST) - Mob Kanjou no Bakuhatsu]
+
+Music Phase 2: [https://youtu.be/yqYkZ1etjnY?si=F_nEo-1xYnXVe2jp Jean-Michel Jarre - Chronology, Part 2]

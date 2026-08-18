@@ -1,0 +1,59 @@
+Artifacts are a key form of progression in Ecliptica, they serve as an extra task to do before you can fight the [[Bosses|boss]] on each floor. 
+
+Artifacts held actually dictates what [[Maps|Map]] you go to next. 
+
+In future versions, Artifacts sacrificed will also dictate what boss you will face at the [[Difficulty Modifier|Eye of the Eclipse]], though as of the Patreon Demo Playtest, you will always face [[Bosses|Jim C. Bringer]]. 
+
+There are currently seven artifacts, and each can give stat bonuses to everyone for the troubles of bringing them to the dimensional teleporter.
+
+If an Artifact is the last objective before gathering to the Dimensional Teleporter, everyone will be granted a [[Status Effects|Haste]] status effect until one is successfully sacrificed to the Dimensional Teleporter.
+
+{| class="wikitable" style="background:#000; color:#fff; border:1px solid #444;"
+! style="background:#000000; color:#ffffff;" | Name !! style="background:#000000; color:#ffffff;" | Image
+! style="background:#000000; color:#ffffff;" | The Party will Receive
+! style="background:#000000; color:#ffffff;" | Likelihood You Should Take This
+|-
+|Encrypted Archive
+|[[File:Encrypted Archive.png|center|frameless|128x128px]]
+|Utility Cooldown -5%
+Movement Speed +5%
+|★★★
+Lower Utility Cooldowns and Higher Movement Speed is always ideal.
+|-
+|Goblet of the Sun
+|[[File:Goblet.png|center|frameless|128x128px]]
+|<font COLOR="#e4e08c">LUMINOUS</font> Damage +8%
+<font COLOR="PURPLE">SHADOW</font> Defense +8%
+|★☆☆
+No class would benefit from the Damage besides Gunmancer: Photon Condenser or Twinmage. Though the Defense is nice.
+|-
+|HC Armor Plating
+|[[File:HC Armor Plating.png|center|frameless|128x128px]]
+|<font COLOR="GREY">PHYSICAL</font> Defense +7%
+|★★☆
+Probably the most ideal, since the last fight will always be Jim C. Bringer (as of the 0.5 Demo Playtest),
+|-
+| Heart of Cinders || [[File:Heart of Cinders.png|center|frameless|128x128px]]
+|<font COLOR="GREEN">ELEMENTAL</font> Defense +6%
+|★★☆
+Very easy to build, helps during the later phases where bosses deal high elemental damage. Though falls down in favour quite drastically when you get to the later phases.
+|-
+|Essence of Malice
+|[[File:Orb of Maliss.png|center|frameless|128x128px]]
+|<font COLOR="PURPLE">SHADOW</font> Damage +6%
+<font COLOR="#e4e08c">LUMINOUS</font> Defense +6%
+|★★☆
+More classes would benefit from this than Goblet of the Sun, though it wouldn't help the overall team as much as other options.
+|-
+|Wheel of Reincarnation
+|[[File:Wheel of Reincarnation.png|center|frameless|128x128px]]
+|Received Healing +3%
+Maximum HP +5
+|★★★
+Helps increase survivability, who doesn't like extra Health. Almost always ideal.
+|-
+| Sealed Megium || [[File:Megium.png|center|frameless|128x128px]]
+|Damage +3%
+|★★★
+An Overall Damage increase, regardless, is always really good.
+|}

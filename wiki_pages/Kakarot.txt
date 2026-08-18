@@ -1,0 +1,54 @@
+== Lore ==
+The carrot emerges from the soil of its own volition, and stands before the Plantsman. The Plantsman keels down closer to the new sprout, petting it on the leaf.
+
+"You're smaller than I expected, but this can still work. You see these fields? This is your home. Our home. Storms are brewing, and there are bad things out there that want to hurt out home. I need you to protect it while I'm gone. Can you do this?"
+
+The carrot churns, it's fist launching forward and connecting with the Being before it. The Plantsman chuckles loudly. Yes, you will make for a fine keeper.
+{| class="wikitable" style="background:#000000; color:#ffffff; border:1px solid #444;"
+| colspan="3" |<center>'''<big>Kakarot</big>'''</center>
+|-
+| rowspan="8" |[[File:Kakarot.png|frameless|center]]
+|Affinity
+|Resistance
+|-
+|<font color="GREY">PHYSICAL</font>
+|NEUTRAL (1x)
+|-
+|<font color="ORANGE">FIRE</font>
+|NEUTRAL (1x)
+|-
+|<font color="LIGHTBLUE">FROST</font>
+|NEUTRAL (1x)
+|-
+|<font color="YELLOW">ELECTRIC</font>
+|NEUTRAL (1x)
+|-
+|<font color="#e4e08c">LUMINOUS</font>
+|NEUTRAL (1x)
+|-
+|<font color="PURPLE">SHADOW</font>
+|NEUTRAL (1x)
+|-
+|<font color="#f02ae0">POISON</font>
+|NEUTRAL (1x)
+|-
+| colspan="3" |Base HP: 5800
+|-
+| colspan="3" |Damage: <font color="GREY">PHYSICAL</font> 
+|-
+| colspan="3" |Can inflict: -
+|-
+| colspan="3" |Phases: 1
+|}
+
+== Strategy ==
+The Kakarot battle consists of 1 phase.
+
+Kakarot will alternate between a powerful forward slam, and a spread of small AoEs around him
+
+For targets at a distance, Kakarot may throw rocks or leap upwards with low accuracy.
+
+== Credits ==
+Made by Have and Mantibro
+
+Music: [https://youtu.be/FTRsxfE1WIU?si=UrziH_sZE1r1JVfQ Solaris - Alien Song]

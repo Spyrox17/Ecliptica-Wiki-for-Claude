@@ -1,0 +1,139 @@
+== Player Statistics ==
+Your stats are the biggest contributor to making each run unique, being the core of your character and the basis of your build. They will vary heavily depending on your selection of [[Classes|Class]], [[Upgrades]], [[Artifacts]], and [[Runes]]. 
+
+Despite a lot of upgrades technically being linear, many stats are subject to their own individual falloff points which will be defined on this page. 
+
+Stats that have hit their falloff point it will be denoted with a red arrow (<font COLOR="RED">▼</font>) pointing down, indicating they have hit their soft cap and will gain increasingly less value after that point. Hard caps are not technically true hard caps, but to go above or even hit the hard caps requires potentially hundreds of an upgrade, making it impossible during normal gameplay. 
+
+A majority of stats will show on the stat board between rounds, but some hidden stats will also be detailed below. 
+
+== Health ==
+
+=== '''Max Health''' ===
+Defines how many points of damage you are able to take before being downed. Your base Max Health will vary depending on your class selection. Once the character reaches 20%, or "low health", the health bar will turn red, the screen will darken, and sound will become muffled.
+
+=== Health Regeneration ===
+All classes will naturally heal 1 health every 2 seconds, regardless of Max Health. Increasing this stat will increase the rate at which you heal, but not the amount. Taking any damage delays natural health regeneration by 5 seconds, which is also improved by Health Regeneration.
+
+* The delay includes any status effects that do damage over time, effectively halting your natural health regeneration for the duration. It is possible to offset this with an incredibly high Health Regeneration.
+
+=== Death ===
+Upon reaching zero HP, you will become downed. While downed, you cannot move or use any abilities. Other players may revive you at the cost of 50% of their Max Health, which will inflict you with [[Status Effects|Mortal Curse]]. You will be revived with 25% of your Max Health.
+
+* The health cost of reviving can be reduced or completely negated by some effects, notably Healthy Guard and the brief invulnerability during [[Spellsword|Quick Dash]]. However it is not affected by the Defense stat.
+* Mortal Curse will be removed once upon summoning a boss.
+* You can technically move very slowly whiled downed, but it is slow enough that you may as well not be.
+
+== Attack Speed ==
+'''Attack Speed''' defines how often some skills can be fired, multiplying their base attack speed. 
+
+* This includes all Primaries and a majority of Secondary Skills.
+* Increasing attack speed also slowly decreases your chance to inflict [[Status Effects]], but higher attack speed will still always result in you inflicting an overall higher number of status effects* (Needs to be confirmed.)
+* Attack Speed has a soft cap of 250% and a hard cap of 400%
+* The Frenzied status effect and the Spellsword: Burst upgrades can take the player above the attack speed cap.
+
+== Projectile Speed ==
+'''Projectile Speed''' multiplies the base speed all projectiles travel, including those from upgrades. 
+
+* This does not increase the range a projectile can travel.
+* Only effects physical projectiles and has no effect on hit-scan skills such as [[Gunmancer|VA-11 Blast Cannon]].
+* Projectile Speed has a soft cap of 250%. and a hard cap of 400%
+
+== Movement Speed ==
+'''Movement Speed''' multiplies the base speed that the player travels.
+
+* All classes begin with the same base speed of 7 meters a second.
+* Movement Speed also increases the distance of some movement skills.
+* Movement Speed has a soft cap of 150% and a hard cap of 200%
+* The Haste status effect can take the player above the movement speed cap.
+
+== Jumping ==
+
+=== '''Jump Height''' ===
+Increases the height gained during the jump action. 
+
+* Players have a base jump height of 1 meter.
+* Jump Height can also improve the strength of some skills, notably a majority of the skills of [[Spellhammer]].
+
+=== Extra Jumps ===
+Increases the number of times the player can jump before needing to touch the ground again.
+
+== Healing Received ==
+'''Healing Received''' multiplies how much health you gain from all sources of healing.
+
+* Has no effect on natural Health Regeneration.
+* Has a hard cap of 200%
+
+== Critical Strikes ==
+Main Article: [[Critical Strikes]]
+
+=== Critical Strike Chance ===
+Your chance per hit to critically strike your enemy, applying a separate multiplier to the attack based on your Critical Damage stat.
+
+* Soft cap of 32% and a hard cap of 60%
+
+=== Critical Strike Damage ===
+The multiplier applied to attacks that critically hit an enemy.
+
+* Has a hard cap of 385%
+
+== Knockback Resistance ==
+'''Knockback Resistance''' inversely reduces how far the player will be knocked back by the attacks of enemies. In other words, doubling your Knockback Resistance will halve how much knockback you take. (Needs to be confirmed.)
+== Utility Cooldown Rate ==
+'''Utility Cooldown Rate''' multiplies the rate that your utility skill comes off of cooldown. 
+
+* Many in-game sources will show as subtracting your utility cooldown, but it is actually adding to your utility cooldown rate.
+
+* Utility Cooldown Rate has a soft cap of 200% and a hard cap of 300%
+
+== Defense ==
+Main Article: [[Defense]]
+
+See the main article to see how Defense is calculated.
+
+=== '''Overall Defense''' ===
+Modifies the damage you take against all damage types.
+
+* This is multiplicative with Elemental Defense.
+* Tank Buster attacks entirely ignore Overall Defense, whether positive or negative.
+* Has a soft cap of 200%.
+
+=== Elemental Defense ===
+Modifies the damage you take from damage of the specified element.
+
+* This is multiplicative with Overall Defense.
+* Tank Buster attacks entirely ignore Elemental Defense, whether positive or negative.
+* Has a soft cap of 200%.
+
+== Damage ==
+Main Page: [[Damage]]
+
+=== Overall Damage ===
+Multiplies the damage output of all skills and upgrades.
+
+* This is multiplicative with Elemental Damage.
+
+=== Elemental Damage ===
+Multiplies the damage of all skills and upgrades that deal the specified damage type.
+
+* This is multiplicative with Overall Damage.
+* Has a soft cap of 350% and a hard cap of 575%
+
+== Status Effects ==
+Main Page: [[Status Effects]]
+
+=== '''Status Effect Chance''' ===
+Improves your ability to apply the status related to a specified elemental damage type. 
+
+* Does not grant the ability for unrelated elemental damage to apply status effects, i.e. bleed can ONLY be applied by physical damage.
+* Most [[bosses]] drastically reduce your chance to apply status effects to them.
+* Increasing attack speed also slowly decreases your chance to inflict status effects, but higher attack speed will still always result in you inflicting an overall higher number of status effects.
+
+=== Status Effect Resistance ===
+Reduces the duration of specified negative status effects applied to you.
+
+== Purple Damage Reduction ==
+This stat reduces the damage you take from Purple Attacks.
+
+* It is completely unique to the [[Shield Mage]] class.
+* Has a cap of 70%.

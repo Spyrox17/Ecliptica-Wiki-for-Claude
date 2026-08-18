@@ -1,0 +1,35 @@
+Classes are your first choice in playing Ecliptica and there are currently 8 of them to choose from:
+
+Each boast unique combat abilities, HP values and evasive moves to help with your class.
+
+Click on the Class Icon to learn more about each class.
+
+You may change your Class mid-run at the Eclipse Black Hole when in The In-Between, however you will only get 95% of your total tokens at that point back.
+{| class="wikitable" style="background:#000000; border:1px solid #555; color:#ffffff; margin:0 auto;"
+! style="background:#000000; color:#ffffff;" | Class
+! style="background:#000000; color:#ffffff;" | Short Description
+|-
+|[[File:Class1.png|frameless|link=https://ecliptica.miraheze.org/wiki/Spellsword|center|200x200px]]<center>Spellsword</center>
+|Agile close to mid-range fighter, able to dash in and out of combat.
+|-
+|[[File:Class2.png|frameless|link=https://ecliptica.miraheze.org/wiki/Twinmage|center|200x200px]]<center>Twinmage</center>
+|Versatile dual element user specialising in status ailments.
+|-
+|[[File:Class3.png|frameless|link=https://ecliptica.miraheze.org/wiki/Gunmancer|center|200x200px]]<center>Gunmancer</center>
+|Powerful long-range marksman focused on heavy damage.
+|-
+|[[File:Class4.png|frameless|link=https://ecliptica.miraheze.org/wiki/Fistmage|center|200x200px]]<center>Fistmage</center>
+|Bulky close-range berserker able to parry incoming damage. 
+|-
+|[[File:Class5.png|frameless|link=https://ecliptica.miraheze.org/wiki/Spellhammer|center|200x200px]]<center>Spellhammer</center>
+|Dextrous and durable warrior, dealing swift and heavy hits.
+|-
+|[[File:Class6.png|frameless|link=https://ecliptica.miraheze.org/wiki/Shield_Mage|center|200x200px]]<center>Shield Mage</center>
+|Frontline defender able to block incoming strikes. 
+|-
+|[[File:Class7.png|frameless|link=https://ecliptica.miraheze.org/wiki/Thaumaturge|center|200x200px]]<center>Thaumaturge</center>
+|Healer which converts dealt damage into health for allies.
+|-
+|[[File:Class8.png|frameless|link=https://ecliptica.miraheze.org/wiki/Nekomancer|center|200x200px]]<center>Nekomancer</center>
+|Summoner commanding a troop of undead cats.
+|}

@@ -1,0 +1,202 @@
+Bosses are incredibly strong [[enemies]] which serve as your final obstacle for completing a floor, and are the primary threat of Ecliptica. 
+
+* Certain bosses may only appear if your [[Difficulty Modifier|phase]] meets a certain threshold.
+* Some bosses are split between phases, this is shown in the "Phase Requirement" column.
+** Early meaning "First Half" and Late meaning "Second Half". 
+** Any boss with just one phase in its requirement can appear at any time during that phase.
+
+Bosses all boast unique abilities, move-sets and also have their own Weaknesses and Resistances.
+
+* [[Status Effects]] triggered against bosses are less effective, though will still work.
+* <font COLOR="PURPLE">PURPLE</font> attacks will bypass your Defense, so if you see it charge one up, run away!
+* Being the Last Man Standing against a Boss in an instance with 5 or more people will grant you the [[File:Status adrenaline.png|frameless|16x16px]]<font COLOR="#FFFF33">ADRENALINE </font>[[Status Effects|status effect]].
+Some bosses are contributor made, or voiced by other contributors, see the full list [[Contributors|here]].
+
+== Boss List ==
+In order of possible appearance from starting difficulty to the ending difficulty:
+{| class="wikitable" style="background:#000; color:#fff; border:1px solid #444;"
+|+
+! style="background:#000000; color:#ffffff;" | Icon
+! style="background:#000000; color:#ffffff;" | Boss
+! style="background:#000000; color:#ffffff;" | Description
+! style="background:#000000; color:#ffffff;" | Phase Requirement
+|-
+|[[File:Maxipuss Icon.png|center|frameless|128x128px]]
+|[[Maxipuss]]
+|The Rodent Hunter 
+|Prime
+|-
+|[[File:DarkMouth Icon.png|center|frameless|128x128px]]
+|[[Darkmouth]]
+|Eater of Fields
+|Prime
+|-
+|[[File:Kakarot Icon.png|center|frameless|128x128px]]
+|[[Kakarot]]
+|Keeper of the Garden
+|Prime
+|-
+|[[File:NaN Icon.png|center|frameless|128x128px]]
+|[[NaN]]
+|An Elemental Machine
+|Prime
+|-
+|[[File:BeelzebubIcon.png|center|frameless|128x128px]]
+|[[Beelzebub]]
+|Lord of the Flies
+|Prime
+|-
+|[[File:Buff Noob Icon.png|center|frameless|128x128px]]
+|[[Buff Noob]]
+|Can You Lift?
+|Prime
+|-
+|[[File:Vesra Icon.png|center|frameless|128x128px]]
+|[[Vesra]]
+|Grand Matriarch of Peltapods
+|Late Prime
+Early Penumbra
+|-
+|[[File:Pride Icon.png|center|frameless|128x128px]]
+|[[Pride]]
+|Prideful of Power 
+|Late Prime
+Early Penumbra
+|-
+|[[File:Steven Icon.png|center|frameless|128x128px]]
+|[[Steven]]
+|Protector of the Pancakes
+|Penumbra
+|-
+|[[File:Kodama Icon.png|center|frameless|128x128px]]
+|[[Kodama]]
+|A Curse Incarnate
+|Penumbra
+|-
+|[[File:Gravetender Icon.png|center|frameless|128x128px]]
+|[[The Gravetender]]
+|The Aperture's Demon
+|Penumbra
+|-
+|[[File:Black Lily Icon.png|center|frameless|128x128px]]
+|[[The Black Lily]]
+|A Swarming Illuminate
+|Late Penumbra
+Early Antumbra
+|-
+|[[File:NX Obsidian Icon.png|center|frameless|128x128px]]
+|[[NX-Obsidian]]
+|STATUS SET: DESTROY
+|Late Penumbra
+Early Antumbra
+|-
+|[[File:Middleman Icon.png|center|frameless|128x128px]]
+|[[Middleman]]
+|The Power of Megium
+|Late Penumbra
+Early Antumbra
+|-
+|[[File:Melon Icon.png|center|frameless|128x128px]]
+|[[Melgor Johnson]]
+|The Fallen Employee
+|Antumbra
+|-
+|[[File:AmaziahIcon.png|center|frameless|128x128px]]
+|[[Amaziah]]
+|KILL YOU KILL YOU KILL YOU
+|Antumbra
+|-
+|[[File:JackedOLantern Icon.png|center|frameless|128x128px]]
+|[[Jacked O' Lantern]]
+|Bad Things, Good People
+|Antumbra
+|-
+|[[File:Despair Icon.png|center|frameless|128x128px]]
+|[[Despair]]
+|Harbinger of the Hopeless
+|Late Antumbra
+Early Umbra
+|-
+|[[File:M41D Icon.png|center|frameless|128x128px]]
+|[[M-41-D]]
+|The Servant Alloy 
+|Late Antumbra
+Early Umbra
+|-
+|[[File:Corus Icon.png|center|frameless|128x128px]]
+|[[Corus]]
+|The First Chorus
+|Umbra
+|-
+|[[File:Yuki Icon.png|center|frameless|128x128px]]
+|[[Yuki]]
+|Ice-born Android
+|Umbra
+|-
+|[[File:Cone Head Icon.png|center|frameless|128x128px]]
+|[[Cone Head]]
+|The Urban Samurai
+|Umbra
+|-
+|[[File:Mephiel Icon.png|center|frameless|128x128px]]
+|[[Mephiel]]
+|The Treacherous
+|Late Umbra
+Early Eclipse
+|-
+|[[File:Irides Icon.png|center|frameless|128x128px]]
+|[[Irides]]
+|The Crystalline Prototype
+|Late Umbra
+Early Eclipse
+|-
+|[[File:Golden Grouch Icon.png|center|frameless|128x128px]]
+|[[Golden Grouch]]
+|The Forever Trapped
+|Late Umbra
+Early Eclipse
+|-
+|[[File:AbbadonIcon.png|center|frameless|128x128px]]
+|[[Abaddon]]
+|Demon of Destruction
+|Eclipse
+|-
+|[[File:Khepri Icon.png|center|frameless|128x128px]]
+|[[Khepri]]
+|The Ant King
+|Eclipse
+|-
+|[[File:Pandora Icon.png|center|frameless|128x128px]]
+|[[Pandora]]
+|The Arrogance Safeguard
+|Eclipse
+|-
+|[[File:Bravera Icon.png|center|frameless|128x128px]]
+|[[Bravera]]
+|The Opton Commander
+|Late Eclipse
+|-
+|[[File:O One Icon.png|center|frameless|128x128px]]
+|[[O-One]]
+|The First Opton
+|Late Eclipse
+|-
+|[[File:Neo Pilot Icon.png|center|frameless|128x128px]]
+|[[Neo Pilot]]
+|Empress of FOX
+|Late Eclipse
+|}
+
+== Eye of the Eclipse Bosses ==
+Eye of the Eclipse bosses are unique, such that they can only be fought if the correct [[Artifacts|Artifact]] was brought to the Dimensional Gate AND if it was the most sacrificed one. As of the v0.5 Patreon Playtest, only Jim C. Bringer exists as the final boss, though more will be added and will require their associated artifact to be sacrificed the most to face them.
+{| class="wikitable" style="background:#000; color:#fff; border:1px solid #444;"
+! style="background:#000000; color:#ffffff;" | Icon
+! style="background:#000000; color:#ffffff;" | Boss
+! style="background:#000000; color:#ffffff;" | Description
+! style="background:#000000; color:#ffffff;" | Associated Artifact
+|-
+|[[File:Jim C. Bringer Icon.png|center|frameless|128x128px]]
+|[[Jim C. Bringer]]
+|The Man of Many Titles
+|HC Armor Plating
+|}

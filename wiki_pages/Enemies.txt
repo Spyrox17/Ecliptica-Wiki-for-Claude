@@ -1,0 +1,296 @@
+Enemies refers to the many antagonistic creatures and entities you will find through the game.
+
+Enemies are phase-based and can only spawn from a certain point onwards and can stop spawning at different phases too.
+
+Like bosses, enemies also inflict <font color="LIGHTGREEN">buffs</font> or <font color="RED">debuffs</font> and attack with different <font color="GREEN">ELEMENTAL</font> types. Enemies also have different elemental affinities and will be added at some point in the future.
+
+== Enemy List ==
+{| class="wikitable sortable mw-collapsible" style="background:#000000; border:1px solid #555; color:#ffffff; margin:0 auto;"
+! style="background:#000000; color:#ffffff;" | Enemy
+! style="background:#000000; color:#ffffff;" | Starting Phase
+! style="background:#000000; color:#ffffff;" | Damage Type
+! style="background:#000000; color:#ffffff;" | Picture
+|-
+|Fly
+|Prime
+|<font color="GREY">PHYSICAL</font>
+|[[File:Fly.png|frameless]]
+|-
+|Voltwall
+|Prime
+|<font color="YELLOW">ELECTRIC</font>
+Can inflict the [[File:Status Stun.png|frameless|20x20px]]<font color="YELLOW">PARALYZED</font> debuff
+|[[File:Voltwall.png|center|frameless]]
+|-
+|Frost Sac
+|Prime
+|<font color="LIGHTBLUE">FROST</font>
+Can inflict the [[File:Status Frozen.png|frameless|20x20px]]<font color="LIGHTBLUE">FROZEN</font> debuff
+|[[File:Frost Sac.png|center|frameless]]
+|-
+|Peltapod
+|Prime
+|<font color="GREY">PHYSICAL</font>
+Can inflict the [[File:Status_Bleed.png|frameless|20x20px]]<font color="RED">BLEEDING</font> debuff
+
+Can <font color="GREY">BLOCK</font> attacks in front of it
+|[[File:Peltapod.png|center|frameless]]
+|-
+|Acolyte
+|Late Primal
+|<font color="GREY">PHYSICAL</font>, <font color="#f02ae0">POISON</font>
+Can inflict the <font color="#f02ae0">[[File:Status_Poison.png|frameless|20x20px]]POISONED</font> debuff
+|[[File:Acolyte.png|center|frameless]]
+|-
+|Lava Sac
+|Late Primal
+|<font color="ORANGE">FIRE</font>
+Can inflict the [[File:Status Fire.png|frameless|20x20px]]<font color="ORANGE">BURNING</font> debuff
+|[[File:Lava Sac.png|center|frameless]]
+|-
+|Too Tired
+|Late Primal
+|<font color="GREY">PHYSICAL</font>
+|[[File:TooTired.png|center|frameless]]
+|-
+|Cone Bomber
+|Penumbra
+|<font color="GREY">PHYSICAL</font>, <font color="PURPLE">PURPLE</font>
+|[[File:ConeBomber.png|center|frameless]]
+|-
+|Cone Enforcer
+|Penumbra
+|<font color="GREY">PHYSICAL</font>
+Uses the [[File:Status Stop.png|frameless|20x20px]]<font color="RED">RED LIGHT</font>, [[File:Status Go.png|frameless|20x20px]]<font color="LIGHTGREEN">GREEN LIGHT</font> Mechanic
+|[[File:Cone Enforcer.png|center|frameless]]
+|-
+|Ice Squid
+|Penumbra
+|<font color="LIGHTBLUE">FROST</font>
+Can inflict the [[File:Status Frozen.png|frameless|20x20px]]<font color="LIGHTBLUE">FROZEN</font> debuff
+|[[File:Ice Squid.png|center|frameless]]
+|-
+|Black Lily Token
+|Penumbra
+|<font color="#e4e08c">LUMINOUS</font>
+Can inflict the [[File:Status Weak.png|frameless|20x20px]]<font color="BROWN">WEAKENED</font> debuff
+|[[File:BlackLilyToken.png|center|frameless]]
+|-
+|Black Lily Token
+|Penumbra
+|<font color="#e4e08c">LUMINOUS</font>
+Can inflict the [[File:Status Weak.png|frameless|20x20px]]<font color="BROWN">WEAKENED</font> debuff
+|[[File:BlackLilyToken 2.png|center|frameless]]
+|-
+|Carnie
+|Penumbra
+|<font color="ORANGE">FIRE</font>, <font color="#f02ae0">POISON</font>
+Can inflict the [[File:Status Fire.png|frameless|20x20px]]<font color="ORANGE">BURNING</font> and <font color="#f02ae0">[[File:Status_Poison.png|frameless|20x20px]]POISONED</font> debuff
+
+All area based attacks are <font color="PURPLE">PURPLE</font> attacks
+|[[File:Carnie.png|center|frameless]]
+|-
+|Curious Creature
+|Penumbra
+|<font color="GREY">PHYSICAL</font>
+Can inflict the [[File:Status Bleed.png|frameless|20x20px]]<font color="RED">BLEEDING</font> debuff
+
+Can <font color="GREY">BLOCK</font> attacks in front of it
+|[[File:CuriousCreature.png|center|frameless]]
+|-
+|Voltwalker
+|Penumbra
+|<font color="YELLOW">ELECTRIC</font>
+Can inflict the [[File:Status Stun.png|frameless|20x20px]]<font color="YELLOW">PARALYZED</font> debuff
+|[[File:Voltwalker.png|center|frameless]]
+|-
+|Lizord
+|Late Penumbra
+|<font color="ORANGE">FIRE</font>
+Can inflict the [[File:Status Fire.png|frameless|20x20px]]<font color="ORANGE">BURNING</font> debuff
+|[[File:Lizord.png|center|frameless]]
+|-
+|Manalyte
+|Late Penumbra
+|<font color="PURPLE">SHADOW</font>
+Can inflict the [[File:Status Breach.png|frameless|20x20px]]<font color="LIGHTGREY">BREACHED</font> debuff
+|[[File:Manalyte.png|center|frameless]]
+|-
+|Ash Horn
+|Antumbra
+|<font color="ORANGE">FIRE</font>
+Can inflict the [[File:Status Fire.png|frameless|20x20px]]<font color="ORANGE">BURNING</font> debuff
+|[[File:Ash Horn.png|center|frameless]]
+|-
+|Concrete Revanent
+|Antumbra
+|<font color="GREY">PHYSICAL</font>
+|[[File:Concrete Golem.png|frameless]]
+|-
+|Mother Sac
+|Antumbra
+|<font color="ORANGE">FIRE</font> and <font color="LIGHTBLUE">FROST</font>
+Can inflict the [[File:Status Fire.png|frameless|20x20px]]<font color="ORANGE">BURNING</font> and [[File:Status Frozen.png|frameless|20x20px]]<font color="LIGHTBLUE">FROZEN</font> debuff
+|[[File:Mother Sac.png|center|frameless]]
+|-
+|Volt Buster
+|Antumbra
+|<font color="YELLOW">ELECTRIC</font>
+Can inflict the <font color="YELLOW">[[File:Status Stun.png|frameless|20x20px]]PARALYZED</font> debuff
+|[[File:Voltbuster.png|center|frameless]]
+|-
+|Aspiopod
+|Umbra
+|<font color="GREY">PHYSICAL</font>
+Can <font color="GREY">BLOCK</font> attacks in front of it
+|[[File:Aspiopod.png|center|frameless|300x300px]]
+|-
+|Black Virtue
+|Umbra
+|<font color="#e4e08c">LUMINOUS</font>
+Can inflict the [[File:Status Weak.png|frameless|20x20px]]<font color="BROWN">WEAKENED</font> and [[File:Status_Decay.png|frameless|20x20px]]<font color="#76E065">DECAYED</font> debuff
+|[[File:Black Virtue.png|center|frameless]]
+|-
+|Big Sigma
+|Umbra
+|<font color="#e4e08c">LUMINOUS</font>
+Can inflict the [[File:Status Weak.png|frameless|20x20px]]<font color="BROWN">WEAKENED</font> and [[File:Status_Decay.png|frameless|20x20px]]<font color="#76E065">DECAYED</font> debuff
+|[[File:Big Sigma.png|center|frameless]]
+|-
+|Cloud Dragonkin
+|Umbra
+|<font color="ORANGE">FIRE</font> and <font color="YELLOW">ELECTRIC</font>
+Can inflict the [[File:Status Fire.png|frameless|20x20px]]<font color="ORANGE">BURNING</font> and [[File:Status Stun.png|frameless|20x20px]]<font color="YELLOW">PARALYZED</font> debuff
+|[[File:Cloud Dragonkin.png|center|frameless]]
+|-
+|Elder Manalyte
+|Umbra
+|<font color="PURPLE">SHADOW</font>
+Can inflict the [[File:Status Breach.png|frameless|20x20px]]<font color="LIGHTGREY">BREACHED</font> debuff
+|[[File:Elder Manalyte.png|center|frameless]]
+|-
+|Shamanic Compound
+|Umbra
+|<font color="GREY">PHYSICAL</font>, <font color="#f02ae0">POISON</font>
+Can inflict the <font color="#f02ae0">[[File:Status_Poison.png|frameless|20x20px]]POISONED</font> and [[File:Status_Decay.png|frameless|20x20px]]<font color="#76E065">DECAYED</font> debuff
+|[[File:Shamanic Compound.png|center|frameless]]
+|-
+|Eclipse Warden
+|Late Umbra
+|<font color="#e4e08c">LUMINOUS</font>
+Can inflict the [[File:Status Weak.png|frameless|20x20px]]<font color="BROWN">WEAKENED</font> and [[File:Status_Decay.png|frameless|20x20px]]<font color="#76E065">DECAYED</font> debuff
+|[[File:Eclipse Warden.png|center|frameless]]
+|-
+|Peltapod Guard
+|Eclipse
+|<font color="GREY">PHYSICAL</font>
+Grants itself [[File:Status Empower.png|frameless|20x20px]]<font color="#ff0000">EMPOWERED</font> and [[File:Status Defense.png|frameless|20x20px]]<font color="#12ebff">ENFORCED</font> after it breaks its weapon
+|[[File:Peltapod Guard.png|center|frameless]]
+|-
+|Nightwalker
+|Eclipse
+|<font color="PURPLE">SHADOW</font>
+Can inflict the [[File:Status Breach.png|frameless|20x20px]]<font color="LIGHTGREY">BREACHED</font> debuff
+|[[File:Nightwalker.png|center|frameless]]
+|-
+|Black Chimera
+|Late Eclipse
+|<font color="#e4e08c">LUMINOUS</font>
+Can inflict the [[File:Status Weak.png|frameless|20x20px]]<font color="BROWN">WEAKENED</font> and [[File:Status_Decay.png|frameless|20x20px]]<font color="#76E065">DECAYED</font> debuff
+|[[File:Black Chimera.png|center|frameless|300x300px]]
+|}
+
+== Boss Related Enemies ==
+Some bosses will spawn in enemies to help them defeat you!
+{| class="wikitable sortable mw-collapsible" style="background:#000000; border:1px solid #555; color:#ffffff; margin:0 auto;"
+|Enemy
+|Appears In
+|Damage Type
+|Picture
+|-
+|Fly
+|Beelzebub Fight
+|<font color="GREY">PHYSICAL</font>
+Up to 9 can be on the field at once, 4 Spawn at a time
+|[[File:FlyBeelze.png|center|frameless|300x300px]]
+|-
+|Peltapod
+|Vesra Fight
+|<font color="GREY">PHYSICAL</font>
+Can inflict the [[File:Status_Bleed.png|frameless|20x20px]]<font color="RED">BLEEDING</font> debuff
+
+8 Spawn intermittently throughout Vesra's "guarded" phase
+|[[File:PeltapodVesraFight.png|center|frameless]]
+|-
+|Peltapod Guard
+|Vesra Fight
+|<font color="GREY">PHYSICAL</font>
+Grants itself [[File:Status Empower.png|frameless|20x20px]]<font color="#ff0000">EMPOWERED</font> and [[File:Status Defense.png|frameless|20x20px]]<font color="#12ebff">ENFORCED</font> after it breaks its weapon
+
+Only 1 will Spawn
+|[[File:PeltapodGuardVesra.png|center|frameless|300x300px]]
+|-
+|Black Lily Tokens
+|The Black Lily Fight
+|<font color="#e4e08c">LUMINOUS</font>
+Can inflict the [[File:Status Weak.png|frameless|20x20px]]<font color="BROWN">WEAKENED</font> debuff
+
+Only 3 can be active at a time, more will be spawned if some die
+|[[File:TokensBlackLily.png|center|frameless]]
+|-
+|Disruption Tower
+|M-41-D Fight
+|<font color="YELLOW">ELECTRIC</font>
+Can inflict the <font color="YELLOW">[[File:Status Stun.png|frameless|20x20px]]PARALYZED</font> debuff
+
+Heals M-41-D while active, two are spawned
+|[[File:M3id towers.png|center|frameless]]
+|-
+|Idol Crystal
+|Irides Fight
+|<font color="YELLOW">ELECTRIC</font>
+
+Can inflict the <font color="YELLOW">[[File:Status Stun.png|frameless|20x20px]]PARALYZED</font> debuff
+
+Heals Irides while active, three are spawned
+|[[File:Iridescrystal.png|center|frameless]]
+|-
+|Shadow Grouch
+|Golden Grouch Fight
+|Does not Attack
+Each one grants Golden Grouch a short [[File:Status_Invincible.png|frameless|20x20px]]<font color="#e739ff">INVINCIBLE</font> buff 
+|[[File:Shadow Grouch.png|center|frameless]]
+|-
+|Elder Manalytes
+|Abaddon Fight
+|<font color="PURPLE">SHADOW</font>
+Can inflict the [[File:Status Breach.png|frameless|20x20px]]<font color="LIGHTGREY">BREACHED</font> debuff
+
+3 Spawn at once, up to 6 can be on the field
+|[[File:ManalytesAbaddon.png|center|frameless]]
+|-
+|Opton Guards
+|Bravera Fight
+|<font color="GREY">PHYSICAL</font> and <font color="YELLOW">ELECTRIC</font>
+Can inflict the [[File:Status_Bleed.png|frameless|20x20px]]<font color="RED">BLEEDING</font> and <font color="YELLOW">[[File:Status Stun.png|frameless|20x20px]]PARALYZED</font> debuff
+
+2 Opton Guards Spawn
+|[[File:Opton Guards.png|center|frameless]]
+|-
+|Jim's Wedge 
+|Jim C. Bringer Fight
+Phase 1 and 2
+|<font color="GREY">PHYSICAL</font>Up to 3 can be summoned in Jim's Phase 1
+
+Up to 9 can be spawned in Phase 2
+|[[File:Wedge.png|center|frameless]]
+|-
+|The Flipper Mk. II
+|Jim C. Bringer Fight
+Phase 2
+|<font color="GREY">PHYSICAL</font> and <font color="ORANGE">FIRE</font>
+Can inflict the [[File:Status_Fire.png|frameless|20x20px]]<font color="ORANGE">BURNING</font> debuff
+
+This thing goes really fucking fast
+|[[File:Flipper.png|center|frameless]]
+|}

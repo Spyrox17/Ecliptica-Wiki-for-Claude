@@ -1,0 +1,50 @@
+== Lore ==
+A species of marsh-dwelling predators, believed to have evolved from burrowing sandworms. The dunes they used to reside in were considered low risk, and as such was used to train rookie mages in the use of gravity magic, taking advantage of the abundance of lightweight sand and soil for easy results.
+
+Due to continuous magic accumulation in the surroundings, the sand became saturated with the gravity particles, and developed a sort of natural levitation. The worms ate it regularly while tunnelling, and become light and lighter, evolving to rely less on raw strength and eventually becoming airborne altogether.
+
+Conveniently, this new shape of theirs made them a great opportunity for mages to use as target practice.
+{| class="wikitable" style="background:#000000; color:#ffffff; border:1px solid #444;"
+| colspan="3" |<center>'''<big>Darkmouth</big>'''</center>
+|-
+| rowspan="8" |[[File:Darkmouth.png|frameless|center]]
+|Affinity
+|Resistance
+|-
+|<font color="GREY">PHYSICAL</font>
+|NEUTRAL (1x)
+|-
+|<font color="ORANGE">FIRE</font>
+|NEUTRAL (1x)
+|-
+|<font color="LIGHTBLUE">FROST</font>
+|NEUTRAL (1x)
+|-
+|<font color="YELLOW">ELECTRIC</font>
+|NEUTRAL (1x)
+|-
+|<font color="#e4e08c">LUMINOUS</font>
+|RESIST (0.5x)
+|-
+|<font color="PURPLE">SHADOW</font>
+|WEAK (1.5x)
+|-
+|<font color="#f02ae0">POISON</font>
+|WEAK (1.5x)
+|-
+| colspan="3" |Base HP: 4200
+|-
+| colspan="3" |Damage: <font color="GREY">PHYSICAL</font> and <font color="#f02ae0">POISON</font>
+|-
+| colspan="3" |Can inflict: [[File:Status Poison.png|frameless|20x20px]]<font color="#f02ae0">POISON</font><font color="#f02ae0">ED</font>
+|-
+| colspan="3" |Phases: 1
+|}
+
+== Strategy ==
+Darkmouth is a simple flying battle consisting of 2 attacks while it attempts to keep a distance from its opponent. The first is a volley of poisonous projectiles that have a chance to inflict the poison debuff on contact. The other is a charge towards its target dealing significantly more damage. While it most often alternates its attacks it can occasionally change its pattern and timing in an attempt to catch its opponents off guard.
+
+== Credits ==
+Made by Have and Mantibro
+
+Music: [https://youtu.be/0UupXAcVT2U?si=wUzaZRAfuRUujRXV Ville Kallio - Combat Squad (Cruelty Squad OST)]

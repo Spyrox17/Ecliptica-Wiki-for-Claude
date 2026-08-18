@@ -1,0 +1,59 @@
+== Lore ==
+A war machine, advanced by our standards but primitive in its home dimension. As war in said dimension escalated, weapons and tactics evolved, leading to the creation of NX Constructs. Obsidian, one of the early NX models was ultimately abandoned when newer units were made. Now they are simply to rot and be forgotten in a warehouse filled with other machines much like NX-Obsidian, each carrying a single hard-coded directive: Kill.
+{| class="wikitable" style="background:#000000; color:#ffffff; border:1px solid #444;"
+| colspan="3" |<center>'''<big>NX-Obsidian</big>'''</center>
+|-
+| rowspan="8" |[[File:NX-Obsidian.png|frameless|center]]
+|Affinity
+|Resistance
+|-
+|<font color="GREY">PHYSICAL</font>
+|WEAK (1.25x)
+|-
+|<font color="ORANGE">FIRE</font>
+|RESIST (0.75x)
+|-
+|<font color="LIGHTBLUE">FROST</font>
+|RESIST (0.75x)
+|-
+|<font color="YELLOW">ELECTRIC</font>
+|RESIST (0.75x)
+|-
+|<font color="#e4e08c">LUMINOUS</font>
+|RESIST (0.75x)
+|-
+|<font color="PURPLE">SHADOW</font>
+|WEAK (1.25x)
+|-
+|<font color="#f02ae0">POISON</font>
+|NEUTRAL (1x)
+|-
+| colspan="3" |Base HP: 8400
+|-
+| colspan="3" |Damage: <font color="GREY">PHYSICAL</font> and <font color="ORANGE">FIRE</font>
+|-
+| colspan="3" |Can inflict: [[File:Status Fire.png|frameless|20x20px]]<font COLOR="ORANGE">BURNING</font>
+|-
+| colspan="3" |Phases: 1
+|}
+
+== Strategy ==
+The NX-Obsidian fight consists of 1 phase.
+
+NX-Obsidian possesses a high damage moveset, as well as an unparryable purple explosive attack. Players will need to be wary of powerful lasers which inflict heavy burn on survivors.
+
+However, NX-Obsidian is a unique case and is weak to Physical. 
+
+== Credits ==
+Made by MelonTM and Mantibro 
+
+Voiced by MelonTM
+
+Art and Design by Kejun Wang. 
+
+Music: [https://youtu.be/XlILSmGtT64?si=4XC8bXpIMQz4CF_4 Ultrakill OST - Heaven Pierce Her - Event Horizon]
+
+== Fun Facts ==
+Melon voiced this through an AI voice fliter AND a regular voice filter.
+
+All NX-Obsidian Voicelines: https://youtu.be/T7xrUbRMMi4

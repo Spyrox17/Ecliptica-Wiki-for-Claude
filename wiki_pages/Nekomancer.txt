@@ -1,0 +1,118 @@
+== Nekomancer ==
+Just because your skeletal remains have been reborn as a magical Lich Necromancer doesn't mean you can't still have your hobbies and personality.
+
+Collect SOULs which periodically spawn around the stage. Slain enemies have chance to leave a SOUL behind.
+
+== Skills ==
+
+=== [[File:Nekomancer-Souls.png|frameless|64x64px]] Passive ===
+Collect SOULs which spawn around the stage every X seconds. Slain enemies have a X% chance to leave a SOUL behind.
+
+=== [[File:Nekomancer-Primary-2.png|frameless|64x64px]] Primary: Staff of Feline Mortality ===
+Launch a projectile which deals 20 <font COLOR="PURPLE">SHADOW</font> damage. Hit enemies will be marked as a target for Undead Kitties.
+
+10% chance to inflict [[File:Status Breach.png|frameless|20x20px]]<font COLOR="#7f7f7f">BREACHED</font> status effect.
+
+=== [[File:Nekomancer-Secondary.png|frameless|64x64px]] Secondary: Call of the Undead ===
+Spend 1 SOUL to summon one of many Undead Kitties.
+
+Using the skill begins the summoning process. Pressing the skill during the summoning process allows you to select your summon, cycling through them.
+
+Summoned Undead Kitties do not inherit upgrades directly. However, they will gain an identical amount of the listed stats that the player gains from any upgrade; Elemental Damage, Overall Damage, Attack Speed, Projectile Speed, Projectile Distance, Crit Chance, Crit Damage, and Status Effect Chance.. 
+{| class="wikitable mw-collapsible" style="background:#000000; border:1px solid #555; color:#ffffff; margin:0 auto;"
+|+All Nekomancer Summons
+! style="background:#000000; color:#ffffff;" | Picture
+! style="background:#000000; color:#ffffff;" | Type
+! style="background:#000000; color:#ffffff;" | Description
+|-
+|[[File:Neko Zombie.png|center|frameless|128x128px]]
+|Zombie Kitty
+|Grounded unit that deals 25 <font color="PURPLE">SHADOW</font> Damage.
+5% chance to inflict the [[File:Status Breach.png|frameless|20x20px]]<font color="#7f7f7f">BREACHED</font> status effect.
+|-
+|[[File:Neko Balloon.png|center|frameless|128x128px]]
+|Balloon Kitty
+|Airborne unit that deals 36 <font color="ORANGE">FIRE</font> Damage.
+10% chance to inflict the [[File:Status Fire.png|frameless|20x20px]]<font COLOR="ORANGE">BURNING</font> status effect.
+|-
+|[[File:Neko Ballista.png|center|frameless|128x128px]]
+|Ballista Kitty
+|Airborne unit that deal 25 <font color="GREY">PHYSICAL</font> Damage.
+10% chance to inflict the [[File:Status Bleed.png|frameless|20x20px]]<font color="RED">BLEEDING</font> status effect.
+|-
+|[[File:Neko Totem.png|center|frameless|128x128px]]
+|Totem Kitty
+|Heals you and your allies within a small radius. Will expire after some time.
+You may only be healed by one Totem at a time.
+|}
+
+Maximum summons scales with Player count:
+{| class="wikitable" style="background:#000000; border:1px solid #555; color:#ffffff; margin:0 auto;"
+! style="background:#000000; color:#ffffff;" | Nekomancer Playercount
+! style="background:#000000; color:#ffffff;" | Maximum Summons Each
+|-
+|1-2 Nekomancers
+|3 Maximum Summons
+|-
+|3-6 Nekomancers
+|2 Maximum Summons
+|-
+|7+ Nekomancers
+|1 Maximum Summon
+|}
+
+The Maximum amount of souls you can hold is 5, souls uncollected will expire after 30 seconds.
+
+=== [[File:Nekomancer-Utility.png|frameless|64x64px]] Utility: Spirit Drift ===
+For 2 seconds, become invincible and drift forward.
+
+10 second cooldown.
+
+== Class Upgrades ==
+{| class="wikitable" style="background:#000000; border:1px solid #555; color:#ffffff; margin:0 auto;"
+|+
+! style="background:#000000; color:#ffffff;" | Image
+! style="background:#000000; color:#ffffff;" | Rarity
+! style="background:#000000; color:#ffffff;" | Skill
+! style="background:#000000; color:#ffffff;" | Description
+! style="background:#000000; color:#ffffff;" | Stack Type
+|-
+|[[File:Nekomancer Proficiency.png|center|frameless|128x128px]]
+|Common
+|Nekomancer: Proficiency
+|Chance for a slain enemy to leave a Soul: +5% (+5% per stack)
+Random Soul spawn rate: +25% (+25% per stack)
+|Linear
+|-
+|[[File:Nekomancer Death Blossom.png|center|frameless|128x128px]]
+|Rare
+|Nekomancer: Death Blossom
+|Kitty Totem Healing Speed +10% (+10% per stack)
+Kitty Totem Healing Range +1 M (+ XM per stack)
+
+Overall Damage -3% (-3% per stack)
+|Linear
+|-
+|[[File:Nekomancer Mastery.png|center|frameless|128x128px]]
+|Rare
+|Nekomancer: Mastery
+|For each soul you are holding:
+Overall Damage +2% (+2% per stack)
+
+Health Regeneration +20% (+20% per stack)
+|Linear
+|-
+|[[File:Nekomancer Soul Detonation.png|center|frameless|128x128px]]
+|Rare
+|Nekomancer: Soul Detonation
+|Upon the death of a kitty:
+A large explosion of 2 meters (+1.5 meters per stack) dealing X <font COLOR="PURPLE">SHADOW</font> Damage will be released with a 50% Chance to inflict X stacks of the the [[File:Status Breach.png|frameless|20x20px]]<font COLOR="#7f7f7f">BREACHED</font> status effect
+|Linear
+|-
+|[[File:Nekomancer Necropact.png|center|frameless|128x128px]]
+|Legendary
+|Nekomancer: Necropact
+|With at least 1 summoned kitty:
+600% (-X% per stack) of any Damage taken at low HP will be redirected towards 1 kitty
+|Linear
+|}

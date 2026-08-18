@@ -1,0 +1,246 @@
+{
+  "Abaddon": {
+    "file": "Abaddon.txt",
+    "revid": 2027
+  },
+  "Aggro": {
+    "file": "Aggro.txt",
+    "revid": 1896
+  },
+  "Amaziah": {
+    "file": "Amaziah.txt",
+    "revid": 2174
+  },
+  "Artifacts": {
+    "file": "Artifacts.txt",
+    "revid": 1900
+  },
+  "Beelzebub": {
+    "file": "Beelzebub.txt",
+    "revid": 2088
+  },
+  "Bosses": {
+    "file": "Bosses.txt",
+    "revid": 2201
+  },
+  "Bravera": {
+    "file": "Bravera.txt",
+    "revid": 1949
+  },
+  "Buff Noob": {
+    "file": "Buff_Noob.txt",
+    "revid": 1754
+  },
+  "Classes": {
+    "file": "Classes.txt",
+    "revid": 1739
+  },
+  "Cone Head": {
+    "file": "Cone_Head.txt",
+    "revid": 1942
+  },
+  "Contributors": {
+    "file": "Contributors.txt",
+    "revid": 1825
+  },
+  "Corus": {
+    "file": "Corus.txt",
+    "revid": 1940
+  },
+  "Damage": {
+    "file": "Damage.txt",
+    "revid": 2082
+  },
+  "Darkmouth": {
+    "file": "Darkmouth.txt",
+    "revid": 1924
+  },
+  "Defense": {
+    "file": "Defense.txt",
+    "revid": 2202
+  },
+  "Despair": {
+    "file": "Despair.txt",
+    "revid": 1938
+  },
+  "Difficulty Modifier": {
+    "file": "Difficulty_Modifier.txt",
+    "revid": 2184
+  },
+  "Enemies": {
+    "file": "Enemies.txt",
+    "revid": 2162
+  },
+  "Extra": {
+    "file": "Extra.txt",
+    "revid": 2163
+  },
+  "Fistmage": {
+    "file": "Fistmage.txt",
+    "revid": 2215
+  },
+  "GasterGotShmooves": {
+    "file": "GasterGotShmooves.txt",
+    "revid": 2080
+  },
+  "Golden Grouch": {
+    "file": "Golden_Grouch.txt",
+    "revid": 2056
+  },
+  "Gunmancer": {
+    "file": "Gunmancer.txt",
+    "revid": 2205
+  },
+  "Irides": {
+    "file": "Irides.txt",
+    "revid": 1944
+  },
+  "Jacked O' Lantern": {
+    "file": "Jacked_O'_Lantern.txt",
+    "revid": 1937
+  },
+  "Jim C. Bringer": {
+    "file": "Jim_C._Bringer.txt",
+    "revid": 1952
+  },
+  "Kakarot": {
+    "file": "Kakarot.txt",
+    "revid": 1815
+  },
+  "Khepri": {
+    "file": "Khepri.txt",
+    "revid": 1947
+  },
+  "Kodama": {
+    "file": "Kodama.txt",
+    "revid": 1930
+  },
+  "M-41-D": {
+    "file": "M-41-D.txt",
+    "revid": 1939
+  },
+  "Main Page": {
+    "file": "Main_Page.txt",
+    "revid": 2076
+  },
+  "Maps": {
+    "file": "Maps.txt",
+    "revid": 1800
+  },
+  "Maxipuss": {
+    "file": "Maxipuss.txt",
+    "revid": 1923
+  },
+  "Melgor Johnson": {
+    "file": "Melgor_Johnson.txt",
+    "revid": 2176
+  },
+  "Mephiel": {
+    "file": "Mephiel.txt",
+    "revid": 1943
+  },
+  "Middleman": {
+    "file": "Middleman.txt",
+    "revid": 2164
+  },
+  "Music": {
+    "file": "Music.txt",
+    "revid": 2104
+  },
+  "NX-Obsidian": {
+    "file": "NX-Obsidian.txt",
+    "revid": 2178
+  },
+  "NaN": {
+    "file": "NaN.txt",
+    "revid": 1925
+  },
+  "Nekomancer": {
+    "file": "Nekomancer.txt",
+    "revid": 2194
+  },
+  "Neo Pilot": {
+    "file": "Neo_Pilot.txt",
+    "revid": 1951
+  },
+  "O-One": {
+    "file": "O-One.txt",
+    "revid": 1950
+  },
+  "Pandora": {
+    "file": "Pandora.txt",
+    "revid": 1948
+  },
+  "Pride": {
+    "file": "Pride.txt",
+    "revid": 1928
+  },
+  "Runes": {
+    "file": "Runes.txt",
+    "revid": 2170
+  },
+  "Shield Mage": {
+    "file": "Shield_Mage.txt",
+    "revid": 2213
+  },
+  "Skins": {
+    "file": "Skins.txt",
+    "revid": 2195
+  },
+  "Spellhammer": {
+    "file": "Spellhammer.txt",
+    "revid": 2143
+  },
+  "Spellsword": {
+    "file": "Spellsword.txt",
+    "revid": 2204
+  },
+  "Stack Types": {
+    "file": "Stack_Types.txt",
+    "revid": 1901
+  },
+  "Stats": {
+    "file": "Stats.txt",
+    "revid": 2175
+  },
+  "Status Effects": {
+    "file": "Status_Effects.txt",
+    "revid": 2198
+  },
+  "Steven": {
+    "file": "Steven.txt",
+    "revid": 1929
+  },
+  "Thaumaturge": {
+    "file": "Thaumaturge.txt",
+    "revid": 2214
+  },
+  "The Black Lily": {
+    "file": "The_Black_Lily.txt",
+    "revid": 1932
+  },
+  "The Gravetender": {
+    "file": "The_Gravetender.txt",
+    "revid": 1931
+  },
+  "Tokens": {
+    "file": "Tokens.txt",
+    "revid": 923
+  },
+  "Twinmage": {
+    "file": "Twinmage.txt",
+    "revid": 2181
+  },
+  "Upgrades": {
+    "file": "Upgrades.txt",
+    "revid": 2203
+  },
+  "Vesra": {
+    "file": "Vesra.txt",
+    "revid": 1927
+  },
+  "Yuki": {
+    "file": "Yuki.txt",
+    "revid": 1941
+  }
+}

@@ -1,0 +1,6 @@
+== Aggro ==
+'''Aggro''' (short for Aggression) is a hidden stat that determines how likely it is that an enemy will target you. Aggro draw in Ecliptica is primarily based on distance from the target, but bosses will occasionally target a player entirely randomly instead. Some bosses may also have more unique rules for aggro draw.
+
+=== Increasing Aggro ===
+Skills that increase aggro do not technically increase the ''chance'' an enemy will target you. Instead, it increases the radius of a hidden circle around you that effectively makes you closer to the enemy. 
+[[File:Aggro Draw Example.png|thumb|Tank skill increasing their aggro radius]]

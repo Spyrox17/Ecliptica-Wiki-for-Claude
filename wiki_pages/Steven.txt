@@ -1,0 +1,54 @@
+== Lore ==
+Have you ever noticed how often inanimate objects are there for you? Your bed has never gotten up and ran away, your sword will never try to escape your hand, and your mug will always hold your drink. While some may just call this common sense, it comes across different to some. Steven, in his darkest hour, had an epiphany. Pancakes had always been there for him. For his hunger, for his bad nights, and if he just needed someone to talk to. The pancakes never abandoned him. And so Steven adorned Michael, his favorite pancake, upon his face, and swore to protect the place where he belongs.
+
+Steven has no elevated abilities, no combat training, no abnormal magical attunement beyond the norm, nothing. The most likely conclusion we can draw here is that the pancake named Michael is itself, magical, and is channeling its power through Steven. Beyond any logic, it seems the will of the pancakes gives him the strength that rivals that of intermediate combat parties. Knight Major Jerosh suggested training dungeon delving troops under similar "pancake conditions", and was dishonorably discharged.
+{| class="wikitable" style="background:#000000; color:#ffffff; border:1px solid #444;"
+| colspan="3" |<center>'''<big>Steven</big>'''</center>
+|-
+| rowspan="8" |[[File:Steven.png|frameless|center]]
+|Affinity
+|Resistance
+|-
+|<font color="GREY">PHYSICAL</font>
+|NEUTRAL (1x)
+|-
+|<font color="ORANGE">FIRE</font>
+|RESIST (0.75x)
+|-
+|<font color="LIGHTBLUE">FROST</font>
+|WEAK (1.25x)
+|-
+|<font color="YELLOW">ELECTRIC</font>
+|NEUTRAL (1x)
+|-
+|<font color="#e4e08c">LUMINOUS</font>
+|RESIST (0.5x)
+|-
+|<font color="PURPLE">SHADOW</font>
+|WEAK (1.5x)
+|-
+|<font color="#f02ae0">POISON</font>
+|NEUTRAL (1x)
+|-
+| colspan="3" |Base HP: 8600
+|-
+| colspan="3" |Damage: <font color="GREY">PHYSICAL</font> and <font color="ORANGE">FIRE</font>
+|-
+| colspan="3" |Can inflict: [[File:Status Bleed.png|frameless|20x20px]]<font COLOR="DARKRED">BLEEDING</font>, [[File:Status Stick.png|frameless|20x20px]]<font COLOR="#DAB031">STICKY</font> and [[File:Status Fire.png|frameless|20x20px]]<font COLOR="ORANGE">BURNING</font>
+|-
+| colspan="3" |Phases: 2
+|}
+
+== Strategy ==
+The Steven battle consists of 2 sub-phases, a regular form and an enflamed form.
+
+While in regular form, Steven will throw out high damaging slashes, as well as deploying puddles of syrup. Standing in the Syrup will apply stacks of the Sticky debuff.
+
+At 50% HP, Steven will transition into his enflamed state, enhancing all of his moves with additional Fire damage and a chance to proc the Burn debuff. His syrup move also shoots many more puddles.
+
+== Credits ==
+Made by Mr. Nobody, Scena and Mantibro 
+
+Voiced by Ace45677 
+
+Music: [https://youtu.be/zsCD5XCu6CM?si=XdPengVYem4yfUke Linkin Park - Somewhere I Belong]

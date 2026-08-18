@@ -1,0 +1,549 @@
+== Upgrades ==
+Upgrades are powerful boosts you will spend your tokens in The In-Between. Upgrades range from minor stat increases to completely changing the way you play the game. 
+
+Upgrades are split between three NPCs, each with their own themes. 
+
+Note that despite many stat-related upgrade's stack types being marked as linear, a majority of stats themselves may be inherently hyperbolic or be subject to falloff. See the [[Stats]] page for more details on individual stats. 
+
+All upgrades are additive increases unless stated otherwise. 
+
+Purchasing an upgrade requires [[Tokens]]. 
+
+If you are unsure on what "Stack Types" mean, please visit this [[Stack Types|page]] for more information. 
+
+If you are playing solo, Upgrades such as Clutch or Kick and Sacrificial Lamb will be blacklisted from the shop. 
+
+== Crystal of Perseverance ==
+The Crystal of Perseverance provides upgrades related to your Max HP, Defense, and everything related to survivability. 
+ 
+{| class="wikitable sortable mw-collapsible" style="background:#000000; border:1px solid #555; color:#ffffff; margin:0 auto;"
+! style="background:#000000; color:#ffffff;" | Image
+! style="background:#000000; color:#ffffff;" | Rarity
+! style="background:#000000; color:#ffffff;" | Skill
+! style="background:#000000; color:#ffffff;" | Description
+! style="background:#000000; color:#ffffff;" | Stack Type
+|-
+|[[File:Fluffy.png|center|frameless|128x128px]]
+|Common
+|Fluffy
+|Max HP: +10 (+10 per stack)
+|Linear
+|-
+|[[File:Gluttonous.png|center|frameless|128x128px]]
+|Common
+|Gluttonous
+|Received Healing +5% (+5% per stack)
+|Linear
+|-
+|[[File:Sacrificial Lamb.png|center|frameless|128x128px]]
+|Common
+|Sacrificial Lamb
+|Upon dying, heal every other party member by 15 HP (+15 HP per stack)
+|Linear
+|-
+|[[File:Swarm Enforcer.png|center|frameless|128x128px]]
+|Common
+|Swarm Enforcer
+|Gain +1.5% Defense for each enemy within 32 meters of you. (+1.5% Defense per stack)
+|Linear
+|-
+|[[File:Vitality.png|center|frameless|128x128px]]
+|Common
+|Vitality
+|Health Regeneration: +80% (+80% per stack)
+|Linear
+|-
+|[[File:Vital Drain.png|center|frameless|128x128px]]
+|Common
+|Vital Drain
+|Critical strikes recover 2 HP (+2 HP per stack)
+|Linear
+|-
+|[[File:Adrenaline Fiend.png|center|frameless|128x128px]]
+|Rare
+|Adrenaline Fiend
+|Using your Utility skill recovers 6 (+6 per stack) HP
+Utility Cooldown Rate +7% (+7% per stack)
+
+Received Healing -15% (-15% per stack)
+|Linear
+|-
+|[[File:Big and Lazy.png|center|frameless|128x128px]]
+|Rare
+|Big and Lazy
+|When standing still for at least 1 second, gain 200% (+50% per stack) extra Health Regeneration.
+When moving, set Health Regeneration to 0%.
+|Multiplicative Linear
+|-
+|[[File:Big and Round.png|center|frameless|128x128px]]
+|Rare
+|Big and Round
+|Knockback Resistance: +50% (+50% per stack)
+Max HP: +30 (+30 per stack)
+
+Jump Height: -10% (-10% per stack)
+
+Movement Speed: -10% (-10% per stack)
+|Linear
+|-
+|[[File:Cold Blooded.png|center|frameless|128x128px]]
+|Rare
+|Cold Blooded
+|Reduce number of stacks taken of the [[File:Status Frozen.png|frameless|20x20px]]<font COLOR="LIGHTBLUE">FREEZING</font> status effect by X (X per stack)
+<font COLOR="LIGHTBLUE">FROST</font> Defense: +15% (+15% per stack)
+
+<font COLOR="ORANGE">FIRE</font> Defense: -15% (-15% per stack)
+|Linear
+|-
+|[[File:Conductive Armor.png|center|frameless|128x128px]]
+|Rare
+|Conductive Armor
+|<font COLOR="GREY">PHYSICAL</font> Defense +20% (+20% per stack)
+Reduce number of stacks taken of the <font COLOR="RED">[[File:Status Bleed.png|frameless|20x20px]]BLEEDING</font> status effect by X(+X per stack)
+
+<font color="GREEN">ELEMENTAL</font> Defense -5% (-5% per stack)
+|Linear
+|-
+|[[File:Holy Blessing.png|center|frameless|128x128px]]
+|Rare
+|Holy Blessing
+|Falling to LOW HP will cause a large explosion dealing 260 (+260 per stack) <font COLOR="#e4e08c">LUMINOUS</font> damage, with a 100% chance to inflict X stacks of the the [[File:Status Weak.png|frameless|20x20px]]<font COLOR="#802525">WEAKENED</font> status effect.
+<font COLOR="#e4e08c">LUMINOUS</font> Defense: +15% (+15% per stack)
+
+<font COLOR="PURPLE">SHADOW</font> Defense: +15% (+15% per stack)
+
+Overall Damage: -5% (-5% per stack)
+|Linear
+|-
+|[[File:Iron Skin.png|center|frameless|128x128px]]
+|Rare
+|Iron Skin
+|Defense: +8% (+8% per stack)
+Movement Speed: -3% (-3% per stack)
+
+Overall Damage: -2% (-2% per stack)
+|Linear
+|-
+|[[File:Last Stand.png|center|frameless|128x128px]]
+|Rare
+|Last Stand
+|Upon taking damage which leaves you at 1 HP, receive 3 (+2 per stack) stacks of the [[File:Status Invincible.png|frameless|20x20px]]<font COLOR="#e739ff">INVINCIBLE</font> status effect.
+Has a 30 second cooldown.
+|Linear
+|-
+|[[File:Life Leech.png|center|frameless|128x128px]]
+|Rare
+|Life Leech
+|Restore 1 (+1 per stack) HP upon dealing damage. 
+Overall Damage: -10% (-10% per stack)
+
+Health Regeneration: -50% (-50% per stack)
+
+Received Healing -20% (-20% per stack)
+|Linear
+|-
+|[[File:Masochist.png|center|frameless|128x128px]]
+|Rare
+|Masochist
+|Reduce number of stacks taken of the [[File:Status Stun.png|frameless|20x20px]]<font COLOR="YELLOW">PARALYZED</font> status effect by X (X per stack)
+<font COLOR="YELLOW">ELECTRIC</font> Defense: +15% (+15% per stack)
+
+<font color="GREY">PHYSICAL</font> Defense: -10% (-15% per stack)
+|Linear
+|-
+|[[File:Nature's Gift.png|center|frameless|128x128px]]
+|Rare
+|Nature's Gift
+|Spawn up to 3 (+1 per level) personal Healing Auras at a random location on the stage every 10 seconds which heals you for 20 HP.
+|Linear
+|-
+|[[File:Benison of Purification.png|center|frameless|128x128px]]
+|Legendary
+|Benison of Purification
+|Every 4 (-50% per stack) seconds, fire a projectile dealing 25 <font COLOR="#e4e08c">LUMINOUS</font> damage at the closest enemy within 64 meters.
+<font color="PURPLE">SHADOW</font> Defense +10% (+10% per stack)
+
+Overall Defense -5% (-5% per stack)
+
+Not influenced by the Attack Speed stat.
+
+Attack speed caps at 3 stacks.
+|Reciprocal/Linear
+|-
+|[[File:Big-and-Wrathful.png|center|frameless|128x128px]]
+|Legendary
+|Big and Wrathful
+|Damage dealt at LOW HP +50%
+Raise your LOW HP threshold by 10%
+
+Defense at LOW HP -25%
+|Linear
+|-
+|[[File:Curse of Wrath.png|center|frameless|128x128px]]
+|Legendary
+|Curse of Wrath
+|Every 4 (-50% per stack) seconds, fire a projectile dealing 25 <font COLOR="PURPLE">SHADOW</font> damage at the closest enemy within 32 meters.
+<font color="#e4e08c">LUMINOUS</font> Defense -20% (-20% per stack)
+
+Not influenced by the Attack Speed stat.
+
+Attack speed caps at 3 stacks.
+|Reciprocal/Linear
+|-
+|[[File:Glass Cannon.png|center|frameless|128x128px]]
+|Legendary
+|Glass Cannon
+|Damage +30% (+30% per stack)
+Health -50 (-50 per stack)
+|Linear
+|-
+|[[File:Healthy Guard.png|center|frameless|128x128px]]
+|Legendary
+|Healthy Guard
+|After being at FULL HP for 15 seconds (-1 second per stack), the next instance of damage you take will be reduced by 50% (+50% per stack)
+|Linear/Hyperbolic
+|-
+|[[File:Mass Aspect.png|center|frameless|128x128px]]
+|Legendary
+|Mass Aspect
+|Health: +75 (+75 per stack)
+Movement Speed: -30% (-30% per stack)
+|Linear
+|-
+|[[File:Volatile Tenacity.png|center|frameless|128x128px]]
+|Legendary
+|Volatile Tenacity
+|Upon taking lethal damage when above LOW HP, survive and be left with 1 HP.
+150 second cooldown, increases the cooldown rate by 25% per stack.
+|Linear
+|}
+
+== Crystal of Mobility ==
+The Crystal of Mobility provides upgrades related to Movement Speed, Attack Speed, and Utility Cooldown.
+
+{| class="wikitable sortable mw-collapsible" style="background:#000000; border:1px solid #555; color:#ffffff; margin:0 auto;"
+! style="background:#000000; color:#ffffff;" | Image
+! style="background:#000000; color:#ffffff;" | Rarity
+! style="background:#000000; color:#ffffff;" | Skill
+! style="background:#000000; color:#ffffff;" | Description
+! style="background:#000000; color:#ffffff;" | Stack Type
+|-
+|[[File:Athletic.png|center|frameless|128x128px]]
+|Common
+|Athletic
+|Movement Speed: +8% (+8% per stack)
+|Linear
+|-
+|[[File:Eagle Eye.png|center|frameless|128x128px]]
+|Common
+|Eagle Eye
+|Projectile Speed +35% (+35% per stack)
+|Linear
+|-
+|[[File:Hawkeye.png|center|frameless|128x128px]]
+|Common
+|Hawkeye
+|Projectile Distance +10 M (+10 M per stack)
+Projectile Spread -1% (-1% per stack)
+|Linear
+|-
+|[[File:Quick Breath.png|center|frameless|128x128px]]
+|Common
+|Quick Breath
+|Utility Cooldown Rate: +10% (+10% per stack)
+|Linear
+|-
+|[[File:Springfoot.png|center|frameless|128x128px]]
+|Common
+|Springfoot
+|Jump Height: +20% (+20% per stack)
+|Linear
+|-
+|[[File:Swift Hands.png|center|frameless|128x128px]]
+|Common
+|Swift Hands
+|Attack Speed: +15% (+15% per stack)
+|Linear
+|-
+|[[File:Leg Day.png|center|frameless|128x128px]]
+|Rare
+|Leg Day
+|Reduces number of stacks taken of the [[File:Status Heavy.png|frameless|16x16px]]<font COLOR=DARKGREY>HEAVY</font> status effect by X (+X per stack)
+Movement Speed +5% (+5% per stack)
+
+Jump Height +10% (+10% per stack)
+|Linear
+|-
+|[[File:Reactive Panic.png|center|frameless|128x128px]]
+|Rare
+|Reactive Panic
+|Taking damage will grant you 1 (+1 per stack) stack of the [[File:Status Feral.png|frameless|20x20px]]<font COLOR="YELLOW">FRENZIED</font> status effect
+|Linear
+|-
+|[[File:Smell the Roses.png|center|frameless|128x128px]]
+|Rare
+|Smell the Roses
+|Falling to low HP will grant you 7 (+2 per stack) stacks of the [[File:Status Move.png|frameless|20x20px]]<font COLOR="DARKBLUE">HASTE</font> status effect with a 30 second Cooldown
+|Linear
+|-
+|[[File:Thunder Aura.png|center|frameless|128x128px]]
+|Rare
+|Thunder Aura
+|Every second inflict 25 (+5 per stack) <font COLOR="YELLOW">ELECTRIC</font> Damage in a 4 (+4 per stack) Meter radius around you to enemies.
+Overall Damage: -10% (-10% per stack)
+
+Movement Speed: -5% (-5% per stack)
+|Linear
+|-
+|[[File:Berserker's Soul.png|center|frameless|128x128px]]
+|Legendary
+|Berserker's Soul (Melee)
+|Dealing damage with your main attack grants you a stack of Berserker's Soul, up to 70 stacks. 
+Each stack grants you +0.64% (+0.64% per stack) Overall Damage, +1.28% (+1.28% per stack) Attack Speed and -X% Health Regeneration.
+
+Taking damage sets your stacks to zero.
+
+Overall Damage: -20% (-20% per stack)
+
+Attack Speed: -40% (-40% per stack)
+
+* Provides a net total of 25% Overall Damage, 50% Attack Speed and -50% Health Regeneration at max stacks.
+|Linear
+|-
+|[[File:Berserker's Soul.png|center|frameless|128x128px]]
+|Legendary
+|Berserker's Soul (Ranged)
+|Dealing damage with your main attack grants you a stack of Berserker's Soul, up to 70 stacks. 
+Each stack grants you +0.32% (+0.32% per stack) Overall Damage, +0.64% Attack Speed (+0.64% per stack), and +X% Projectile Spread.
+
+Taking damage sets your stacks to zero.
+
+Overall Damage: -10% (-10% per stack)
+
+Attack Speed: -20% (-20% per stack)
+
+* Provides a net total of 12.5% Overall Damage, 25% Attack Speed and 2% Projectile Spread at max stacks.
+|Linear
+|-
+|[[File:Big and Speedy.png|center|frameless|128x128px]]
+|Legendary
+|Big and Speedy
+|Utility Cooldown Rate: +50% (+50% per stack)
+Overall Defense: -20% (-20% per stack)
+|Linear
+|-
+|[[File:Featherweight.png|center|frameless|128x128px]]
+|Legendary
+|Featherweight
+|Movement Speed: +30% (+30% per stack)
+Overall Defense: -20% (-20% per stack)
+|Linear
+|-
+|[[File:Heavy Hand.png|center|frameless|128x128px]]
+|Legendary
+|Heavy Hand
+|Damage +30% (+30% per stack)
+Attack Speed -40% (-40% per stack)
+|Linear
+|-
+|[[File:Partial Flight.png|center|frameless|128x128px]]
+|Legendary
+|Partial Flight
+|Extra Jump: +1 (+1 per stack)
+|Linear
+|-
+|[[File:Rapid Fire.png|center|frameless|128x128px]]
+|Legendary
+|Rapid Fire
+|Attack Speed: +50% (+50% per stack)
+Overall Damage: -20% (-20% per stack)
+|Linear
+|-
+|[[File:Way of the Law.png|center|frameless|128x128px]]
+|Legendary
+|Way of the Law
+|Periodically switch between the [[File:Status Stop.png|frameless|20x20px]]<font COLOR="RED">STOP</font> and [[File:Status Go.png|frameless|20x20px]]<font COLOR="LIGHTGREEN">GO</font>  [[Status Effects|status effects]].
+<font COLOR="RED">[[File:Status Stop.png|frameless|20x20px]]STOP</font> reduces Movement and Attack Speed, but increases Damage.
+
+<font COLOR="LIGHTGREEN">[[File:Status Go.png|frameless|20x20px]]GO</font> increases Movement and Attack Speed, but decreases Damage
+| Exponential
+|}
+
+== Chrono Wizard ==
+The Chrono Wizard provides upgrades that tend to be class-specific, or that may not fit into every class. (Ex. Not every class benefits from Projectile Speed by default.)
+
+See [[Classes]] page for Class Upgrades, which are included in Chrono Wizard.
+{| class="wikitable sortable mw-collapsible" style="background:#000000; border:1px solid #555; color:#ffffff; margin:0 auto;"
+! style="background:#000000; color:#ffffff;" | Image
+! style="background:#000000; color:#ffffff;" | Rarity
+! style="background:#000000; color:#ffffff;" | Skill
+! style="background:#000000; color:#ffffff;" | Description
+! style="background:#000000; color:#ffffff;" | Stack Type
+|-
+|[[File:Full Focus.png|center|frameless|128x128px]]
+|Common
+|Full Focus
+|Critical Strike Chance +5% (+5% per stack)
+Critical Strike Damage +5% (+5% per stack)
+|Linear
+|-
+|[[File:Potent Strike.png|center|frameless|128x128px]]
+|Common
+|Potent Strike
+|Critical Strikes have a 6% (+6% per stack) higher chance to inflict a status effect.
+|Linear
+|-
+|[[File:Sorcerer's Mastery.png|center|frameless|128x128px]]
+|Common
+|Sorcerer's Mastery
+|<font COLOR="GREEN">ELEMENTAL</font> Damage +8% (+8% per stack)
+|Linear
+|-
+|[[File:Strength.png|center|frameless|128x128px]]
+|Common
+|Strength
+|<font COLOR="GREY">PHYSICAL</font> Damage +10% (+10% per stack)
+|Linear
+|-
+|[[File:An IQ Too High?.png|center|frameless|128x128px]]
+|Rare
+|An IQ Too High?
+|<font COLOR="GREEN">ELEMENTAL</font> Damage +25% (+25% per stack)
+Projectile Speed -15% (-15% per stack)
+
+Attack Speed -10% (-10% per stack)
+|Linear
+|-
+|[[File:Clutch or Kick.png|center|frameless|128x128px]]
+|Rare
+|Clutch or Kick
+|Gain +7% (+7% per stack) Overall Damage for every dead player in the party
+|Linear
+|-
+|[[File:Cutting Edge.png|center|frameless|128x128px]]
+|Rare
+|Cutting Edge
+|Chance to inflict [[File:Status Bleed.png|frameless|20x20px]]<font COLOR="RED">BLEEDING</font> status effect +10% (+10% per stack)
+<font COLOR="GREY">PHYSICAL</font> Defense -5% (-5% per stack)
+|Linear
+|-
+|[[File:Fire Aspect.png|center|frameless|128x128px]]
+|Rare
+|Fire Aspect
+|<font color="ORANGE">FIRE</font> Defense +15% (+15% per stack)
+<font COLOR="ORANGE">FIRE</font> Damage +15% (+15% per stack)
+
+Chance to inflict the [[File:Status Fire.png|frameless|20x20px]]<font COLOR="ORANGE">BURNING</font> status effect +5% (+5% per stack)
+
+<font COLOR="LIGHTBLUE">FROST</font> Defense -10% (-10% per stack)
+|Linear
+|-
+|[[File:Frost Aspect.png|center|frameless|128x128px]]
+|Rare
+|Frost Aspect
+|<font COLOR="LIGHTBLUE">FROST</font> Defense +15% (+15% per stack)
+<font COLOR="LIGHTBLUE">FROST</font> Damage +15% (+15% per stack
+
+Chance to inflict the [[File:Status Frozen.png|frameless|20x20px]]<font COLOR="LIGHTBLUE">FROZEN</font> status effect +5% (+5% per stack)
+
+<font COLOR="ORANGE">FIRE</font> Defense -10% (-10% per stack)
+|Linear
+|-
+|[[File:Greater Focus.png|center|frameless|128x128px]]
+|Rare
+|Greater Focus
+|Critical Strike Chance at low HP +10% (+10% per stack)
+Critical Strike Damage +3% (+3% per stack)
+|Linear
+|-
+|[[File:Luminous Aspect.png|center|frameless|128x128px]]
+|Rare
+|Luminous Aspect
+|<font COLOR="#e4e08c">LUMINOUS</font> Damage +15% (15% per stack)
+<font COLOR="PURPLE">SHADOW</font> Defense +15% (+15% per stack)
+
+Chance to inflict the [[File:Status Weak.png|frameless|20x20px]]<font color="#802525">WEAKENED</font> status effect +5% (+5% per stack)
+
+<font color="GREEN">ELEMENTAL</font> Defense -5% (-5% per stack)
+|Linear
+|-
+|[[File:Poison Aspect.png|center|frameless|128x128px]]
+|Rare
+|Poison Aspect
+|<font COLOR="#f02ae0">POISON</font> Damage +15% (+15% per stack)
+<font COLOR="#f02ae0">POISON</font> Defense +15% (+15% per stack)
+
+Chance to inflict [[File:Status Poison.png|frameless|20x20px]]<font color="#f02ae0">POISONED</font> status effect +10% (+10% per stack)
+
+Received Healing -5% (-5% per stack)
+|Linear
+|-
+|[[File:Shadow Aspect.png|center|frameless|128x128px]]
+|Rare
+|Shadow Aspect
+|<font COLOR="PURPLE">SHADOW</font> Damage +15% (+15% per stack)
+Chance to inflict the [[File:Status Breach.png|frameless|20x20px]]<font COLOR="#7f7f7f">BREACHED</font> status effect +5% (+5% per stack)
+
+<font color="#e4e08c">LUMINOUS</font> Defense -10% (+10% per stack)
+|Linear
+|-
+|[[File:Sticky.png|center|frameless|128x128px]]
+|Rare
+|Sticky
+|Apply 2 (+2 per stack) additional stacks of status effects against enemies.
+Negative status effects apply X (+X per stack) additional stacks to you.
+|Linear
+|-
+|[[File:Charged Strike.png|center|frameless|128x128px]]
+|Legendary
+|Charged Strike
+|Critical Hits will cause an explosion dealing 25 (+10 per stack) <font color="GREY">PHYSICAL</font> Damage
+Critical Strike Chance -5% (-5% per stack)
+|Linear
+|-
+|[[File:Flaming Spirit.png|center|frameless|128x128px]]
+|Legendary
+|Flaming Spirit
+|When at full HP, performing your primary skill fires a fireball dealing 16 (+8 per stack) <font COLOR="ORANGE">FIRE</font> Damage
+Received Healing -5% (-5% per stack)
+
+Health Regeneration -20% (-20% per stack)
+|Linear
+|-
+|[[File:Frozen Heart.png|center|frameless|128x128px]]
+|Legendary
+|Frozen Heart
+|When at full HP, performing your primary skill fires an icicle dealing 18 (+9 per stack) <font COLOR="LIGHTBLUE">FROST</font> damage
+Received Healing -5% (-5% per stack)
+
+Health Regeneration -20% (-20% per stack)
+|Linear
+|-
+|[[File:Pocket Abacus.png|center|frameless|128x128px]]
+|Legendary
+|Pocket Abacus
+|Every fifth (5th) instance of Damage you deal will become a guaranteed Critical Strike
+Critical Strike Damage +10% (+10% per stack)
+
+Overall Damage -10% (-10% per stack)
+
+Sets Critical Strike Chance to 0%
+|Linear
+|-
+|[[File:Third Law.png|center|frameless|128x128px]]
+|Legendary
+|Third Law
+|Upon taking Damage, deal 150% (+25% per stack) of it's RAW value to enemies around you as <font COLOR="GREY">PHYSICAL</font> Damage
+On Fistmage's Parry, deal 50% of the Damage around you as <font color="GREY">PHYSICAL</font> Damage
+|Linear
+|-
+|[[File:Warrior's Will.png|center|frameless|128x128px]]
+|Legendary
+|Warrior's Will
+|Using your Utility Skill grants you 4 (+2 per stack) stacks of the [[File:Status Empower.png|frameless|20x20px]]<font COLOR="#ff0000">EMPOWERED</font> status effect
+Utility Cooldown Rate -15% (-15% per stack)
+|Linear
+|}
+
+== Class Specific ==
+Classes have specific upgrades at their disposal, please see all class specific upgrades on their [[Classes|individual]] pages.

@@ -1,0 +1,49 @@
+This page is '''incomplete.'''  
+
+'''Damage''' defines how much damage a target will take from an attacker. Damage can potentially be influenced by any number of [[Upgrades]], [[Artifacts]], [[Runes]], [[Status Effects]], weaknesses or resistances, and [[Classes|Class]] selection. 
+
+== Damage Display ==
+Damage the player deals to enemies will be displayed as numbers at the point of impact. 
+
+Damage numbers may change colors:
+
+* They are white by default.
+* They are Yellow if the enemy is weak to a damage type.
+* Critical Hits will be red.
+* Resisted damage will overwrite both, and appear dark grey.
+
+== Damage Types ==
+All damage is split into seven different damage types: Physical, Fire, Ice, Poison, Electric, Luminous and Shadow. Each damage type has a chance to apply their own exclusive status effects, and cannot apply the status effects not matching that damage type. 
+
+=== Physical ===
+Physical damage is the only damage type not considered as Elemental damage, and as such will not benefit from upgrades that increase generic Elemental damage. However, it is otherwise functionally the same as Elemental damage for damage calculations and may occasionally be referred to as such. 
+
+Very few enemies resist Physical damage, but likewise, very few enemies are weak to Physical damage, making it a well-balanced damage type that deals very consistent damage across a run. Many enemies have at least one attack that deals Physical damage, making it highly beneficial to increase your resistance to it.
+
+Related status effect: Bleeding
+
+=== Elemental ===
+All other damage types are considered Elemental damage and will benefit from generic Elemental Damage increases.
+
+== Status Effects ==
+Main Page: [[Status Effects]]
+
+=== Raw Damage ===
+There are several status effects that influence how much damage you deal or take. 
+
+=== Damage over Time ===
+Damage over Time effects (or DoT's) do not directly increase your raw damage, but instead apply a new source of ticking damage that occurs when a stack of the effect expires. 
+
+{{Damage over Time Table}}
+
+==== Bleeding and Burning ====
+Bleeding and Burning are functionally the same, aside from having differing damage types and different stack durations.
+
+They deal 2% of the enemies max health, however at a base level it is capped at 25 damage. This cap can be influenced by the overall and elemental damage stats. Against players however, they do a flat amount of 2 damage.
+
+* This functionally means they have a base damage of 25. It's rare that enemies will have low enough HP to notice outside of lobbies with very low player counts.
+
+==== Poisoned ====
+Poison functions differently, having an actual base damage of 30, meaning it will always do the same damage regardless of an enemies max health. However, Poisoned will only gain 75% of your damage bonuses.
+
+Against players, Poisoned does 2% of their max health.

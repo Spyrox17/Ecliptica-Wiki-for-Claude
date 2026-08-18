@@ -1,0 +1,52 @@
+== Lore ==
+In a dark, peaceful pumpkin patch, a sudden overwhelming presence arrived to shake up the roots. The one they call Bae'Bijonn descended down with a loud smash, unimpressed with the uneventful find.
+
+Out of nothing more than personal amusement, he sprinkled the soil with his magical power, to act as fertilizer of mana for the orange fruits. The invader announced his presence, but his expectations were slim, so he simply left, allowing the plants to grow.
+{| class="wikitable" style="background:#000000; color:#ffffff; border:1px solid #444;"
+| colspan="3" |<center>'''<big>Jacked O' Lantern</big>'''</center>
+|-
+| rowspan="8" |[[File:Jacked-O-Lantren.png|frameless|center]]
+|Affinity
+|Resistance
+|-
+|<font color="GREY">PHYSICAL</font>
+|NEUTRAL (1x)
+|-
+|<font color="ORANGE">FIRE</font>
+|WEAK (1.25x)
+|-
+|<font color="LIGHTBLUE">FROST</font>
+|RESIST (0.75x)
+|-
+|<font color="YELLOW">ELECTRIC</font>
+|RESIST (0.75x)
+|-
+|<font color="#e4e08c">LUMINOUS</font>
+|RESIST (0.75x)
+|-
+|<font color="PURPLE">SHADOW</font>
+|WEAK (1.25x)
+|-
+|<font color="#f02ae0">POISON</font>
+|WEAK (1.25x)
+|-
+| colspan="3" |Base HP: 18000
+|-
+| colspan="3" |Damage: <font color="GREY">PHYSICAL</font> and <font color="ORANGE">FIRE</font>
+|-
+| colspan="3" |Can inflict: [[File:Status Bleed.png|frameless|20x20px]]<font COLOR="DARKRED">BLEEDING</font> and [[File:Status Fire.png|frameless|20x20px]]<font COLOR="ORANGE">BURNING</font>
+|-
+| colspan="3" |Phases: 2
+|}
+
+== Strategy ==
+The Jacked O' Lantern battle consists of 2 sub-phases. In sub-phase 2, all of his basic swings are enhanced with an extra fire projectile, and all slams will leave behind Pillars of fire.
+
+Jacked O' Lantern will transition into sub-phase 2 at 35% HP, healing a large chunk of his total HP. In this subphase, he may also choose to Bulk Up, giving himself the Enforced and Empowered status effects for a long duration
+
+== Credits ==
+Made by Scena and Mantibro
+
+Voiced by BimpChooks
+
+Music: [https://youtu.be/8nW-IPrzM1g?si=jUDPh39ErJhR3CIw Disturbed - The Vengueful One]

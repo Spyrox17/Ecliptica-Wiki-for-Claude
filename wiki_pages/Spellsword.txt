@@ -1,0 +1,76 @@
+= Spellsword =
+You may call yourself a Spellsword, but you were ever really strong enough to wield a sword skillfully. However, who said your magical abilities can't make up for that?
+
+== Skills ==
+
+=== [[File:Spellsword-Primary.png|frameless|64x64px]] Primary: Telekinetic Strike ===
+Swing your sword, dealing 65 <font color="GREY">PHYSICAL</font> damage.  
+
+10% chance to inflict <font COLOR="RED">[[File:Status Bleed.png|frameless|20x20px]]BLEEDING</font> status effect. 
+
+=== [[File:Spellsword-Secondary.png|frameless|64x64px]] Secondary: Piercing Strike ===
+Charge for up to X seconds and then release a mid-range piercing attack, dealing 85-170 <font color="GREY">PHYSICAL</font> damage.  
+
+Up to 50% chance to inflict <font COLOR="RED">[[File:Status Bleed.png|frameless|20x20px]]BLEEDING</font> status effect. 
+
+* Range, Damage, and Bleed chance increases with charge time.
+* Charge time is reduced by Attack Speed.
+
+=== [[File:Spellsword-Dash.png|frameless|64x64px]] Utility: Quick Dash ===
+Perform a dash in your current movement direction.
+
+* Has a very short period of I-frames at the beginning of the dash. 
+* Can dash through purple attacks.
+
+3 second cooldown.
+
+== Class Upgrades ==
+{| class="wikitable" style="background:#000000; border:1px solid #555; color:#ffffff; margin:0 auto;"
+|+
+! style="background:#000000; color:#ffffff;" | Image
+! style="background:#000000; color:#ffffff;" | Rarity
+! style="background:#000000; color:#ffffff;" | Skill
+! style="background:#000000; color:#ffffff;" | Description
+! style="background:#000000; color:#ffffff;" | Stack Type
+|-
+|[[File:Spellsword Profiency.png|center|frameless|128x128px]]
+|Common
+|Spellsword: Proficiency
+|Piercing Strike range: +4 (+4 per stack) meters
+Hitting an enemy with Telekinetic Strike has a 2.5% (+2.5% per stack) chance to give you X stacks of the [[File:Status Feral.png|frameless|16x16px]]<font COLOR="YELLOW">FRENZIED</font> status effect.
+|Linear
+|-
+|[[File:Spellsword Mastery.png|center|frameless|128x128px]]
+|Rare
+|Spellsword: Mastery
+|Restore 2 (+2 per stack) HP upon dealing damage with the [[File:Status Bleed.png|frameless|20x20px]]<font COLOR="RED">BLEEDING</font> status effect.
+Health Regeneration -100% (-100% per stack)
+|Linear
+|-
+|[[File:Spellsword Burst.png|center|frameless|128x128px]]
+|Rare
+|Spellsword: Burst
+|Using your Utility skill increases your Attack Speed by 25% (+25% per stack) for 3 seconds.
+Utility Cooldown Rate -20% (-20% per stack)
+|Multiplicative Hyperbolic/Linear
+|-
+|[[File:Spellsword Swift Stab.png|center|frameless|128x128px]]
+|Legendary
+|Spellsword: Swift Stab
+|Your Piercing Strike damage will be increased by 35% (+35% per stack) of your Movement Speed above 100%.
+|Multiplicative Linear
+|-
+|[[File:Spellsword Shieldbreaker.png|center|frameless|128x128px]]
+|Legendary
+|Spellsword: Shieldbreaker
+|Your Piercing Strike will penetrate armor, dealing 25% (+25% per stack) of it's base damage.
+Your base attack will deal an additional 25% (+25% per stack) Damage.
+|Hyperbolic/Linear
+|-
+|[[File:Spellsword Whirlwind.png|center|frameless|128x128px]]
+|Legendary
+|Spellsword: Whirlwind
+|Releasing a fully charged piercing strike will cast a large whirlwind, continuously dealing 11 (+6 per stack) <font COLOR="GREY">PHYSICAL</font> Damage every 0.2 seconds
+Piercing Strike Charge Time +30% (+30% per stack)
+|Linear
+|}

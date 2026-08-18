@@ -1,0 +1,58 @@
+== Lore ==
+Anger made flesh.
+
+An imprisoned soul of the dungeon said to hold immense corrosion powers. Its anger could be felt through the air around it as it stomped near the gate to pummel anyone who stood close to it, scouts were able to listen closely and described its constant screaming and rambling of rage to be tied to a specific name "Bae’Bijonn." researchers have found no creatures or individuals within and outside the dungeon that match this name or title but one thing is certain, this gate guardian appears to hold an immense grudge against said name to an unfathomable degree as the sheer mention of the name has proven to earn combat mage teams a quick death as the entity rabidly leapt towards the one mentioning said name to test its reaction.
+
+The being is said to wander the halls of an ancient palace in the middle layer of the dungeon, stomping and fuming eternally until someone challenges it or happens to enter its sight, to this day we are unsure as to what its true purpose for being this enraged is, and what could cause such a thing to come into existence.
+
+"KILL YOU KILL YOU KILL YOU!"
+
+- Amaziah
+{| class="wikitable" style="background:#000000; color:#ffffff; border:1px solid #444;"
+| colspan="3" |<center>'''<big>Amaziah</big>'''</center>
+|-
+| rowspan="8" |[[File:Amaziah.png|frameless|center]]
+|Affinity
+|Resistance
+|-
+|<font color="GREY">PHYSICAL</font>
+|NEUTRAL (1x)
+|-
+|<font color="ORANGE">FIRE</font>
+|RESIST (0.75x)
+|-
+|<font color="LIGHTBLUE">FROST</font>
+|WEAK (1.5x)
+|-
+|<font color="YELLOW">ELECTRIC</font>
+|NEUTRAL (1x)
+|-
+|<font color="#e4e08c">LUMINOUS</font>
+|RESIST (0.75x)
+|-
+|<font color="PURPLE">SHADOW</font>
+|WEAK (1.25x)
+|-
+|<font color="#f02ae0">POISON</font>
+|RESIST (0.5x)
+|-
+| colspan="3" |Base HP: 15000
+|-
+| colspan="3" |Damage: <font color="GREY">PHYSICAL</font> and <font color="#f02ae0">POISON</font>
+|-
+| colspan="3" |Can inflict: [[File:Status Poison.png|frameless|20x20px]]<font color="#f02ae0">POISONED</font> and [[File:Status_Decay.png|frameless|20x20px]]<font color="#87FF73">DECAY</font>
+|-
+| colspan="3" |Phases: 1
+|-
+| colspan="3" |KILL YOU KILL YOU KILL YOU KILL YOU KILL YOU *INCOHERENT BABBLING*
+|}
+
+== Strategy ==
+Amaziah is a poison based boss who primarily uses close ranged attacks, all of which shoot an additional poisonous projectile. When reaching 60% HP Amaziah's move set is expanded allowing him to perform much larger and deadlier jumps, lunge at opponents in the sky, and fire beams from his face.
+
+== Credits ==
+Made by Have and Mantibro
+
+Voiced by BimpChooks
+
+Music: Ecliptica Sound Team - KILL YOU

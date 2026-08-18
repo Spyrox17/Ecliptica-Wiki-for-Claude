@@ -1,0 +1,93 @@
+== Spellhammer ==
+As someone with a high magic aptitude who decided to become a wild barbarian, conventions and common sense won't be the only things you're smashing into pieces.
+
+== Skills ==
+
+=== [[File:Spellhammer-Primary.png|frameless|64x64px]] Primary: Pummel ===
+Swing your hammer to deal 90 <font COLOR="GREY">PHYSICAL</font> damage and knock enemies back.
+
+Will increase your movement speed by two times during the swing, and is directly scaled with your Movement Speed.
+
+=== Secondary: ===
+
+=== [[File:Spellhammer-Jump-Smash.png|frameless|64x64px]] Jump Smash ===
+Jump upwards, then release to slam back down and deal 130 <font COLOR="GREY">PHYSICAL</font> damage and knock enemies back. Landing on top of an enemy will deal X extra damage per X based on your initial height and launch you back up.
+
+OR
+
+=== [[File:Spellhammer-Hammer-Throw.png|frameless|64x64px]] Chuck ===
+Hold, then release to throw your hammer. Damage scales on how long you have held the throwing charge, deal X-110 <font COLOR="GREY">PHYSICAL</font> Damage.
+
+=== [[File:Spellhammer-Utility-a.png|frameless|64x64px]] Utility: Disperse ===
+Release a wide explosion dealing 130 <font COLOR="GREY">PHYSICAL</font> damage, and jump backwards.
+
+8 second cooldown. The cooldown applies even while in the air, though is much slower.
+
+== Class Upgrades ==
+{| class="wikitable" style="background:#000000; border:1px solid #555; color:#ffffff; margin:0 auto;"
+|+
+! style="background:#000000; color:#ffffff;" | Image
+! style="background:#000000; color:#ffffff;" | Rarity
+! style="background:#000000; color:#ffffff;" | Skill
+! style="background:#000000; color:#ffffff;" | Description
+! style="background:#000000; color:#ffffff;" | Stack Type
+|-
+|[[File:Spellhammer Proficiency.png|center|frameless|128x128px]]
+|Common
+|Spellhammer: Proficiency (Jump Smash)
+|Knockback Force: +10% (+10% per stack)
+Jump Smash Strength +5% (+5% per stack)
+|Linear
+|-
+|[[File:Spellhammer Proficiency.png|center|frameless|128x128px]]
+|Common
+|Spellhammer: Proficiency (Chuck)
+|Knockback Force +10% (+10% per stack)
+Chucked Hammer Gravity Drop -10% (-10% per stack)
+|Linear
+|-
+|[[File:Spellhammer Boosted.png|center|frameless|128x128px]]
+|Rare
+|Spellhammer: Boosted
+|Disperse Blast Strength +10%
+Disperse Blast Damage +10%
+|Linear
+|-
+|[[File:Spellhammer Mastery.png|center|frameless|128x128px]]
+|Rare
+|Spellhammer: Mastery (Jump Smash)
+|Performing Jump Smash on top of an enemy will reduce the cooldown by 25% (X% per stack)
+|Hyperbolic
+|-
+|[[File:Spellhammer Mastery.png|center|frameless|128x128px]]
+|Rare
+|Spellhammer: Mastery (Chuck)
+|Upon impact, your Chucked Hammer will bounce towards the nearest enemy 1 time (+1 per stack)
+Chucked Hammer Gravity Drop -5% (-5% per stack)
+|Linear
+|-
+|[[File:Spellhammer Concussion.png|center|frameless|128x128px]]
+|Legendary
+|Spellhammer: Concussion (Jump Smash)
+|Performing a high-power Jump Smash will deal additional <font COLOR="YELLOW">ELECTRIC</font> Damage with a 50% Chance to inflict the [[File:Status Stun.png|frameless|20x20px]]<font COLOR="YELLOW">PARALYZED</font> status effect
+|Hyperbolic
+|-
+|[[File:Spellhammer Concussion.png|center|frameless|128x128px]]
+|Legendary
+|Spellhammer: Concussion (Chuck)
+|On a successful hit, spawn an Area of Effect that will deal <font color="YELLOW">ELECTRIC</font> Damage with a 50% Chance to inflict the [[File:Status Stun.png|frameless|20x20px]]<font color="YELLOW">PARALYZED</font> status effect.
+|Hyperbolic
+|-
+|[[File:Spellhammer Juggernaut.png|center|frameless|128x128px]]
+|Legendary
+|Spellhammer: Juggernaut (Jump Smash)
+|Performing a high-power Jump Smash will grant you a brief <font color="#12ebff">[[File:Status Defense.png|frameless|20x20px]]ENFORCED</font> status effect
+|Linear
+|-
+|[[File:Spellhammer Juggernaut.png|center|frameless|128x128px]]
+|Legendary
+|Spellhammer: Juggernaut (Chuck)
+|Performing a full-power throw will grant you a brief [[File:Status Empower.png|frameless|20x20px]]<font COLOR="#ff0000">EMPOWERED</font> status effect.
+You may only have a maximum of 5 stacks of [[File:Status Empower.png|frameless|20x20px]]<font color="#ff0000">EMPOWERED</font> (each upgrade increases this cap by 2)
+|Linear
+|}

@@ -1,0 +1,206 @@
+Each class has varying skins to choose from if you're bored of the same look.
+
+Skins are broken up into  Tiers:
+
+* Default
+* <font color="YELLOW">Researcher</font>
+* <font COLOR="RED">Exterminator</font>
+* <font COLOR="BLUE">VIP</font>
+* <font color="GREEN">Developer/User Specific</font>
+
+{| class="wikitable" style="background:#000; color:#fff; border:1px solid #444;" margin:0 auto;"
+! style="background:#000000; color:#ffffff;" | Class
+! colspan="10" style="background:#000000; color:#ffffff;" | Skin
+|-
+! style="background:#000000; color:#ffffff;" | [[Spellsword]]
+! style="background:#000000; color:#ffffff;" | Sorcerer's Sword
+! style="background:#000000; color:#ffffff;" | <font COLOR="YELLOW">Linked Sword</font>
+! style="background:#000000; color:#ffffff;" | <font color="YELLOW">Volition Sword</font>
+! style="background:#000000; color:#ffffff;" | <font color="YELLOW">Shadow Sword</font>
+! style="background:#000000; color:#ffffff;" | <font color="YELLOW">Black Knight's Sword</font>
+! style="background:#000000; color:#ffffff;" | <font color="YELLOW">Blade of the Emperor</font>
+! style="background:#000000; color:#ffffff;" | <font color="RED">The Meowmere</font>
+! style="background:#000000; color:#ffffff;" |<font color="RED">Arcane Edge</font>
+! style="background:#000000; color:#ffffff;" |<font color="GREEN">Pastiche Memory</font>
+! style="background:#000000; color:#ffffff;" |
+|-
+|
+|[[File:Spellsword .png|center|frameless|200x200px]]
+|[[File:LinkedSwordIcon.png|center|frameless|200x200px]]
+|[[File:VolitionSwordIcon.png|center|frameless|200x200px]]
+|[[File:ShadowSwordIcon.png|center|frameless|200x200px]]
+|[[File:BlackKnightSword.png|center|frameless|200x200px]]
+|[[File:EmperorBladeIcon.png|center|frameless|200x200px]]
+|[[File:MeowmereIcon.png|center|frameless|100x100px]]
+|[[File:Arcaneedge.png|center|frameless|200x200px|[[File:MeowmereIcon.png|frameless|200x200px]]]]
+|[[File:PasticheMemoryIcon.png|center|frameless|200x200px]]
+|
+|-
+|[[Twinmage]]
+|Elemental Hands
+|<font COLOR="YELLOW">Fwuffy Mage Paws</font>
+|<font COLOR="RED">Cutout Hands</font>
+|
+|
+|
+|
+|
+|
+|
+|-
+|
+|[[File:ElementHands.png|center|frameless|200x200px]]
+|[[File:MagePawsIcon.png|center|frameless|200x200px]]
+|[[File:CutoutHandsIcon.png|center|frameless|200x200px]]
+|
+|
+|
+|
+|
+|
+|
+|-
+|[[Gunmancer]]
+|VA-11 Blast Cannon
+|<font COLOR="YELLOW">Crystal Power Cannon</font>
+|<font COLOR="YELLOW">Gun Sac</font>
+|
+|
+|
+|
+|
+|
+|
+|-
+|
+|[[File:VA11Cannon.png|center|frameless|200x200px]]
+|[[File:CrystalPowerCannon.png|center|frameless|200x200px]]
+|[[File:GunSacIcon.png|center|frameless|200x200px]]
+|
+|
+|
+|
+|
+|
+|
+|-
+|[[Fistmage]]
+|Aura Fist
+|<font COLOR="YELLOW">Adelheid's Gauntlet</font>
+|<font COLOR="YELLOW">Cutout Fist</font>
+|<font COLOR="RED">V1 Ultrakill</font>
+|
+|
+|
+|
+|
+|
+|-
+|
+|[[File:AuraFist.png|center|frameless|200x200px]]
+|[[File:Adelheidgaunleticon.png|center|frameless|200x200px]]
+|[[File:CutoutFist.png|center|frameless|200x200px]]
+|[[File:V1Ultrakill.png|center|frameless|200x200px]]
+|
+|
+|
+|
+|
+|
+|-
+|[[Spellhammer]]
+|Sorcerer's Hammer
+|<font COLOR="YELLOW">Molten Tenderizer</font>
+|<font color="YELLOW">Awakened Molten Tenderizer</font>
+|<font color="YELLOW">Resonance Hammer</font>
+|<font color="YELLOW">Ban Hammer</font>
+|<font color="YELLOW">Manalyte Basher</font>
+|<font color="YELLOW">Chipote Chillón</font>
+|<font color="YELLOW">Smile Hammer</font>
+|<font color="RED">Ladle of King Bach</font>
+|<font color="BLUE">Hammer of the Time Thief</font>
+|-
+|
+|[[File:SorcererHammer.png|center|frameless|200x200px]]
+|[[File:Mt.png|center|frameless|200x200px]]
+|[[File:Amt.png|center|frameless|200x200px]]
+|[[File:ResonanceHammer.png|center|frameless|200x200px]]
+|[[File:BanhammerIcon.png|center|frameless|200x200px]]
+|[[File:ManalyteHammerIcon.png|center|frameless|200x200px]]
+|[[File:ToyHammerIcon.png|center|frameless|200x200px]]
+|[[File:SmileHammerIcon.png|center|frameless|200x200px]]
+|[[File:LadleOfKingBach.png|center|frameless|200x200px]]
+|[[File:BabyjohnSprite.png|center|frameless|200x200px]]
+|-
+|[[Shield Mage]]
+|Sorcerer's Shield
+|<font COLOR="YELLOW">Holy Carapace Shield</font>
+|<font COLOR="YELLOW">Darkmouth Shield</font>
+|<font COLOR="RED">Larpcrest Shield</font>
+|
+|
+|
+|
+|
+|
+|-
+|
+|[[File:SorcererShield.png|center|frameless|200x200px]]
+|[[File:HolyShieldIcon.png|center|frameless|200x200px]]
+|[[File:Darkmouthshield.png|center|frameless|200x200px]]
+|[[File:Larplarplarpshield.png|center|frameless|200x200px]]
+|
+|
+|
+|
+|
+|
+|-
+|[[Thaumaturge]]
+|The Grimoire
+|<font COLOR="YELLOW">SlashCo Document
+|<font COLOR="RED">Ecliptica for Dummies</font>
+|<font COLOR="RED">Book of Mending</font>
+|<font color="RED">Words that Heal</font>
+|
+|
+|
+|
+|
+|-
+|
+|[[File:Grimoire.png|center|frameless|200x200px]]
+|[[File:SlashCoFileIcon.png|center|frameless|200x200px]]
+|[[File:GuideSkinPicture.png|center|frameless|200x200px]]
+|[[File:BookofMendingIcon.png|center|frameless|200x200px]]
+|[[File:AO3Book.png|center|frameless|200x200px]]
+|
+|
+|
+|
+|
+|-
+|[[Nekomancer]]
+|Staff of Feline Mortality
+|<font COLOR="YELLOW">Nature Staff</font>
+|<font COLOR="YELLOW">Magical Girl Staff</font>
+|
+|
+|
+|
+|
+|
+|
+|-
+|
+|[[File:Nekomancerstaff.png|center|frameless|200x200px]]
+|[[File:NatureStaff.png|center|frameless|200x200px]]
+|[[File:MagicalGirlStaff.png|center|frameless|200x200px]]
+|
+|
+|
+|
+|
+|
+|
+|}

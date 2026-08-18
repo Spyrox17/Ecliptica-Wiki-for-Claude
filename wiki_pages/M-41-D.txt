@@ -1,0 +1,60 @@
+== Lore ==
+An extremely large alloy, M-41-D resides on the 6th floor, acting as the guardian of a large mansion owned by Hapticor’s CEO, Isyel.
+
+M-41-D is the only moving thing in the mansion, patrolling the halls quietly cleaning, all day, all night. Intruders attempting to break into the mansion will likely encounter her, and will likely meet their end. Her massive mechanical broomstick is able to dissolve small objects and dispel flesh and bone with ease due to its intense energy, and her size allows her to easily overpower most that are unprepared for her.
+
+Prior to her activation, she was kept within a very large storage container on the 2nd floor, and was discovered and recovered by Hapticor during a small-scale invasion of the 2nd floor. She was seemingly intended to be used as a weapon against Hapticor, as she had several modifications done to her, including the removal of her mouth, subsumed livers of fallen kin within her arms to allow for various powers and abilities, such as her mastery over energy, and her technology being made to heavily resist OYP interception, a strategy often used by Hapticor to hijack machinery on the 2nd floor.
+
+After being recovered, M-41-D was activated by Hapticor, and was quickly conditioned to obey them, particularly Isyel himself, who directly influenced her; ending up becoming something of a father figure to her. Once her conditioning was done, rather than sending her back down to the 2nd floor to be used as a weapon, she was instead sent to reside at Isyel’s old mansion to keep it clean and protected, with a promise that Isyel would return one day to come see her.
+
+Though, that day never came. Isyel could never look at M-41-D without thinking of his lost daughter, and ultimately, M-41-D would remain alone, cleaning the mansion for someone who would never return.
+{| class="wikitable" style="background:#000000; color:#ffffff; border:1px solid #444;"
+| colspan="3" |<center>'''<big>M-41-D</big>'''</center>
+|-
+| rowspan="8" |[[File:M-41-d.png|frameless|center]]
+|Affinity
+|Resistance
+|-
+|<font color="GREY">PHYSICAL</font>
+|NEUTRAL (1x)
+|-
+|<font color="ORANGE">FIRE</font>
+|RESIST (0.75x)
+|-
+|<font color="LIGHTBLUE">FROST</font>
+|NEUTRAL (1x)
+|-
+|<font color="YELLOW">ELECTRIC</font>
+|WEAK (1.25x)
+|-
+|<font color="#e4e08c">LUMINOUS</font>
+|RESIST (0.5x)
+|-
+|<font color="PURPLE">SHADOW</font>
+|WEAK (1.25x)
+|-
+|<font color="#f02ae0">POISON</font>
+|RESIST (0.25x)
+|-
+| colspan="3" |Base HP: 13000
+|-
+| colspan="3" |Damage: <font color="YELLOW">ELECTRIC</font>
+|-
+| colspan="3" |Can inflict: [[File:Status Stun.png|frameless|20x20px]]<font COLOR="YELLOW">PARALYZED</font>
+|-
+| colspan="3" |Phases: 2
+|}
+
+== Strategy ==
+The M-41-D fight consists of 2 sub-phases. A standard phase and a Tower phase.
+
+Once per fight, once M-41-D reaches 40% HP, she will summon 2 Disruption Towers. Each tower will alternate between healing M-41-D, or using a large electric AoE if players are nearby. M-41-D will also become more powerful after this phase transition, increasing the radius of several of her moves.
+
+== Credits ==
+Made by Beyond and Mantibro
+
+Music Phase 1: [https://youtu.be/X6y7BR5EcpA?si=G2bSJ6sV9RFFwHvj Parasyn - BERDLY BATTLE (SnowGrave)] 
+
+Music Phase 2: [https://youtu.be/GKje6sxXszQ?si=Uz15tHZKlV1jcMtX StudioEIM, Limbus Company OST - Canto IX Boss 4]
+
+First appeared in [https://sots.terror.moe/compendium/m41d Terrors of Nowhere - Star of the Show]!

@@ -1,0 +1,60 @@
+== Lore ==
+A long, long time ago, humanity discovered a heavenly relic, and used its angelic power to create a great ship to explore vastness the cosmos. The colossal vessel, nicknamed "Babel," carried humanity far, far past their homestead, allowing them to colonize other planets and expand their reach to an intergalactic extent.
+
+Eventually, humanity managed to find the edge of the universe. There, their feeble minds, unequipped to handle the realm before them, entered what they could only call "Heaven." An innocuous being then invades the heavenly realm, and comes across an entity of a higher power, an Angel. The being makes a wish, which the Angel then grants. The wish manifests a dark, insidious mass of power, with a destructive potential of a universal scale. A power which corrupts and decays anything and everything it contacts.
+
+The power of Megium.
+
+Humanity's colossal vessel is then destroyed alongside nearly half of the heavenly realm. Fragments of heaven scatter themselves across the universe, falling into the hands of many of humanity's intergalactic colonies, giving them access to the vastness of angelic power. The ERNA organization was formed as a means to collect and claim the many pieces of heaven yet to be discovered, as well as recruit those blessed with heavenly power to their ranks.
+
+During ERNA's early foundation, with access to few angelic resources, the faction made conscripted human soldiers undergo heavy cybernetic enhancements, turning them into robotic super-warriors with little of their humanity still intact. The first constructed series, aiming to give ERNA direction for its future, was built with the said theme in mind; "Direction." Thus, a unit of seven mechanical soldiers began to serve among ERNA's elite ranks. It consisted of: The Frontman, The Backman, The Leftman, The Rightman, The Upman, The Downman, and lastly, The Middleman.
+
+Through the years, the seven units were swept back as ERNA was able to utilize the scavenged heavenly fragments to make use of their power to construct a massive army which far outclassed the cybernetic soldiers. By then, ERNA either did not notice, or simply did not care when the seven solders rebelled against the faction, going down their own paths as their contempt and hatred of ERNA only grew.
+{| class="wikitable" style="background:#000000; color:#ffffff; border:1px solid #444;"
+| colspan="3" |<center>'''<big>Middleman</big>'''</center>
+|-
+| rowspan="8" |[[File:Middleman.png|frameless|center]]
+|Affinity
+|Resistance
+|-
+|<font color="GREY">PHYSICAL</font>
+|NEUTRAL (1x)
+|-
+|<font color="ORANGE">FIRE</font>
+|WEAK (1.25x)
+|-
+|<font color="LIGHTBLUE">FROST</font>
+|NEUTRAL (1x)
+|-
+|<font color="YELLOW">ELECTRIC</font>
+|WEAK (1.5x)
+|-
+|<font color="#e4e08c">LUMINOUS</font>
+|RESIST (0.5x)
+|-
+|<font color="PURPLE">SHADOW</font>
+|WEAK (1.25x)
+|-
+|<font color="#f02ae0">POISON</font>
+|RESIST (0.75x)
+|-
+| colspan="3" |Base HP: 7800
+|-
+| colspan="3" |Damage: <font color="GREY">PHYSICAL</font> and <font color="YELLOW">ELECTRIC</font>
+|-
+| colspan="3" |Can inflict: [[File:Status Bleed.png|frameless|20x20px]]<font COLOR="DARKRED">BLEEDING</font> and [[File:Status Stun.png|frameless|20x20px]]<font COLOR="YELLOW">PARALYZING</font>
+|-
+| colspan="3" |Phases: 1
+|}
+
+== Strategy ==
+Middle Man is the first fast paced boss, constantly charging and slashing at his opponents with his twin swords. Throughout his fight he jumps high into the air and chooses to either fly back down for a kick or fire a piercing laser at his opponents. Specializing in close range combat, the majority of Middleman's attacks cause him to lunge at his opponent allowing him to close distances quickly.
+
+== Credits ==
+Made by Scena and Mantibro
+
+Character and Design by MR COWBOY
+
+Voiced by DarkGrey
+
+Music: [https://www.youtube.com/watch?v=-3rqQ2FshHE Ecliptica Sound Team - The Middleman]

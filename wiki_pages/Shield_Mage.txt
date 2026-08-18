@@ -1,0 +1,65 @@
+== Shield Mage ==
+You are a kind of sorcerer who was always too scared to get hurt. You know what they say, sometimes defense is the best offense. Or something like that.
+
+== Skills ==
+
+=== [[File:Shieldmage-Primary.png|frameless|64x64px]] Primary: Offensive Strike ===
+Throw your shield forward, dealing 50 <font COLOR="GREY">PHYSICAL</font> damage. While using Defensive Stance, bash your shield forward, dealing 25 <font COLOR="GREY">PHYSICAL</font> damage and knocking enemies back.
+
+=== [[File:Shieldmage-Secondary.png|frameless|64x64px]] Secondary: Defensive Stance ===
+Hold to defend with your shield, blocking incoming damage that hits it and reducing your movement speed by X%.
+
+When blocking attacks, charge up ICEBURST. When lowering your shield, Deal heavy <font COLOR="LIGHTBLUE">FROST</font> damage in an X meter radius based on the number of ICEBURST charges.
+
+=== [[File:Shieldmage-Utility.png|frameless|64x64px]] Utility: Evasive Maneuver ===
+For 5 seconds stop yourself in place, creating an impenetrable shield around you and cleansing negative status effects. The shield will reduce <font COLOR="PURPLE">PURPLE</font> attack damage by 50% for yourself and you will gain increased [[Aggro]] draw. While using Defensive Stance, perform a short dash in your movement direction with 75% reduced coolown.
+
+16(4) second cooldown.
+
+== Class Upgrades ==
+{| class="wikitable" style="background:#000000; border:1px solid #555; color:#ffffff; margin:0 auto;"
+|+
+! style="background:#000000; color:#ffffff;" | Image
+! style="background:#000000; color:#ffffff;" | Rarity
+! style="background:#000000; color:#ffffff;" | Skill
+! style="background:#000000; color:#ffffff;" | Description
+! style="background:#000000; color:#ffffff;" | Stack Type
+|-
+|[[File:Shieldmage Proficiency.png|center|frameless|128x128px]]
+|Common
+|Shieldmage: Proficiency
+|Increase the effect area of your Defensive Stance shield by X% (X% per stack)
+|Hyperbolic
+|-
+|[[File:Shieldmage Unbreakable.png|center|frameless|128x128px]]
+|Common
+|Shieldmage: Unbreakable
+|Damage received from <font COLOR="PURPLE">PURPLE</font> Attacks -5%
+Damage received from <font COLOR="PURPLE">PURPLE</font> Attacks with an active Evasive Maneuver Shield -10%
+|Hyperbolic
+|-
+|[[File:Shieldmage Ice Burst.png|center|frameless|128x128px]]
+|Rare
+|Shieldmage: Ice Burst
+|Increases charge-up power of Ice Burst for each blocked Attack
+|Linear
+|-
+|[[File:Shieldmage Mastery.png|center|frameless|128x128px]]
+|Rare
+|Shieldmage: Mastery
+|Increase the size of your Evasive Maneuver shield by X% (X% per stack)
+|Linear
+|-
+|[[File:Shieldmage Rally Up.png|center|frameless|128x128px]]
+|Legendary
+|Shieldmage: Rally Up
+|Using your Evasive Maneuver Shield gives you and your allies around you a brief [[File:Status_Empower.png|frameless|20x20px]]<font COLOR="#ff0000">EMPOWERED</font> status effect
+|Linear
+|-
+|[[File:Shieldmage Warden.png|center|frameless|128x128px]]
+|Legendary
+|Shieldmage: Warden
+|Using your Evasive Maneuver Shield gives you and all your allies the [[File:Status Warden.png|frameless|20x20px]]<font COLOR="#ff7bef">RESILIENCE</font> status effect, letting them block an instance of Damage
+Utility Cooldown +50% (+50% per stack)
+|Linear
+|}

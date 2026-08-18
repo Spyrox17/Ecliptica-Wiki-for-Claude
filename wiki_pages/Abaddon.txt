@@ -1,0 +1,63 @@
+== Lore ==
+The Apex mana predator.
+The manalytes are a species of creatures completely made out of the mana absorbed from dead bodies inside the dimensional gate's dungeon. They are exceptionally aggressive and tend to live short lives due to needing more mana every time they grow. They are found generally in the middle levels of the dungeon resting and prowling around areas with a high concentration of ambient mana crystals.
+
+It has been observed that during their later stages of evolution the manalytes known as "elders" tend to fight between each other and in some cases devour one another to gain greater mass and mana capacity. During the travels of the Sables guild team, a stampede of elder manalytes was observed on the lower layer as if they were running away from something. As the resource collection team of the guild approached the aftermath of the stampede to check on some of the remains, another scout near the main team heard a bunch of screams followed by sudden silence and a crunching sound. When the main team checked on the collection team, they were greeted by a scene of pure gore and viscera accompanied by what appeared to be a building sized monster. After examination from afar, the researcher of the team classified this monster as "Abaddon" as it's modus operandi of hunting appeared to be opening cracks in the dungeon to grab other elder manalytes to devour. From a skin sample it was determined that this monster may be more than 20,000 years old and insanely durable.
+
+A later report from the Albatross Kingdom's specialized mage team identified the creature's ability to resist tier 10 spells that could level an entire kingdom in seconds, as if they were a hot shower on tuesday. Holy element mages have been a requirement when accessing the mana crystal supplies on the lower levels as holy magic seemed to drive most of the creatures away and dimished the encounters with the deviant.
+
+New adventurer teams have been warned to retreat the moment this monster is spotted and to report back to the guild.
+
+"It appeared out of nowhere, killed and ate like it had been hungry for a thousand years". 
+
+- Sables Guild master, Jeremy.
+{| class="wikitable" style="background:#000000; color:#ffffff; border:1px solid #444;"
+| colspan="3" |<center>'''<big>Abaddon</big>'''</center>
+|-
+| rowspan="8" |[[File:Abaddon.png|frameless|center]]
+|Affinity
+|Resistance
+|-
+|<font color="GREY">PHYSICAL</font>
+|NEUTRAL (1x)
+|-
+|<font color="ORANGE">FIRE</font>
+|RESIST (0.5x)
+|-
+|<font color="LIGHTBLUE">FROST</font>
+|RESIST (0.5x)
+|-
+|<font color="YELLOW">ELECTRIC</font>
+|RESIST (0.5x)
+|-
+|<font color="#e4e08c">LUMINOUS</font>
+|WEAK (1.75x)
+|-
+|<font color="PURPLE">SHADOW</font>
+|NEUTRAL (1x)
+|-
+|<font color="#f02ae0">POISON</font>
+|RESIST (0.5x)
+|-
+| colspan="3" |Base HP: 32000
+|-
+| colspan="3" |Damage: <font color="GREY">PHYSICAL</font> and <font color="PURPLE">SHADOW</font>
+|-
+| colspan="3" |Can inflict: [[File:Status Breach.png|frameless|20x20px]]<font COLOR="LIGHTGREY">BREACHED</font>, [[File:Status Decay.png|frameless|20x20px]]<font COLOR="#76E065">DECAYED</font> and [[File:Status_Heavy.png|frameless|20x20px]]<font color="DARKGREY">HEAVY</font>
+|-
+| colspan="3" |Phases: 2
+|}
+
+== Strategy ==
+Abbadon is a massive Manalyte that summons up to 3 Elder Manalytes to fight alongside him. He preforms massive AOE attacks which produce flaming pillars and fireballs alongside orbs of darkness which can apply decay to his opponent.
+
+Upon death, Abbadon sheds his skin and reaches second phase where the maximum amount of Manalytes he can spawn increases to 6. The majority of his attacks now pierce through his opponents defenses with an even larger radius. His most devastating move coming from a shockwave engulfing the majority of the battlefield.
+
+== Credits ==
+Made by Have and Mantibro
+
+Music Phase 1: [https://youtu.be/AOJOdFSV5l8?si=P9Xy4r_5ABYK1vtn Akihiko Narita & Co, Monster Hunter World OST - World's End]
+
+Music Phase 2: [https://youtu.be/N3472Q6kvg0?si=Nw-HwRlxDqKCsMGB Jamie Christopherson, Metal Gear Rising Revengeance OST - Rules of Nature]
+
+Also appears in [https://sots.terror.moe/compendium/abbadon Terrors of Nowhere - Star of the Show]!

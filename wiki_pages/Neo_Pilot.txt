@@ -1,0 +1,60 @@
+== Lore ==
+Having witnessed hundreds of years of death and disfigurement of her closest friends and comrades, and with a terrifying sight of a horrifying scale of destruction of the Temperance Colony still fresh in her mind, the Pilot of Neo chose to absorb herself in a meaningless existence of consumption an indulgence, turning her Neo Colony into a debauched place of endless gluttony, parties, and a way to isolate and disassociate herself from the struggles and tribulations of the FOX Empire. She used her gregarious and bubbly persona as a shield and coping mechanism against the worsening state of the Empire she held a major role in. Even as it was being rapidly exterminated in the Opton War, she was far too broken and hopeless to stand up and fight for her kin. Each new tragedy simply made her isolate even deeper. After the death of the Pilot of Onyx, she was officially titled as the strongest Combat Pilot of the FOX Empire. She was eventually forced to endure a hard wake-up call when the Neo Colony was attacked by the automatons. Without a place of comfort and shelter, Neo Pilot began to sink into the pits of despair she had opened for herself.
+
+And yet, as her Empire was nearing the threat of total extermination, she was made to realize her purpose. In spite of how completely hopeless the chances stood for the FOX Empire, and how quickly their inevitable defeat was approaching, the FOX never once thought of giving up, and were fully ready to struggle to the bitter end. The legacy of the long-lost humanity still fully lived on in the spirits of the FOX. It was not something a band of thoughtless automatons had a right to extinguish.
+
+Being one of the few known to have a fighting chance to overpower Commander Bravera, she knew what had to be done to make things right.
+{| class="wikitable" style="background:#000000; color:#ffffff; border:1px solid #444;"
+| colspan="3" |<center>'''<big>Neo Pilot</big>'''</center>
+|-
+| rowspan="8" |[[File:Neo Pilot.png|frameless|center]]
+|Affinity
+|Resistance
+|-
+|<font color="GREY">PHYSICAL</font>
+|NEUTRAL (1x)
+|-
+|<font color="ORANGE">FIRE</font>
+|WEAK (1.25x)
+|-
+|<font color="LIGHTBLUE">FROST</font>
+|NEUTRAL (1x)
+|-
+|<font color="YELLOW">ELECTRIC</font>
+|RESIST (0.75x)
+|-
+|<font color="#e4e08c">LUMINOUS</font>
+|RESIST (0.75x)
+|-
+|<font color="PURPLE">SHADOW</font>
+|WEAK (1.25x)
+|-
+|<font color="#f02ae0">POISON</font>
+|NEUTRAL (1x)
+|-
+| colspan="3" |Base HP: 27000
+|-
+| colspan="3" |Damage: <font color="GREY">PHYSICAL</font> and <font color="YELLOW">ELECTRIC</font>
+|-
+| colspan="3" |Can inflict: [[File:Status Bleed.png|frameless|20x20px]]<font color="DARKRED">BLEEDING</font> and [[File:Status Stun.png|frameless|20x20px]]<font COLOR="YELLOW">PARALYZED</font>
+|-
+| colspan="3" |Phases: 2
+|}
+
+== Strategy ==
+The Neo Pilot fight consists of 2 sub-phases. If players enter the air against Neo Pilot, she will leap towards them and attempt to kick them twice. These kicks have a chance to inflict the Heavy status effect.
+
+In her regular state, Neo Pilot will stick to slashes and strafes. Upon reaching 70% HP, she will start jumping at players from long distances. 
+
+Once per fight, upon reaching 40% HP, Neo Pilot will enter sub-phase 2. She will heal a large portion of health and imbue all of her leaps with electric shockwaves that players must jump over to dodge. Her melee attacks also gain a significant speed boost. Once she reaches 40% HP again, Neo Pilot will unlock two powerful new moves. The first is a forward facing tankbuster that comes out almost instantly, requiring players to keep distance. Her second move is a rapid striking, triple pizza-cutter.
+
+== Credits ==
+Made by Beyond, Honda, Mantibro and THEDAO77
+
+Voiced by JUSTJ3NNY
+
+Music: [https://youtu.be/xOeb7StJlRc?si=ZAyVoSCOIU5zzekx Sawano Hiroyuki, Xenoblade Chronicles X OST - Uncontrollable]
+
+First seen in [https://terror.moe/terrors/neo_pilot Terrors of Nowhere]
+
+Also appears in [https://sots.terror.moe/compendium/neopilot Terrors of Nowhere - Star of the Show]

@@ -1,0 +1,261 @@
+Status Effects include various buffs, debuffs, or other miscellaneous effects which may be applied to the player or enemies. There are 24 Status Effects in Ecliptica.
+
+Status effects apply multiple stacks of the effect which have varying durations rather than being applied for specific amounts of time, which will be detailed here. 
+
+== Buffs ==
+Buffs are effects that are applied through normal gameplay and benefit you in some way.
+{| class="wikitable mw-collapsible" style="background:#000000; color:#ffffff; border:1px solid #444;"
+|+Buffs
+! style="background:#000000; color:#ffffff;" | Status Effect
+! style="background:#000000; color:#ffffff;" | Description
+! style="background:#000000; color:#ffffff;" | Granted By
+|-
+|[[File:Status adrenaline.png|center|frameless|128x128px]]<center>Adrenaline</center>
+|Grants +30% to Damage, Movement Speed, Defense etc
+|Being the Last Person Standing in an instance of 5+ people
+|-
+|[[File:Status_Empower.png|center|frameless|128x128px]]<center>Empowered</center>
+|For Players: Increases all sources of damage dealt by 25%
+For Enemies: Increases all sources of damage dealt by 50%
+
+Stacks last for 1.05 seconds.
+|
+* Twinmage: Wicked Sign
+* Twinmage: Retaliation
+* Fistmage's Deflecting Swipe
+* Spellhammer: Juggernaut (Chuck)
+* Shieldmage: Rally Up
+* Warrior's Will Upgrade
+|-
+|[[File:Status_Defense.png|center|frameless|128x128px]]<center>Enforced</center>
+|Universal: Halves damage taken from all sources.
+Stacks last for 1.1 seconds.
+
+* Does not decrease damage of purple attacks
+|
+* Twinmage: Guarded
+* Twinmage: Wicked Sign
+* Fistmage's Deflecting Swipe
+* Spellhammer: Juggernaut
+* Thaumaturge: Doping
+|-
+|[[File:Status_Feral.png|center|frameless|128x128px]]<center>Frenzied</center>
+|Universal: Increases attack speed by 50%
+Stacks last for 1.5 seconds..
+|
+* Spellsword: Proficiency
+* Twinmage: Wicked Sign
+* Reactive Panic Upgrade
+|-
+|[[File:Status_Move.png|center|frameless|128x128px]]<center>Haste</center>
+|Universal: Increases movement speed by 50%
+Stacks last for 1.15 seconds.
+|
+* Twinmage: Rush
+* Twinmage: Wicked Sign
+* Gunmancer: Sidestep
+* Fistmage: Rage
+* Smell the Roses Upgrade
+|-
+|[[File:Status_Invincible.png|center|frameless|128x128px]]<center>Invincible</center>
+|Universal: Become invulnerable.
+Stacks last for 1 second.
+|
+* Last Stand Upgrade
+|-
+|[[File:Status_Warden.png|center|frameless|128x128px]]<center>Resilience</center>
+|Universal: Blocks one instance of damage, then removes all stacks.
+Stacks last for 10 seconds.
+
+* Has no effect on purple attacks.
+|
+* Shieldmage: Warden
+* Active Guard Rune
+|}
+
+== Debuffs ==
+Debuffs are effects that are applied through normal gameplay and harm you in some way.
+{| class="wikitable mw-collapsible" style="background:#000; color:#fff; border:1px solid #444;"
+|+Debuffs
+! style="background:#000000; color:#ffffff;" | Status Effect
+! style="background:#000000; color:#ffffff;" | Description
+! style="background:#000000; color:#ffffff;" | Granted By
+|-
+|[[File:Status_Breach.png|center|frameless|128x128px]]<center>Breached</center>
+|For Players: Increases all damage taken by 75%
+For Enemies: Increases all damage taken by 25%
+
+Stacks last for 0.7 seconds.
+|
+* Twinmage's Profane Hand
+* Gunmancer's Antimatter Accelerator
+* Thaumaturge: Everlife
+* Nekomancer's Staff of Feline Mortality
+* Nekomancer Zombie Kitty
+* Nekomancer: Soul Detonation
+* Curse of Wrath Upgrade
+* Shadow Aspect Upgrade
+|-
+|[[File:Status_Decay.png|center|frameless|128x128px]]<center>Decay</center>
+|Universal: Sets healing received to 0%
+Stacks last for X seconds.
+|Players cannot grant this
+|-
+|[[File:Status_Frozen.png|center|frameless|128x128px]]<center>Frozen</center>
+|Universal: Reduces movement speed by 75%
+For Players: Reduces utility cooldown rate by 90%
+
+Stacks last for 0.6 seconds
+|
+* Twinmage's Ice Hand
+* Shieldmage: Iceburst
+* Frost Aspect Upgrade
+* Frozen Heart Upgade
+|-
+|[[File:Status_Heavy.png|center|frameless|128x128px]]<center>Heavy</center>
+|Universal: Sets jump height to 0%
+Stacks last for X seconds
+|Players cannot grant this
+|-
+|[[File:Status_Stun.png|center|frameless|128x128px]]<center>Paralyzed</center>
+|Universal: Reduces movement speed by 99% and prevents attacking.
+Stacks last for 0.3 seconds
+
+* Will not pause enemies or bosses who are mid-animation
+|
+* Twinmage's Electric Hand
+* Gunmancer's VA-11 Blast Cannon
+* Spellhammer: Concussion (Both)
+* Thunder Aura Upgrade
+|-
+|[[File:Status_Stick.png|center|frameless|128x128px]]<center>Sticky</center>
+|For Players: Sets Movement Speed and Jump Height to 25%
+Stacks last for x seconds.
+|Players cannot grant this
+|-
+|[[File:Status_Weak.png|center|frameless|128x128px]]<center>Weakened</center>
+|For Players: Reduces all sources of damage dealt by 75%
+For Enemies: Reduces all sources of damage dealt by 25%
+
+Stacks last for 0.8 seconds
+|
+* Twinmage's Divine Hand
+* Gunmancer's Photon Condenser
+* Benison of Purification Upgrade
+* Holy Blessing Upgrade
+* Luminous Aspect Upgrade
+|}
+
+=== Damage over Time ===
+Damage over time effects (or simply DoT's) are a specific subcategory of Debuff effects that will deal damage to the affected targeted on a set interval.
+
+Main Page: Damage
+{| class="wikitable mw-collapsible" style="background:#000; color:#fff; border:1px solid #444;"
+|+DoT
+! style="background:#000000; color:#ffffff;" | Status Effect
+! style="background:#000000; color:#ffffff;" | Description
+! style="background:#000000; color:#ffffff;" | Granted By
+|-
+|[[File:Status_Bleed.png|center|frameless|128x128px]]<center>Bleeding</center>
+|Universal: Deals Physical damage when a stack expires.
+Stacks last for 0.8 seconds.
+|
+* Spellsword
+* Spellsword's Piercing Strike
+* Twinmage's Wind Blade
+* Gunmancer's Kinetic Fletchette
+* Nekomancer's Ballista Kitty
+* Cutting Edge Upgrade
+|-
+|[[File:Status_Fire.png|center|frameless|128x128px]]<center>Burning</center>
+|Universal: Deals Fire damage when a stack expires.
+Stacks last for 0.5 seconds.
+|
+* Twinmage's Flame Hand
+* Nekomancer's Balloon Kitty
+* Fire Aspect Upgrade
+* Flaming Spirit Upgrade
+|-
+|[[File:Status_Poison.png|frameless|128x128px]]<center>Poisoned</center>
+|Universal: Deals Poison damage when a stack expires.
+Stacks last for 0.75 seconds.
+|
+* Thaumaturge's Foul Pustule
+* Thaumaturge: Splashback Upgrade
+* Poison Aspect Upgrade
+|}
+
+== Other ==
+Effects that don't necessarily fit into the category of Buffs and Debuffs, or are applied through special means.
+{| class="wikitable mw-collapsible" style="background:#000; color:#fff; border:1px solid #444;"
+|+Other Effects
+! style="background:#000000; color:#ffffff;" | Status Effect
+! style="background:#000000; color:#ffffff;" | Description
+! style="background:#000000; color:#ffffff;" | Granted By
+|-
+|[[File:Status Applyforce.png|center|frameless|128x128px]]<center>Apply Force</center>
+|Spendable for the [[Fistmage|Fistmage: Apply Force]] Upgrade
+|Fistmage: Apply Force
+|-
+|[[File:Status Collapse.png|center|frameless|128x128px]]<center>Collapse</center>
+|Deals 10% of your HP every 0.1 seconds, it will constantly reapply if the collapse timer has passed the limit.
+|Through reaching the time limit of boss battles
+|-
+|[[File:Death Icon.png|center|frameless|128x128px]]<center>Dead</center>
+|Out of action, but revivable. Inflicts Mortal Curse when revived.
+|First instance of death
+|-
+|[[File:Mortal Curse.png|center|frameless|128x128px]]<center>Mortal Curse</center>
+|You cannot be revived again if you die. This can be bypassed with [[Thaumaturge|Thaumaturge: Everlife]].
+|Second instance of death
+|-
+|[[File:Status Revive Protection.png|center|frameless|128x128px]]<center>Revive Protection</center>
+|Grants 2-5 seconds of damage protection once revived.
+|Being revived by another player
+|-
+|[[File:Status Lights.png|center|frameless|128x128px]]<center>Stop and Go</center>
+|Swaps between STOP and GO. See [[Upgrades|Way of the Law]] for more information.
+|Way of the Law
+|-
+|[[File:Status Vital.png|center|frameless|128x128px]]<center>Vital</center>
+|Indicates when [[Upgrades|Healthy Guard]] is active.
+|Healthy Guard
+|-
+|[[File:Status Volatile.png|center|frameless|128x128px]]<center>Volatile</center> 
+|Allows you to survive an instance of damage and leaves you at 1 HP, as long as you were not LOW HP to begin with.
+|Volatile Tenacity
+|}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[File:Gasterdoor.png|frameless|link=https://ecliptica.miraheze.org/wiki/GasterGotShmooves|Stats|55x55px|right|alt=]]

@@ -1,0 +1,179 @@
+Ecliptica has 37 contributors on Patreon Release, and everyone that has contributed has done a range of things. Every contributor is as follows:
+{| class="wikitable" style="background:#000000; border:1px solid #555; color:#ffffff; margin:0 auto;"
+|+ style="font-size:110%; color:#ffffff;" | Contributors
+! style="background:#000000; color:#ffffff;" | Name
+! style="background:#000000; color:#ffffff;" | Contribution
+|-
+|Ace45677
+|
+* Voiced the Boss "Steven"
+|-
+| style="background:#000000; color:#ffffff;" | Alpha_Tsuki
+| style="background:#000000; color:#ffffff;" |
+* Weapon and Skin Concepts
+|-
+| style="background:#000000; color:#ffffff;" | BAKAME
+| style="background:#000000; color:#ffffff;" |
+* Created the Boss "The Black Lily" and "Pandora"
+* Modelling
+* VFX
+|-
+| style="background:#000000; color:#ffffff;" | Beyond
+| style="background:#000000; color:#ffffff;" |
+* Created the Boss "The Gravetender", "Corus" and "Neo Pilot"
+* Modelling
+* Animation
+|-
+| style="background:#000000; color:#ffffff;" | BlackSheepies
+| style="background:#000000; color:#ffffff;" |
+* Icons of all seven Artifacts
+* Class Icons
+* 2D Art
+|-
+| style="background:#000000; color:#ffffff;" | BimpChooks
+| style="background:#000000; color:#ffffff;" |
+* Voiced the Boss "Amaziah" and "Jacked O' Lantern"
+|-
+|Cinossu
+|
+* Voiced the NPC "Chrono Wizard"
+|-
+| style="background:#000000; color:#ffffff;" | CosMic
+| style="background:#000000; color:#ffffff;" |
+* Created and voiced the Boss "Despair"
+* VFX
+* Modelling
+|-
+| style="background:#000000; color:#ffffff;" | DocMe
+| style="background:#000000; color:#ffffff;" |
+* Additional Shader Support
+|-
+| style="background:#000000; color:#ffffff;" | Eliteiment
+| style="background:#000000; color:#ffffff;" |
+* Created UI/UX elements for controls
+|-
+| style="background:#000000; color:#ffffff;" | Honda
+| style="background:#000000; color:#ffffff;" |
+* Modelling
+|-
+|Jim
+|
+* Concept Designer
+|-
+| style="background:#000000; color:#ffffff;" | JUSTJ3NNY
+| style="background:#000000; color:#ffffff;" |
+* Voiced the Boss "Neo Pilot"
+|-
+| style="background:#000000; color:#ffffff;" | Las Argeti
+| style="background:#000000; color:#ffffff;" |
+* VFX
+|-
+| style="background:#000000; color:#ffffff;" | Mapleveins
+| style="background:#000000; color:#ffffff;" |
+* Voiced the Boss "O-One"
+|-
+| style="background:#000000; color:#ffffff;" | Melon™
+| style="background:#000000; color:#ffffff;" |
+* Created and voiced the Boss "Melgor Johnson" and "NX-Obsidian"
+* Created the Boss "Irides"
+* Created several smaller enemies
+* Animation
+* Modelling
+|-
+| style="background:#000000; color:#ffffff;" | MR COWBOY
+| style="background:#000000; color:#ffffff;" |
+* Concept Designer
+* Voiced the Boss "Jim C. Bringer"
+|-
+| style="background:#000000; color:#ffffff;" | MrNobody
+| style="background:#000000; color:#ffffff;" |
+* Modelling
+* Created several smaller enemies
+|-
+| style="background:#000000; color:#ffffff;" | Mysti
+| style="background:#000000; color:#ffffff;" |
+* Conceptual Art
+* Modelling
+|-
+| style="background:#000000; color:#ffffff;" | NICOMAL
+| style="background:#000000; color:#ffffff;" |
+* Class Icon Pins
+|-
+| style="background:#000000; color:#ffffff;" | Nyla Tigress
+| style="background:#000000; color:#ffffff;" |
+* Music Composer
+|-
+| style="background:#000000; color:#ffffff;" | OccyBee
+| style="background:#000000; color:#ffffff;" |
+* Icons for status effects
+* UI
+* Video editing
+* Art
+|-
+| style="background:#000000; color:#ffffff;" | ruralist
+| style="background:#000000; color:#ffffff;" |
+* Voiced the Boss "Golden Grouch"
+* Modelling
+* Creator of this Wiki
+|-
+| style="background:#000000; color:#ffffff;" | SpacerZ
+| style="background:#000000; color:#ffffff;" |
+* Code Optimisations
+|-
+| style="background:#000000; color:#ffffff;" | stereonezumi
+| style="background:#000000; color:#ffffff;" |
+* Shader Work
+|-
+| style="background:#000000; color:#ffffff;" | symie
+|
+* Music Composer
+|-
+| style="background:#000000; color:#ffffff;" | THEDAO77
+| style="background:#000000; color:#ffffff;" |
+* Animation
+|-
+| style="background:#000000; color:#ffffff;" | TheWIPArtist
+| style="background:#000000; color:#ffffff;" |
+* Icons for bosses in the Bestiary
+* UI elements
+* 2D Art
+|-
+| style="background:#000000; color:#ffffff;" | Tran Fox
+| style="background:#000000; color:#ffffff;" |
+* Unity Plugins
+* Translation groundwork
+|-
+| style="background:#000000; color:#ffffff;" | twui061 (おとぅい)
+| style="background:#000000; color:#ffffff;" |
+* Voiced the Boss "Cone Head"
+|-
+| style="background:#000000; color:#ffffff;" | Uno Dos Tres
+| style="background:#000000; color:#ffffff;" |
+* Initial design for "Irides"
+* Concept Designer
+|-
+| style="background:#000000; color:#ffffff;" | VesraVampire
+| style="background:#000000; color:#ffffff;" |
+* HUD Icons
+* Crosshairs
+|-
+| style="background:#000000; color:#ffffff;" | Voltric [Maruki]
+| style="background:#000000; color:#ffffff;" |
+* Created the Boss "Yuki"
+|-
+| style="background:#000000; color:#ffffff;" | WanderBlues
+| style="background:#000000; color:#ffffff;" |
+* Voiced the Boss "Mephiel"
+|-
+| style="background:#000000; color:#ffffff;" | YoBro
+| style="background:#000000; color:#ffffff;" |
+* Animation
+|-
+| style="background:#000000; color:#ffffff;" | Zesty
+| style="background:#000000; color:#ffffff;" |
+* Music Composer
+|-
+| style="background:#000000; color:#ffffff;" | おばけのロロ
+| style="background:#000000; color:#ffffff;" |
+* Art
+|}

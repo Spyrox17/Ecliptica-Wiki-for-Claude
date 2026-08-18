@@ -1,0 +1,86 @@
+__NOTOC__
+=== Welcome to The Official Ecliptica Wiki! ===
+Your one stop for all information regarding the VRChat Game Ecliptica.<span style="font-size: 20px;">'''<center>⚠️ It is suggested to view this Wiki in Dark Mode!
+⛔ This game is in Patreon Playtest! You must have a Patreon Member to play. Any tier is acceptable, however Patreon Members must start the instance to grant access to everyone!
+</center>'''</span>
+
+This game involves several layers of levels, each one ending in a Boss Battle, with waves of enemies in-between. With an upgrade system, many selectable classes and whelms of enemies and bosses to fight, you won't get bored!
+
+If you would like to support the development of Ecliptica, consider heading over to Mantibro's [https://www.patreon.com/mantibro Patreon Page]!
+
+This game features a lot of contributor made enemies, bosses, effects, etc. Each will be listed in the below page, go check it out!
+
+== Game Categories ==
+<center>
+{|
+|+
+|[[File:ClassesIcon.png|frameless|link=https://ecliptica.miraheze.org/wiki/Classes|Classes|center|200x200px]]
+|[[File:FrostsacIconNew.png|frameless|link=https://ecliptica.miraheze.org/wiki/Enemies|Enemies|center|200x200px]]
+|[[File:Buff Noob Icon.png|frameless|link=https://ecliptica.miraheze.org/wiki/Bosses|<center>Bosses</center>|center|200x200px]]
+|[[File:Crystalicon.png|frameless|link=https://ecliptica.miraheze.org/wiki/Upgrades|center|200x200px]]
+|[[File:Mapicon.png|frameless|link=https://ecliptica.miraheze.org/wiki/Maps|Maps|center|200x200px]]
+|-
+|<center>Classes</center>
+|<center>Enemies</center>
+|<center>Bosses</center>
+|<center>Upgrades</center>
+|<center>Maps</center>
+|-
+|[[File:Chart.png|frameless|link=https://ecliptica.miraheze.org/wiki/Stats|Stats|center|200x200px]]
+|[[File:Anveel.png|frameless|link=https://ecliptica.miraheze.org/wiki/Runes|Runes|center|200x200px]]
+|[[File:Statuseffect.png|frameless|link=https://ecliptica.miraheze.org/wiki/Status_Effects|Status Effects|center|200x200px]]
+|[[File:ArtifactIcon.png|frameless|link=https://ecliptica.miraheze.org/wiki/Artifacts|Artifacts|center|200x200px]]
+|[[File:MusicIcon.png|center|frameless|link=https://ecliptica.miraheze.org/wiki/Music|Music|center|200x200px]]
+|-
+|<center>Player Statistics</center>
+|<center>Runes</center>
+|<center>Status Effects</center>
+|<center>Artifacts</center>
+|<center>Music</center>
+|}
+</center>
+
+== Other ==
+<center>
+For information that doesn't exactly fall above
+{|
+|+
+|[[File:ContributorIcon.png|center|frameless|link=https://ecliptica.miraheze.org/wiki/Contributors|Contributors|200x200px]]
+|[[File:SkinsIcon.png|frameless|link=https://ecliptica.miraheze.org/wiki/Skins|Skins|center|200x200px]]
+|[[File:Extraicon.png|center|frameless|link=https://ecliptica.miraheze.org/wiki/Extra|Extra|center|200x200px]]
+|-
+|<center>Contributors</center>
+|<center>Skins</center>
+|<center>Extras</center>
+|}
+</center>
+== Useful Links ==
+<center>
+{| class="sortable" margin:0 auto;
+|+
+|-
+| [[File:patreon-icon.png|center|frameless|link=https://www.patreon.com/Mantibro|Patreon Page|150x150px]]
+| [[File:Discord icon.png|center|frameless|link=https://discord.gg/slashcovr|Official Development Discord Server|150x150px]]
+| [[File:Discord icon.png|center|frameless|link=https://discord.gg/q8GTzCMwtD|Official Community Discord Server|150x150px]]
+| [[File:VRChat Icon.png|center|frameless|link=https://vrc.group/TCS.6095|Official Community VRChat Group|150x150px]]
+|-
+|<center>Patreon</center>
+|<center>Development 
+Discord Server
+</center>
+|<center>Official 
+Community Server
+</center>
+|<center>Community Server 
+VRChat Group
+</center>
+|}
+</center>If there are any problems with the wiki, feel free to reach out to me in The Community Server > Ecliptica > ecliptica-wiki-stuff.
+
+This Wiki will be community driven, however, solely maintained by ruralist and WhereFernsGrow.
+
+Please report unprotected pages immediately.
+
+Photos will always be accepted. The more the better.
+
+If you feel like supporting me, as this Wiki took a lot of effort to make, please go [https://www.patreon.com/cw/ruralist here].

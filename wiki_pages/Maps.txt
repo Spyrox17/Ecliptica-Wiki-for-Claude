@@ -1,0 +1,64 @@
+As of the Patreon Playtest there are 13 maps available to play on (this is not including the lobby, shop and end areas).
+{| class="wikitable" style="background:#000000; border:1px solid #555; color:#ffffff; margin:0 auto;"
+|+
+! style="background:#000000; color:#ffffff;" | Name
+! style="background:#000000; color:#ffffff;" | Image
+|-
+|Forest Test
+(Test Only! No longer viewable!)
+|[[File:Foresttest.png|frameless]]
+|-
+|Beginning Lobby
+|[[File:Beginning Lobby.png|center|frameless]]
+|-
+|The In-Between
+|[[File:The Inbetween.png|center|frameless]]
+|-
+|Hall of Beginnings
+|[[File:Map1.png|frameless]]
+|-
+|Geometric Citadel
+|[[File:Geometric citadel.png|frameless]]
+|-
+|Copied City
+|[[File:Copied city.png|frameless]]
+|-
+|GM_Func_Flat
+|[[File:GMFuncFlat.png|frameless]]
+|-
+|GM_Func_Flat_3
+|[[File:GMFuncFlat3.png|frameless]]
+|-
+|GM_CarCon
+|[[File:Carcon.png|center|frameless]]
+|-
+|GM_BigCity
+|[[File:GMBigCity.png|center|frameless]]
+|-
+|Proto Colony
+|[[File:Proto Colony.png|center|frameless]]
+|-
+|Balboa Ruins
+|[[File:Balboa Ruins.png|center|frameless]]
+|-
+|VRChat Hub
+|[[File:VRChat Hub.png|center|frameless]]
+|-
+|Lost Elysia
+|[[File:Lost Elysia.png|center|frameless]]
+|-
+|Calamity Palace
+|[[File:Calamity Palace.png|center|frameless]]
+|-
+|Hallow
+|[[File:Hallow.png|center|frameless]]
+|-
+|Bringer's Desert
+|[[File:Jim.png|center|frameless]]
+|-
+|Bringer Mothership
+|[[File:BringerMothership.png|center|frameless]]
+|-
+|The End of Time
+|[[File:End of Time.png|center|frameless]]
+|}

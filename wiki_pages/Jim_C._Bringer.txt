@@ -1,0 +1,118 @@
+== Lore ==
+The founder, owner and CEO of the Bringer Company, a centralized corporation specializing in research and manufacturing of heavy weaponry which utilize Min-Max technology from the Meta of the Faction Wars. The company is headquartered in a massive, wedge-shaped floating mothership, The Singularity.
+
+Jim himself was a combatant of the Faction Wars, once being a member of the clan IZK, a.k.a Izakia. Under the guidance and mentorship of Bob H. Dee, one of the most knowledgeable and efficient Min-Maxers, he eventually become highly proficient in creating extremely efficient machines of the Meta War. During the war, he created what he dubbed the Triple Entente, which consisted of three highly advanced armored vehicles. The C. Flipper, #REDACTED# and #REDACTED#.
+
+The first was a wedge-shaped heavily armored tracked vehicle, capable of reaching speeds of up to 130 MPH, being able to accelerate to 100 MPH in less than 5 seconds. Its combat role was to ram itself into enemy tanks to then send them flying, rendering them defenseless.
+
+The second, a streamlined Main Battle Tank whose turret was shaped like a #REDACTED#. Built as an experiment to attempt to recreate the technology of The Khabib, the most feared and powerful tank belonging to ISA, the Inner Sphere Alliance, a rival faction to IZK. The #REDACTED# was capable of reaching speeds of 300 MPH, with a 0-100 time of less than half a second.
+
+The third, and most powerful of the Triple Entente, a humongous wedge with an excessively large rotary autocannon, all driven by a single, imbalanced monowheel.
+
+Jim was a witness of the covert operation done by Malleus C. Gaming, which allowed IZK to steal The Khabib and expose the alien technology that allowed its armor to have the ability to become completely impermeable to any and all kinetic attacks.
+
+Jim, according to his former Meta War peers, is considered "unapologetically and unfathomably ####### stupid." In spite of this, he considers himself to be a mastermind tactician who can easily overwhelm any opponent with his "perfect plan." In reality, the plans and tactics concocted by Jim would be consistently considered tactically nonsensical, usually involving a lot of wasted resources and unnecessary steps, and would be extremely unlikely to bring positive results. However, when the plan is set in motion, any and all weaknesses are easily resolved by Jim's pure brute strength, which in turn leads Jim to believe his tactics were impeccable, further reinforcing his self-perceived intelligence.
+{| class="wikitable" style="background:#000000; color:#ffffff; border:1px solid #444;"
+| colspan="3" |<center>'''<big>Jim C. Bringer (Phase 1 and 2)</big>'''</center>
+|-
+| rowspan="8" |[[File:Bringer.png|frameless|center]]
+|Affinity
+|Resistance
+|-
+|<font color="GREY">PHYSICAL</font>
+|NEUTRAL (1x)
+|-
+|<font color="ORANGE">FIRE</font>
+|NEUTRAL (1x)
+|-
+|<font color="LIGHTBLUE">FROST</font>
+|NEUTRAL (1x)
+|-
+|<font color="YELLOW">ELECTRIC</font>
+|NEUTRAL (1x)
+|-
+|<font color="#e4e08c">LUMINOUS</font>
+|NEUTRAL (1x)
+|-
+|<font color="PURPLE">SHADOW</font>
+|NEUTRAL (1x)
+|-
+|<font color="#f02ae0">POISON</font>
+|NEUTRAL (1x)
+|-
+| colspan="3" |Base HP: 50000
+|-
+| colspan="3" |Damage: <font color="GREY">PHYSICAL</font>
+|-
+| colspan="3" |Can inflict: -
+|}
+{| class="wikitable" style="background:#000000; color:#ffffff; border:1px solid #444;"
+| colspan="3" |<center>'''<big>Jim C. Bringer (Phase</big>''' '''<big>3)</big>'''</center>
+|-
+| rowspan="8" |[[File:Bringer.png|frameless|center]]
+|Affinity
+|Resistance
+|-
+|<font color="GREY">PHYSICAL</font>
+|NEUTRAL (1x)
+|-
+|<font color="ORANGE">FIRE</font>
+|RESIST (0.75x)
+|-
+|<font color="LIGHTBLUE">FROST</font>
+|RESIST (0.75x)
+|-
+|<font color="YELLOW">ELECTRIC</font>
+|RESIST (0.75x)
+|-
+|<font color="#e4e08c">LUMINOUS</font>
+|RESIST (0.75x)
+|-
+|<font color="PURPLE">SHADOW</font>
+|RESIST (0.75x)
+|-
+|<font color="#f02ae0">POISON</font>
+|RESIST (0.75x)
+|-
+| colspan="3" |Base HP: 50000
+|-
+| colspan="3" |Damage: <font color="GREY">PHYSICAL</font>
+|-
+| colspan="3" |Can inflict: [[File:Status Bleed.png|frameless|20x20px]]<font color="DARKRED">BLEEDING</font>
+|}
+
+== Strategy ==
+'''All of Jim's direct Melee Attacks will deal <font color="PURPLE">PURPLE</font> Damage!'''
+
+Phase 1: During Phase 1, Jim is neutral to all forms of damage. While attacking, he will throw out powerful, long reaching punches while ignoring any form of attention grabbing abilites, as his aggro is entirely random in all phases of the fight. Upon reaching 70% HP, Jim will unlock more moves, including a long distance leap and his infamously powerful laser. Upon reaching 40% HP, Jim will be able to perform Cataclysm, a long channeling and near arena sized nuke. Standing within the center radius of Cataclysm will instantly kill, but the damage slowly ramps down as you exit and get further from the center. He will be passive for a long time after performing Cataclysm, so it's advised to take this time to restore your team's health and revive any dead players once Cataclysm is over.
+
+At 70%, 50%, and 30% HP, Jim will pause to summon a Jim's Wedge, a powerful supporting enemy which fires from long distances.
+
+
+
+Phase 2: Phase 2 begins with Jim entering the Flipper MK.II Abyssal, which he will remain in for the entire phase. The Flipper is immune to any and all damage, considering any damage as Blocked. It has access to 3 moves. It can ram players at extreme speeds dealing heavy purple damage, it can deploy a Jim's Wedge, and it can launch a barrage of rockets at targets from any distance.
+
+Once 2 minutes have passed, 4 Signal Towers will drop in each corner of the arena. Players must stand inside these Signal Towers to charge them. Alone, these Signal Towers take 30 seconds to charge, but this duration increases with the lobby's player count. Several players standing under one Signal Tower will increase how quickly it charges. Once all 4 Signal Towers have been charged, an orbital strike will land on the Flipper, destroying it.
+
+
+
+Phase 3: Phase 3 consists of 2 sub-phases. Jim will behave similarly to the original Phase 1, however his entire moveset has been powered up. He swings much faster, combos for longer, and unlocks extremely powerful combo chain enders. Jim will also now gain a 0.75x resistance to all elements with the exception of Physical. 
+
+Upon reaching 70% HP, Jim will unlock the same moves as before, but once again these moves have been enhanced. His laser is wider and faster, and his leap will deal more damage. Jim may now also teleport to players who are far away, or teleport mid-combo to catch players off guard.
+
+Upon reaching 50% HP, sub-phase 2 will begin. With a long cooldown, a Product Barrel will drop in the arena. The barrel will drop directly opposite to the side of the arena where Jim is standing. Jim will become invincible, and begin jogging towards the barrel. Players must destroy the barrel before Jim reaches it. If Jim reaches the barrel, he will consume it, healing a large portion of HP and granting a long Empowered and Enforced buff. If Jim heals above 50% HP from this, he will not be able to drop any more barrels until he reaches that health threshold again.
+
+Jim's moveset will expand one more time, unlocking powerful moves which often effect the whole arena. Nutnado, a powerful tornado which pulls players into the air. Nutdust, an arena wide gravity slam which will only damage players who are airborne, inflicting a lasting Heavy status effect. Tableflip, where Jim will ground himself and target the entire arena in the direction he is facing, dealing damage from both the impact and the wave that follows. Finally, at 40% HP, Jim will once again gain access to Cataclysm.
+
+== Credits ==
+Made by Scena and Mantibro
+
+Voiced by MRCOWBOY
+
+Music Phase 1: [https://www.youtube.com/watch?v=j4xCb_OU_lM Opeth - Blackwater Park]
+
+Music Phase 2: [https://www.youtube.com/watch?v=gFaC-RJv_z8 Arena - The Bishop of Lufford]
+
+Music Phase 3: [https://www.youtube.com/watch?v=oot-cgfcSZk Beyond the Bridge - The Call]
+
+Original Model Design from Team Fortress 2 by VALVE

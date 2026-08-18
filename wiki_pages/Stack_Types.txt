@@ -1,0 +1,40 @@
+Every upgrade in Ecliptica can be obtained multiple times, gaining increased value per upgrade, or per "stack" of an upgrade which will be defined on the [[Upgrades]] page or on each individual [[Classes|Class]] page. Different upgrades may have different formulas for how much value they gain per stack, examples of which will be provided below. 
+
+This only covers how upgrades themselves function, but note that specific stats gained through upgrades may be subject to their own individual [[Stats|falloff points]] which are separate from the stack types covered below.
+
+== Linear ==
+[[File:LinearGraph.png|thumb|A linear graph of "y=x"]]
+'''Linear''' stack types will always give the same amount of value no matter how many you have. 
+
+Ex. 100% > 150% > 200% > 250% > 300%
+
+
+
+== Hyperbolic ==
+[[File:Hyperbolic Graph.png|thumb|A hyperbolic graph of "y=10log(x)"]]
+'''Hyperbolic''' stack types provide continuously lower value per stack, typically to prevent a value from reaching specific breakoff points (such as if an effect applying 100% of the time would be too strong.)
+
+Ex. 100% > 150% > 194% > 232% > 264%
+
+
+
+== Reciprocal ==
+'''Reciprocal''' stack types are a sub-type of Hyperbolic. They are functionally the same idea but Reciprocal stacking applies when '''removing''' value from a stat so that the stat never reaches zero.
+
+Ex. 100% > 50% > 25% > 12.5% > 6.25%
+
+
+
+
+== Exponential ==
+[[File:Exponential Graph.png|thumb|An exponential graph of "y=0.1x^2"]]
+'''Exponential''' upgrades multiply against themselves, meaning they gain increasingly more value per stack.
+
+Ex. 100% > 150% > 225% > 337.5% > 506.25%
+
+
+
+== Multiplicative ==
+'''Multiplicative''' technically does not define how an upgrade stacks, but rather defines how it is applied. Most upgrades are simply additions to the base value, but in some cases they may be multipliers to the entire value of a stat including all other upgrades except themselves. These multipliers do not typically appear on the stat board.
+
+Ex. 200% + 50% = 250% VS 200% + 50% = 300%

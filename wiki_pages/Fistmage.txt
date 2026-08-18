@@ -1,0 +1,73 @@
+= Fistmage =
+Someone as musclebrained as you has no reason to become a sorcerer, but you persevered anyway and made it work somehow.
+
+Powerful hybrid tank/damage class with a strong focus on counterattacks.
+
+== Skills ==
+
+=== [[File:Fistmage-Aura-Fist.png|frameless|64x64px]] Primary: Aura Fist ===
+Charge for up to 1 second and release to punch, dealing 55-100 <font COLOR="GREY">PHYSICAL</font> damage based on charge level. 
+
+=== [[File:Fistmage-Deflection.png|frameless|64x64px]] Secondary: Deflecting Swipe ===
+Swipe, dealing 40 <font COLOR="GREY">PHYSICAL</font> damage.
+
+After the swipe, gain a short window where the next instance of damage you take will be fully deflected. Successfully deflecting an attack will grant you 7 stacks of <font COLOR="#ff0000">[[File:Status Empower.png|frameless|20x20px]]EMPOWERED</font> and [[File:Status Defense.png|frameless|20x20px]]<font color="#12ebff">ENFORCED,</font> HEAL you for 25 health, and instantly reset the cooldown.
+
+5 second cooldown.
+
+=== [[File:Fistmage-Utility.png|frameless|64x64px]] Utility: Super Endurance ===
+For 5 seconds, cleanse all negative status effects and enter an enduring stance. During this time you lose 75% movement speed, reduce damage taken by X%, gain 400% increased knockback resistance, and gain increased [[Aggro]] draw.
+
+* All above stats are multipliers to your base stats and go above any caps.
+
+12 second cooldown.
+
+== Class Upgrades ==
+{| class="wikitable" style="background:#000000; border:1px solid #555; color:#ffffff; margin:0 auto;"
+|+
+! style="background:#000000; color:#ffffff;" | Image
+! style="background:#000000; color:#ffffff;" | Rarity
+! style="background:#000000; color:#ffffff;" | Skill
+! style="background:#000000; color:#ffffff;" | Description
+! style="background:#000000; color:#ffffff;" | Stack Type
+|-
+|[[File:Fistmage Proficiency.png|center|frameless|128x128px]]
+|Common
+|Fistmage: Proficiency
+|On a successful Deflecting Swipe, heal 2 (+2 per stack) HP and summon an aura around yourself, healing nearby allies for half of your personal healing
+|Linear
+|-
+|[[File:Fistmage Mach Punch.png|center|frameless|128x128px]]
+|Rare
+|Fistmage: Mach Punch
+|Gain additional <font COLOR="GREY">PHYSICAL</font> Damage equivalent to 25% (+25% per stack) of your Movement Speed stat past 100%
+|Linear
+|-
+|[[File:Fistmage Mastery.png|center|frameless|128x128px]]
+|Rare
+|Fistmage: Mastery
+|On a successful deflection, the gained <font COLOR="#ff0000">[[File:Status Empower.png|frameless|20x20px]]EMPOWERED</font> and [[File:Status Defense.png|frameless|20x20px]]<font COLOR="#12ebff">ENFORCED</font> status effects are increase by 1 (+1 per stack) stack.
+|Linear
+|-
+|[[File:FistMRage.png|center|frameless|128x128px]]
+|Rare
+|Fistmage: Rage
+|On a successful Deflecting Swipe, doubles your Attack Speed for 4 seconds and grants you 3 (+1 per stack) stacks of the [[File:Status Move.png|frameless|20x20px]]<font COLOR="DARKBLUE">HASTE</font> status effect.
+This may only grant you a maximum of 10 stacks of [[File:Status Move.png|frameless|20x20px]]<font color="DARKBLUE">HASTE</font>.
+|Linear
+|-
+|[[File:FistMRunner.png|center|frameless|128x128px]]
+|Rare
+|Fistmage: Runner
+|While charging Aura Fist, gradually doubles Movement Speed over 10 (-2 per stack) seconds.
+
+* Goes over the movement speed cap.
+|Linear
+|-
+|[[File:Fistmage Apply Force.png|center|frameless|128x128px]]
+|Legendary
+|Fistmage: Apply Force
+|Upon a successful Deflecting Swipe, gain a stack of the [[File:Status Applyforce.png|frameless|20x20px]]<font COLOR="#fff1a6">APPLY-FORCE</font> status effect. Upon releasing a fully charged Aura Fist punch with the status effect active, fire a Ranged Projectile dealing 50 <font COLOR="GREY">PHYSICAL</font> Damage and consume a stack of the status effect.
+Deflecting Swipe Cooldown +30% (+30% per stack)
+|Linear
+|}

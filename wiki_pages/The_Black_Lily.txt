@@ -1,0 +1,90 @@
+== Lore ==
+CODE: BLACK LILY Report
+
+An unidentified entity has been confirmed at ████/███/██ in sector ████.
+
+The entity attempted to establish control over the surrounding environment by commanding multiple species of smaller entities in a manner similar to a queen bee directing its swarm.
+
+Furthermore, substances produced by both the entity and its servants have been found to possess severe mind-corrupting properties. Reports indicate that exposed individuals suffered intense confusion and hallucinations, often describing the sensation as though the thoughts of other people had become mixed with their own.
+
+The white spherical structures attached to the entity have been designated as "Cores." These Cores are capable of recording the informational composition of matter and reproducing it.
+
+It has been determined that these Cores allow the entity to generate servants in effectively limitless quantities. As such, the entity’s capacity to influence and overwrite its surroundings has been assessed as catastrophic. Immediate extermination is required upon discovery.
+{| class="wikitable" style="background:#000000; color:#ffffff; border:1px solid #444;"
+| colspan="3" |<center>'''<big>T</big><big>he Black Lily</big>'''</center>
+|-
+| rowspan="8" |[[File:Black Lily.png|frameless|center]]
+|Affinity
+|Resistance
+|-
+|<font color="GREY">PHYSICAL</font>
+|NEUTRAL (1x)
+|-
+|<font color="ORANGE">FIRE</font>
+|WEAK (1.25x)
+|-
+|<font color="LIGHTBLUE">FROST</font>
+|WEAK (1.25x)
+|-
+|<font color="YELLOW">ELECTRIC</font>
+|NEUTRAL (1x)
+|-
+|<font color="#e4e08c">LUMINOUS</font>
+|RESIST (0.25x)
+|-
+|<font color="PURPLE">SHADOW</font>
+|RESIST (0.25x)
+|-
+|<font color="#f02ae0">POISON</font>
+|NEUTRAL (1x)
+|-
+| colspan="3" |Base HP: 6500
+|-
+| colspan="3" |Damage: <font color="#e4e08c">LUMINOUS</font> and <font color="PURPLE">SHADOW</font>
+|-
+| colspan="3" |Can inflict: [[File:Status Bleed.png|frameless|20x20px]]<font COLOR="DARKRED">BLEEDING</font>, [[File:Status Weak.png|frameless|20x20px]]<font COLOR="BROWN">WEAKENED</font>, [[File:Status Breach.png|frameless|20x20px]]<font COLOR="LIGHTGREY">BREACHED</font> and [[File:Status Decay.png|frameless|20x20px]]<font COLOR="#87FF73">DECAYED</font>
+|-
+| colspan="3" |Phases: 1
+|-
+| colspan="3" |This boss is Stationary, meaning it doesn't move when it spawns.
+|}
+
+== Strategy ==
+The Black Lily is a stationary boss that summons up to 3 Black Lily Tokens at any given time. It begins with only 2 attacks before reaching 50% HP where it has access to a few additional, much more devastating moves ranging from puddles that can apply the decay status effect to a large laser damaging an entire half of the battlefield. Many of Black Lily's attacks provide little to no indicator, forcing its opponents to pay close attention to it as well as its minions less they be caught off guard.
+
+== Credits ==
+Made by BAKAME, Mantibro and CosMicz 
+
+Music: [https://youtu.be/rgnSmH3lU84?si=CQZK_faTJfpmNb2L Monster Siren Records - Voices]
+
+== Statistics ==
+Base HP: 11000
+
+This boss does not deviate from its spawn point.
+
+Damage: <font COLOR="#e4e08c">LUMINOUS</font> and <font COLOR="PURPLE">SHADOW</font>
+{| class="wikitable" style="background:#000; color:#fff; border:1px solid #444;"
+! style="background:#000000; color:#ffffff;" | Affinity
+! style="background:#000000; color:#ffffff;" | Resistance
+|-
+|<font COLOR="GREY">PHYSICAL</font>
+|NEUTRAL (1x)
+|-
+|<font COLOR="ORANGE">FIRE</font>
+|WEAK (1.25x)
+|-
+|<font COLOR="LIGHTBLUE">FROST</font>
+|WEAK (1.25x)
+|-
+|<font COLOR="YELLOW">ELECTRIC</font>
+|NEUTRAL (1x)
+|-
+|<font COLOR="#e4e08c">LUMINOUS</font>
+|RESIST (0.25x)
+|-
+|<font COLOR="PURPLE">SHADOW</font>
+|RESIST (0.25x)
+|-
+|<font COLOR="#f02ae0">POISON</font>
+|NEUTRAL (1x)
+|}

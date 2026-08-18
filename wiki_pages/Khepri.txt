@@ -1,0 +1,56 @@
+== Lore ==
+Amongst the growing hatchlings of Queen Vesra’s offspring, there was one sealed cocoon. As new Peltapod larvae hatched, that one egg simply laid dormant. Not dead, but still growing, over many years, becoming stronger and stronger. Queen Vesra, knowing that she would not be able to protect her colony forever, laid one egg which she coddled to no end, day after day pouring as much magical energy into it as she could allow. If she were to ever fall, the egg would stop receiving her energy, which would then lead it to finally hatch.
+
+Queen Vesra can be at peace, knowing that after her passing, her precious offspring will be protected by a more than worthy successor.
+{| class="wikitable" style="background:#000000; color:#ffffff; border:1px solid #444;"
+| colspan="3" |<center>'''<big>Khepri</big>'''</center>
+|-
+| rowspan="8" |[[File:Khepri.png|frameless|center]]
+|Affinity
+|Resistance
+|-
+|<font color="GREY">PHYSICAL</font>
+|NEUTRAL (1x)
+|-
+|<font color="ORANGE">FIRE</font>
+|WEAK (1.25x)
+|-
+|<font color="LIGHTBLUE">FROST</font>
+|RESIST (0.75x)
+|-
+|<font color="YELLOW">ELECTRIC</font>
+|NEUTRAL (1x)
+|-
+|<font color="#e4e08c">LUMINOUS</font>
+|RESIST (0.75x)
+|-
+|<font color="PURPLE">SHADOW</font>
+|WEAK (1.25x)
+|-
+|<font color="#f02ae0">POISON</font>
+|NEUTRAL (1x)
+|-
+| colspan="3" |Base HP: 26000
+|-
+| colspan="3" |Damage: <font color="GREY">PHYSICAL</font> and <font color="LIGHTBLUE">FROST</font>
+|-
+| colspan="3" |Can inflict: [[File:Status Bleed.png|frameless|20x20px]]<font COLOR="DARKRED">BLEEDING</font> and [[File:Status Frozen.png|frameless|20x20px]]<font COLOR="LIGHTBLUE">FROZEN</font>
+|-
+| colspan="3" |Phases: 2
+|}
+
+== Strategy ==
+The Khepri fight consists of 2 phases. In Phase 2, Khepri will gain greatly increased mobility and the ability to fly.
+
+Khepri is capable of unleashing powerful ice attacks in a pizza cutter shape, these can be chained up to 3 times in a row. If players a far away in Phase 1, he can throw a deadly accurate ice spike which always inflicts the freeze debuff.
+
+In Phase 2, if players are near Khepri, he may choose to scream. This will freeze everyone caught in the purple radius, and he will instantly transition into flying. While in flight, Khepri has the ability to both grab players and also throw out a shredding spread of ice projectiles, all inflicting a long freeze status.
+
+== Credits ==
+Made by Have, Scena and Mantibro
+
+Original Design from Solo Leveling and Chugong
+
+Music Phase 1: [https://youtu.be/WpY2nk_oN_c?si=0_bnYptbTJmQAIrf Sawano Hiroyuki, Solo Leveling - Arise from the Shadow-Suite-Lv. 2]
+
+Music Phase 2: [https://youtu.be/fMzPm0AAVFU?si=0EUzgR8LEd4UCQty Sawano Hiroyuki, HOWL]

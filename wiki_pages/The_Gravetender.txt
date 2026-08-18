@@ -1,0 +1,84 @@
+== Lore ==
+A demon known as the Gravetender; born from the angel who wished for an eternal rest.
+
+Its agony has caused it to lose its sense of self. The demon grew in size due to its roots, transforming itself into a worm-like creature with hundreds of arms making up its body, digging through the soil and burrowing itself with the goal of locating the corpse of its creator, for only the destruction of it would put an end to the demon's suffering.
+
+It mourns all who fall before it, ensuring they are properly memorialized; though, it may just be a way to mark where it has already been searched.
+{| class="wikitable" style="background:#000000; color:#ffffff; border:1px solid #444;"
+| colspan="3" |<center>'''<big>The Gravetender</big>'''</center>
+|-
+| rowspan="8" |[[File:The Gravetender.png|frameless|center]]
+|Affinity
+|Resistance
+|-
+|<font color="GREY">PHYSICAL</font>
+|NEUTRAL (1x)
+|-
+|<font color="ORANGE">FIRE</font>
+|RESIST (0.5x)
+|-
+|<font color="LIGHTBLUE">FROST</font>
+|WEAK (1.25x)
+|-
+|<font color="YELLOW">ELECTRIC</font>
+|NEUTRAL (1x)
+|-
+|<font color="#e4e08c">LUMINOUS</font>
+|WEAK (1.25x)
+|-
+|<font color="PURPLE">SHADOW</font>
+|NEUTRAL (1x)
+|-
+|<font color="#f02ae0">POISON</font>
+|NEUTRAL (1x)
+|-
+| colspan="3" |Base HP: 6500
+|-
+| colspan="3" |Damage: <font color="GREY">PHYSICAL</font> and <font color="PURPLE">SHADOW</font>
+|-
+| colspan="3" |Can inflict: [[File:Status Bleed.png|frameless|20x20px]]<font COLOR="DARKRED">BLEEDING</font> and [[File:Status Breach.png|frameless|20x20px]]<font COLOR="LIGHTGREY">BREACHED</font>
+|-
+| colspan="3" |Phases: 1
+|}
+
+== Strategy ==
+The Gravetender fight consists of 1 phase.
+
+The Gravetender is a semi-stationary boss which occasionally burrows around the arena below players to move around. The Gravetender will occasionally shoot out a Gravity Well, a slow moving orb which will pull in all players within it's radius, it cannot be killed and will only go away with time.
+
+== Credits ==
+Made by Beyond
+
+Music: [https://youtu.be/egKdBc1Ukrw?si=Bpo6OvadSuIP5HVI StudioEIM - Intervallo VI-EX Boss Theme 1]
+
+The Gravetender is from [https://sots.terror.moe/compendium/theaperture Terrors of Nowhere - Star of the Show].
+
+== Statistics ==
+Base HP: 7800
+
+Damage: <font COLOR="GREY">PHYSICAL</font> and <font COLOR="PURPLE">SHADOW</font>
+{| class="wikitable" style="background:#000; color:#fff; border:1px solid #444;"
+! style="background:#000000; color:#ffffff;" | Affinity
+! style="background:#000000; color:#ffffff;" | Resistance
+|-
+|<font COLOR="GREY">PHYSICAL</font>
+|NEUTRAL (1x)
+|-
+|<font COLOR="ORANGE">FIRE</font>
+|RESIST (0.5x)
+|-
+|<font COLOR="LIGHTBLUE">FROST</font>
+|WEAK (1.25x)
+|-
+|<font COLOR="YELLOW">ELECTRIC</font>
+|NEUTRAL (1x)
+|-
+|<font COLOR="#e4e08c">LUMINOUS</font>
+|WEAK (1.25x)
+|-
+|<font COLOR="PURPLE">SHADOW</font>
+|NEUTRAL (1x)
+|-
+|<font COLOR="#f02ae0">POISON</font>
+|NEUTRAL (1x)
+|}

@@ -1,0 +1,77 @@
+== Lore ==
+Forcefully pulled through a portal, Melgor Johnson is a Y-Style automaton able to shift the shape of his body for comedic effect, along with further questioning he gave the answers to how he works:
+
+Q - "What is your name?"
+
+A - "My name'a Melon"
+
+Q - "Why do you become Buff?"
+
+A - "Because I can"
+
+Q - "How do your powers work?"
+
+A - "Mountain Dew Voltage..."
+
+Q - "Where did you come from?"
+
+A - "My house..."
+
+Q - "Who are you?"
+
+A - "The Creator of... uh... um... theres these cool games named-"
+{| class="wikitable" style="background:#000000; color:#ffffff; border:1px solid #444;"
+| colspan="3" |<center>'''<big>M</big><big>elgor Johnson</big>'''</center>
+|-
+| rowspan="8" |[[File:Melgor.png|frameless|center]]
+|Affinity
+|Resistance
+|-
+|<font color="GREY">PHYSICAL</font>
+|NEUTRAL (1x)
+|-
+|<font color="ORANGE">FIRE</font>
+|NEUTRAL (1x)
+|-
+|<font color="LIGHTBLUE">FROST</font>
+|WEAK (1.5x)
+|-
+|<font color="YELLOW">ELECTRIC</font>
+|RESIST (0.5x)
+|-
+|<font color="#e4e08c">LUMINOUS</font>
+|NEUTRAL (1x)
+|-
+|<font color="PURPLE">SHADOW</font>
+|WEAK (1.25x)
+|-
+|<font color="#f02ae0">POISON</font>
+|NEUTRAL (1x)
+|-
+| colspan="3" |Base HP: 10000
+|-
+| colspan="3" |Damage: <font color="GREY">PHYSICAL</font> and <font color="YELLOW">ELECTRIC</font>
+|-
+| colspan="3" |Can inflict: [[File:Status Stun.png|frameless|20x20px]]<font color="YELLOW">PARALYZING</font>
+|-
+| colspan="3" |Phases: 2
+|}
+
+== Strategy ==
+The Melgor Johnson battle consists of 2 phases. In Phase 2, his moveset is enhanced with extra damage and more electrical attacks.
+
+At any health in Phase 2, Melgor Johnson may clap his cheeks, emitting a massive purple shockwave.
+
+== Credits ==
+Made by MelonTM and Mantibro
+
+Voiced by MelonTM
+
+Music Phase 1: [https://www.youtube.com/watch?v=KetDSVHQU7Y Jamie Christopherson - Might Makes Right, Metal Gear Rising Revengeance OST]
+
+Music Phase 2: [https://www.youtube.com/watch?v=rOmD2CQGgt4 Jamie Christopherson - It Has To Be This Way, Metal Gear Rising Revengeance OST]
+
+== Fun Facts ==
+This is just Melon's model, and yes, he is that caked up.
+
+All of Melgor's Voicelines: https://youtu.be/T7xrUbRMMi4

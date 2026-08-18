@@ -1,0 +1,51 @@
+== Lore ==
+The Queen and protector of the Peltapod Colony. Having been exiled from their home habitat due to dimensional instability, Vesra has grown extremely territorial and violently protective of her offspring. Due to the harsh conditions brought about by being a species of dimensional interlopers, Queen Vesra's body has adapted into a more combat-focused form, with sleek body parts.
+{| class="wikitable" style="background:#000000; color:#ffffff; border:1px solid #444;"
+| colspan="3" |<center>'''<big>Vesra</big>'''</center>
+|-
+| rowspan="8" |[[File:Vesra.png|frameless|center]]
+|Affinity
+|Resistance
+|-
+|<font color="GREY">PHYSICAL</font>
+|NEUTRAL (1x)
+|-
+|<font color="ORANGE">FIRE</font>
+|WEAK (1.5x)
+|-
+|<font color="LIGHTBLUE">FROST</font>
+|RESIST (0.75x)
+|-
+|<font color="YELLOW">ELECTRIC</font>
+|NEUTRAL (1x)
+|-
+|<font color="#e4e08c">LUMINOUS</font>
+|RESIST (0.75x)
+|-
+|<font color="PURPLE">SHADOW</font>
+|WEAK (1.25x)
+|-
+|<font color="#f02ae0">POISON</font>
+|RESIST (0.5x)
+|-
+| colspan="3" |Base HP: 4800
+|-
+| colspan="3" |Damage: <font color="GREY">PHYSICAL</font> 
+|-
+| colspan="3" |Can inflict: [[File:Status Bleed.png|frameless|20x20px]]<font COLOR="DARKRED">BLEEDING</font>
+|-
+| colspan="3" |Phases: 1
+|}
+
+== Strategy ==
+The Vesra battle consists of 2 sub-phases, a regular form and a cocooned form. Vesra will become immune to all damage while within the cocoon.
+
+In her regular form, Vesra will alternate between a grounded and airborne moveset. At 50% HP, Vesra will transfer into her cocoon state, spawning a single Peltapod Guard and then spawning regular peltapods in set intervals. Once the Peltapod Guard is slain, she will exit the cocoon and return to her regular form.
+
+== Credits ==
+Made by Have and Mantibro
+
+Music: [https://youtu.be/E-xg-GO73-Q?si=lH9Nm7Mi-0dwItAO Rocket Scientists - Ptolemy]
+
+== Fun Facts ==
+Vesra was named after one of the contributors for Ecltipica: VesraVampire

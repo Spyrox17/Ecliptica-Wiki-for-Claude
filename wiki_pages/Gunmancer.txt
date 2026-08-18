@@ -1,0 +1,107 @@
+= Gunmancer =
+With enough cybernetic enhancements and a brain-interfaced Blast Cannon, anyone can become a Sorcerer these days. 
+
+== Skills ==
+
+=== Primary: ===
+
+=== [[File:Gunmancer-Primary.png|frameless|64x64px]] VA-11 Blast Cannon ===
+Fire a long-range hit scan attack every 2 seconds which deals 50 <font color="YELLOW">ELECTRIC</font> Damage. 
+
+Additionally, apply a small explosion where your attack hits, dealing 50% of the projectile's Damage.
+
+Has an 15% chance to apply the [[File:Status Stun.png|frameless|16x16px]]<font color="YELLOW">PARALYZED</font> debuff to enemies.
+
+'''OR'''
+
+=== [[File:Gunmancer-Flechette.png|frameless|64x64px]] Kinetic Fletchette ===
+Fire a long-range projectile every X seconds which deals 75 <font COLOR="GREY">PHYSICAL</font> Damage. The projectile can pierce multiple enemies.
+
+15% Chance to inflict the [[File:Status Bleed.png|frameless|20x20px]]<font COLOR="RED">BLEEDING</font> status effect.
+
+=== Secondary: ===
+
+=== [[File:Gunmancer-Firebomb.png|frameless|64x64px]] Firebomb ===
+Launch an explosive projectile with high gravity every X seconds which deals 50 <font color="ORANGE">FIRE</font> Damage.
+
+This attack explodes in a wide radius when it hits, dealing 100% of the projectile's Damage. 
+
+=== [[File:Gumancer-Photon-Cannon.png|frameless|64x64px]] Photon Condenser ===
+Fire fast bullets every 0.25 seconds which deals 10 <font COLOR="#e4e08c">LUMINOUS</font> Damage.
+
+5% Chance to inflict the [[File:Status Weak.png|frameless|20x20px]]<font COLOR="#802525">WEAKENED</font> status effect. 
+
+=== [[File:Gunmancer-Dark-Rifle.png|frameless|64x64px]] Antimatter Accelerator ===
+Fire a scattered blast of five projectiles every X seconds which each deal 8 <font COLOR="PURPLE">SHADOW</font> Damage. Hold to narrow the spread.
+
+5% Chance to inflict the [[File:Status Breach.png|frameless|20x20px]]<font COLOR="GREY">BREACHED</font> status effect.
+
+=== [[File:Gumancer-Airblast.png|frameless|64x64px]] Utility: Airblast ===
+While standing still, launch yourself upwards then gain greatly decreased gravity for a short time. After a short delay, your next skill fired will become CHARGED and deal 200% damage. 
+
+While moving, perform a dash in your current movement direction with 75% reduced cooldown.  
+
+* Whether you're considered moving or not is based exclusively on key input and not velocity.
+
+12 second cooldown.
+
+== Class Upgrades ==
+{| class="wikitable" style="background:#000000; border:1px solid #555; color:#ffffff; margin:0 auto;"
+|+
+! style="background:#000000; color:#ffffff;" | Image
+! style="background:#000000; color:#ffffff;" | Rarity
+! style="background:#000000; color:#ffffff;" | Skill
+! style="background:#000000; color:#ffffff;" | Description
+! style="background:#000000; color:#ffffff;" | Stack Type
+|-
+|[[File:Gunmancer Overcharged.png|center|frameless|128x128px]]
+|Common
+|Gunmancer: Overcharged
+(VA-11 Blast Cannon)
+|VA-11 Blast Cannon beam width: +5% (+5% per stack)
+<font COLOR="YELLOW">ELECTRIC</font> Damage: +15% (+15% per stack)
+|Linear
+|-
+|[[File:Gunmancer Proficiency.png|center|frameless|128x128px]]
+|Common
+|Gunmancer: Proficiency (Firebomb) 
+|Firebomb explosion radius: +1 m (+1 m per stack)
+<font COLOR="ORANGE">FIRE</font> Damage +7%
+|Hyperbolic
+|-
+|[[File:Gunmancer Proficiency.png|center|frameless|128x128px]]
+|Common
+|Gunmancer: Proficiency (Photon Condenser)
+|Photon Condenser Projectile Count +2 (+2 per stack)
+<font COLOR="#e4e08c">LUMINOUS</font> Damage +7% 
+|Hyperbolic
+|-
+|[[File:Gunmancer Proficiency.png|center|frameless|128x128px]]
+|Common
+|Gunmancer: Proficiency (Antimatter Accelerator)
+|Antimatter Accelerator Projectile Count +1 (+1 per stack)
+<font COLOR="PURPLE">SHADOW</font> Damage +5%
+|Hyperbolic
+|-
+|[[File:Gunmancer Sidestep.png|center|frameless|128x128px]]
+|Common
+|Gunmancer: Sidestep
+|Using your Airblast Dash will grant you 2 (+1 per stack) stacks of the [[File:Status Move.png|frameless|20x20px]]<font COLOR="DARKBLUE">HASTE</font> status effect
+|Linear
+|-
+|[[File:Gunmancer Marksman.png|center|frameless|128x128px]]
+|Legendary
+|Gunmancer: Marksman (VA-11 Blast Cannon)
+|Periodically throw a coin. Hitting the coin with your Blast Cannon will direct the blast towards the nearest enemy and increase the Damage by 400% (+24% per stack)
+Coin Size +10% (+10% per stack)
+
+* Actually multiplies specifically the explosion, so the practical damage over a normal shot is only 1.66x
+|Multiplicative/Linear
+|-
+|[[File:Gunmancer Mastery.png|center|frameless|128x128px]]
+|Legendary
+|Gunmancer: Mastery
+|Charged Shot Damage +50% (+50% per stack)
+|Linear
+|}
+'''⚠️ Using Kinetic Fletchette will mean you do not have access to Gunmancer: Overcharged and Gunmancer: Marksman'''

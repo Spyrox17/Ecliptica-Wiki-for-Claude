@@ -1,0 +1,11 @@
+Tokens are the primary currency for upgrades in Ecliptica.
+
+3 will spawn randomly around the map every stage.
+
+Tokens are shaped like a [https://en.wikipedia.org/wiki/Hexagonal_bipyramid hexagonal bipyramid].
+
+You spend your tokens in the shop, at three Vendors:
+
+* The Chrono Wizard
+* The Crystal of Mobility
+* The Crystal of Perseverance

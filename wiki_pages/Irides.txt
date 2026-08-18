@@ -1,0 +1,62 @@
+== Lore ==
+Forged from jagged black glass and crowned with radiant white wings; the Crystalline Prototype, a failed attempt. Its body reflects no light, only swallowing it into endless darkness, while the orb within pulses with an eerie glow.
+
+Being far from the monstrous entity it was meant to become, it drifts through ruins of its genesis like a broken god waiting to kill or be killed.
+
+The Creator is dead.
+
+Light is Strength.
+
+The World is Bright.
+{| class="wikitable" style="background:#000000; color:#ffffff; border:1px solid #444;"
+| colspan="3" |<center>'''<big>Irides</big>'''</center>
+|-
+| rowspan="8" |[[File:Irides.png|frameless|center]]
+|Affinity
+|Resistance
+|-
+|<font color="GREY">PHYSICAL</font>
+|WEAK (1.25x)
+|-
+|<font color="ORANGE">FIRE</font>
+|RESIST (0.7x)
+|-
+|<font color="LIGHTBLUE">FROST</font>
+|WEAK (1.15x)
+|-
+|<font color="YELLOW">ELECTRIC</font>
+|NEUTRAL (1x)
+|-
+|<font color="#e4e08c">LUMINOUS</font>
+|RESIST (0.5x)
+|-
+|<font color="PURPLE">SHADOW</font>
+|NEUTRAL (1x)
+|-
+|<font color="#f02ae0">POISON</font>
+|NEUTRAL (1x)
+|-
+| colspan="3" |Base HP: 12500
+|-
+| colspan="3" |Damage: <font color="GREY">PHYSICAL</font>, <font color="YELLOW">ELECTRIC</font>, <font color="#e4e08c">LUMINOUS</font> and <font color="PURPLE">SHADOW</font>
+|-
+| colspan="3" |Can inflict: [[File:Status Stun.png|frameless|20x20px]]<font COLOR="YELLOW">PARALYZED</font>, [[File:Status Weak.png|frameless|20x20px]]<font COLOR="BROWN">WEAKENED</font>, [[File:Status Breach.png|frameless|20x20px]]<font COLOR="LIGHTGREY">BREACHED</font> and [[File:Status Decay.png|frameless|20x20px]]<font COLOR="#76E065">DECAYED</font>
+|-
+| colspan="3" |Phases: 2
+|}
+
+== Strategy ==
+Irides is a fast paced boss consisting of two phases. In his first he berates his opponents with an entourage of attacks. Slashing at them, firing projectiles, and preforming piercing dashes that go through defenses. Upon death, Irides reaches phase two where he is equipped with more speed and an expanded move set allowing him shoot large lightning bolt, light projectiles, and a thunderous stomp piercing through his foes.
+
+During Phase two when below 50% HP Irides can summon three crystals that embed themselves into the ground. While they are active Irides is completely invincible. The crystals target a nearby player as indicated by the lightning emanating from them. The player they target is the only player capable of dealing damage to the crystal. Additionally, the individual crystals can charge and spike attack, forcing all of those in the battle field to jump over it. The crystals can appear a total of 3 times during the battle.
+
+== Credits ==
+Made by MelonTM
+
+Design by Uno Dos Tres
+
+Based off of Hakita's ULTRAKILL
+
+Music Phase 1: [https://youtu.be/6EMGkxH2PcY?si=muEWZB-1WqcohMMf Heaven Pierce Her, Ultrakill OST - A Part Falling] 
+
+Music Phase 2: [https://youtu.be/qtqRVmMvgps?si=xqvS6Ls0ikWI4PFs Heaven Pierce Her, Ultrakill OST - Dead Heat Pulse]

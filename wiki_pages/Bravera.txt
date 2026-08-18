@@ -1,0 +1,56 @@
+== Lore ==
+Created as the most efficient centralized processor for the Opton Empire, O-O1000 "Bravera" exists purely to calculate thousands of operations in any given moment while fully connected to every automaton of the Opton Empire. All of this to fulfill the unreversible prime directive, to eliminate the FOX Empire. As the most powerful automaton in the universe, Commander Bravera is equipped with terrifying combat capabilities, ones which are rarely displayed due to the efficiency of the automatons' operations.
+
+Having a hybrid power source consisting of both Opton energy as well as the Rift Energy which drives FOX Pilots he was instructed to eliminate, the Commander strikes a perfect balance between tremendous power and energy output, as well as pure, uninhibited computational efficiency. Unhampered by the burden of sapience and conscience abundant within the FOX, Bravera is easily able to exterminate one FOX Colony after another, while actively planning the extermination of hundreds more.
+{| class="wikitable" style="background:#000000; color:#ffffff; border:1px solid #444;"
+| colspan="3" |<center>'''<big>Bravera</big>'''</center>
+|-
+| rowspan="8" |[[File:Bravera.png|frameless|center]]
+|Affinity
+|Resistance
+|-
+|<font color="GREY">PHYSICAL</font>
+|NEUTRAL (1x)
+|-
+|<font color="ORANGE">FIRE</font>
+|WEAK (1.25x)
+|-
+|<font color="LIGHTBLUE">FROST</font>
+|RESIST (0.5x)
+|-
+|<font color="YELLOW">ELECTRIC</font>
+|RESIST (0.5x)
+|-
+|<font color="#e4e08c">LUMINOUS</font>
+|RESIST (0.5x)
+|-
+|<font color="PURPLE">SHADOW</font>
+|NEUTRAL (1x)
+|-
+|<font color="#f02ae0">POISON</font>
+|WEAK (1.25x)
+|-
+| colspan="3" |Base HP: 28000
+|-
+| colspan="3" |Damage: <font color="GREY">PHYSICAL</font> and <font color="YELLOW">ELECTRIC</font>
+|-
+| colspan="3" |Can inflict: [[File:Status Bleed.png|frameless|20x20px]]<font color="DARKRED">BLEEDING</font> and [[File:Status Stun.png|frameless|20x20px]]<font COLOR="YELLOW">PARALYZED</font>
+|-
+| colspan="3" |Phases: 2
+|}
+
+== Strategy ==
+The Bravera fight consists of 2 phases. In Phase 1, Bravera will spawn with 2 Opton Guards. The Opton Guards will seek out the player in the lobby with the lowest HP, and constantly harass them. The guards are not required to be killed to hurt Bravera, so its up to the team to decide who to go after.
+
+In Phase 1, once Bravera reaches 50% HP, he will unlock 2 new moves. He can now use his Corkscrew Leap to cover long distances, and may end his lunges in a powerful, single striking Pizza-cutter.
+
+Once Phase 2 begins, Bravera will unlock a new moveset. This moveset is much more agile than the first, with intense melee combos and the ability to sprint, making Bravera is very difficult to escape from without teammate support. At 50% HP in Phase 2, Bravera will be able to use an enhanced version of his previous Pizza-cutter, now striking twice, and also being useable at any point.
+
+== Credits ==
+Made by Mantibro
+
+Music Phase 1: [https://youtu.be/5uA_RdV2_-E?si=NF86HBw5vhDysRHV Glenn Main - Second Renez-Vous]
+
+Music Phase 2: [https://youtu.be/a2xDbnK65cc?si=FQX_U8Cthka6FMvW Sawano Hiroyuki, Xenoblade Chronicles X OST - RAOKIMERATERESIA]
+
+[https://terror.moe/terrors/bravera Bravera] also appears in Terrors of Nowhere

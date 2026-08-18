@@ -1,0 +1,52 @@
+== Lore ==
+Maxipuss is the beloved cat of Milean, the humble owner of the Brewsal's famous Milean Restaurant. His namesake comes from his love of eating rats. Very few know of Maxipuss' true form, that being his owner and only a few select patrons of the restaurant. Most bothersome customers leave the restaurant with a hazy memory and a ton of bruises.
+{| class="wikitable" style="background:#000000; color:#ffffff; border:1px solid #444;"
+|+
+| colspan="3" |
+<center>'''<big>Maxipuss</big>'''</center>
+|-
+| rowspan="8" |[[File:Maxipuss.png|frameless|center]]
+|Affinity
+|Resistance
+|-
+|<font color="GREY">PHYSICAL</font>
+|NEUTRAL (1x)
+|-
+|<font color="ORANGE">FIRE</font>
+|NEUTRAL (1x)
+|-
+|<font color="LIGHTBLUE">FROST</font>
+|WEAK (1.25x)
+|-
+|<font color="YELLOW">ELECTRIC</font>
+|NEUTRAL (1x)
+|-
+|<font color="#e4e08c">LUMINOUS</font>
+|RESIST (0.7x)
+|-
+|<font color="PURPLE">SHADOW</font>
+|WEAK (1.3x)
+|-
+|<font color="#f02ae0">POISON</font>
+|NEUTRAL (1x)
+|-
+| colspan="3" |Base HP: 5300
+|-
+| colspan="3" |Damage: <FONT color="GREY">PHYSICAL</FONT>
+|-
+| colspan="3" |Can inflict: [[File:Status Poison.png|frameless|20x20px]]<font color="#f02ae0">POISONED</font>
+|-
+| colspan="3" |Phases: 1
+|}
+
+== Strategy ==
+The Maxipuss battle consists of 1 phase.
+
+For close range, Maxipuss has simple punch attacks, as well as an introductory grapple.
+
+For targets at a distance, Maxipuss may throw a hairball or leap.
+
+== Credits ==
+Made by Have, Scena and Mantibro
+
+Music: [https://youtu.be/oKW7QUVavsE?si=KSSNvaM3z_R4w9XR Jamie Christopherson - The Mastermind, Metal Gear Rising Revengeance]

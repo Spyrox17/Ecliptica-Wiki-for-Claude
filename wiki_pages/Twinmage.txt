@@ -1,0 +1,133 @@
+= Twinmage =
+As much as you've always wanted to become a powerful sorcerer, some people just do not have the necessary talent and innate ability. But, you could always just rely on a pair of Elemental Hands to make up for that.
+
+== Skills ==
+[[File:Twinmagehands.png|The varying elemental hands of Twinmage|alt=The varying elemental hands of Twinmage|thumb|484x484px]]
+Twinmage is unique in that rather than a specific primary or secondary, it can instead choose between six elements for each hand.
+
+Firing only one hand will increase your attack speed by 75%
+
+* This is a multiplicative increase to your BASE attack speed.
+* This means it does not reduce your status effect chance.
+
+=== [[File:Twinmage-Fireball.png|frameless|64x64px]] Hand: Flaming Hand ===
+Launch a fireball, dealing 30 <font COLOR="ORANGE">FIRE</font> damage. 
+
+10% chance to inflict [[File:Status Fire.png|frameless|20x20px]]<font COLOR="ORANGE">BURNING</font> status effect.
+
+Has a projectile speed of 16m/s and a max distance of 50m.
+
+=== [[File:Twinmage-Ice-Missile.png|frameless|64x64px]] Hand: Ice Hand ===
+Launch a frost missile, dealing 30 <font COLOR="LIGHTBLUE">FROST</font> damage.
+
+10% chance to inflict [[File:Status Frozen.png|frameless|20x20px]]<font COLOR="LightBlue">FREEZING</font> status effect. 
+
+Has a projectile speed of 20m/s and a max distance of 50m.
+
+=== [[File:Twinmage-Thunderbolt.png|frameless|64x64px]] Hand: Electric Hand ===
+Cast a bolt of lightning, dealing 30 <font COLOR="YELLOW">ELECTRIC</font> damage. 
+
+10% chance to inflict [[File:Status Stun.png|frameless|20x20px]]<font COLOR="YELLOW">PARALYZED</font> status effect.
+
+Hit scan with a max distance of 50m.
+
+=== [[File:Twinmage-Windblade.png|frameless|64x64px]] Hand: Wind Blade ===
+Launch a whirlwind, dealing 30 <font COLOR="GREY">PHYSICAL</font> damage.
+
+10% chance to inflict <font COLOR="RED">[[File:Status Bleed.png|frameless|20x20px]]BLEEDING</font> status effect.
+
+Has a projectile speed of 18m/s and a max distance of 50m.
+
+=== [[File:Twinmage-Light-Ball.png|frameless|64x64px]] Hand: Divine Hand ===
+Launch a ball of light, dealing 35 <font COLOR="#e4e08c">LUMINOUS</font> damage. 
+
+10% chance to apply [[File:Status Weak.png|frameless|20x20px]]<font COLOR="BROWN">WEAKENED</font> status effect.
+
+Has a projectile speed of 24m/s and a max distance of 50m.
+
+=== [[File:Twinmage-Dark-Ball.png|frameless|64x64px]] Hand: Profane Hand ===
+Launch a shadow missile, dealing 20 <font COLOR="PURPLE">SHADOW</font> damage. 
+
+10% chance to apply [[File:Status Breach.png|frameless|20x20px]]<font COLOR="#7f7f7f">BREACHED</font> status effect. 
+
+Has a projectile speed of 12m/s and a max distance of 50m.
+
+=== [[File:Twinmage-Teleport.png|frameless|64x64px]] Utility: Quickwarp ===
+Teleport 15 meters to where you are pointing. 
+
+6 second cooldown.
+
+== Class Upgrades ==
+{| class="wikitable" style="background:#000000; border:1px solid #555; color:#ffffff; margin:0 auto;"
+|+
+! style="background:#000000; color:#ffffff;" | Image
+! style="background:#000000; color:#ffffff;" | Rarity
+! style="background:#000000; color:#ffffff;" | Skill
+! style="background:#000000; color:#ffffff;" | Description
+! style="background:#000000; color:#ffffff;" | Stack Type
+|-
+|[[File:Twinmage-Hand-Boost-L.png|center|frameless|128x128px]]
+|Common
+|Twinmage: Sinistra
+|Left Hand Damage +5% (+5% per stack)
+Left Hand Attack Speed +5% (+5% per stack)
+
+Right Hand Damage -3% (-3% per stack)
+
+Right Hand Attack Speed -3% (-3% per stack)
+
+Multiplicative with other Damage and Attack Speeds
+|Multiplicative/Linear
+|-
+|[[File:Twinmage-Hand-Boost-R.png|center|frameless|128x128px]]
+|Common
+|Twinmage: Dextra
+|Right Hand Damage +5% (+5% per stack)
+Right Hand Attack Speed +5% (+5% per stack)
+
+Left Hand Damage -3% (-3% per stack)
+
+Left Hand Attack Speed -3% (-3% per stack)
+
+Multiplicative with other Damage and Attack Speeds
+|Multiplicative/Linear
+|-
+|[[File:Twinmage Profiency.png|center|frameless|128x128px]]
+|Common
+|Twinmage: Proficiency
+|Quickwarp distance: +3 (+3 per stack) meters
+|Linear
+|-
+|[[File:TwinMRush.png|center|frameless|128x128px]]
+|Common
+|Twinmage: Rush
+|Applying a status effect to an enemy will grant you 4 (+2 per stack) stacks of the [[File:Status Move.png|frameless|20x20px]]<font COLOR="DARKBLUE">HASTE</font> status effect.
+|Linear
+|-
+|[[File:Twinmage Guarded.png|center|frameless|128x128px]]
+|Rare
+|Twinmage: Guarded
+|Applying a status effect to an enemy will grant you 4 (+2 per stack) stacks of the [[File:Status Defense.png|frameless|20x20px]]<font COLOR="#12ebff">ENFORCED</font> status effect
+|Linear
+|-
+|[[File:Twinmage Mastery.png|center|frameless|128x128px]]
+|Rare
+|Twinmage: Mastery
+|Your Elemental Hand projectiles explode in a X (+X per stack) meter radius upon impact, dealing 25% of their damage as splash damage.
+|Linear
+|-
+|<div id="eventImage">
+[[File:Twinmage Wicked Sign.png|center|frameless|128px]]
+</div>
+|Rare
+|Twinmage: Wicked Sign
+|Casting Quickwarp has a 6.7% chance to grant you 8 (+2 per stack) stacks of the [[File:Status Empower.png|frameless|20x20px]]<font COLOR="#ff0000">EMPOWERED</font>, [[File:Status Defense.png|frameless|20x20px]]<font COLOR="#12ebff">ENFORCED</font>, <font COLOR="DARKBLUE">[[File:Status Move.png|frameless|20x20px]]HASTE</font> AND [[File:Status Feral.png|frameless|20x20px]]<font COLOR="#fff000">FRENZIED</font> status effects.
+This will be guaranteed to happen if you are at 67 HP.
+| Linear
+|-
+|[[File:Twinmage Retaliation.png|center|frameless|128x128px]]
+|Legendary
+|Twinmage: Retaliation
+|Taking damage of the element of one of your Elemental Hands will grant you 3 (+2 per stack) stacks of the <font COLOR="#ff0000">[[File:Status Empower.png|frameless|20x20px]]EMPOWERED</font> status effect.
+|Linear
+|}

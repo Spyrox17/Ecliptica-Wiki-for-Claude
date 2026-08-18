@@ -1,0 +1,86 @@
+== Lore ==
+The one called the manifestation of man's inner struggle against traffic laws. A warrior always present, but rarely seen. Those, who follow the way of the law will not have the need of witnessing his will. His yellow blade, named Jōdō-tō, is the warning to the offenders, to show but a fraction of the wrath of traffic enforcement. To teach the correct morals, the Urban Samurai unsheathes two more blades, Teirei-tō, and Shinrei-tō, whose blades and red, and green respectively.
+
+Those who learn to follow the way of the law shall be left unscathed.
+{| class="wikitable" style="background:#000000; color:#ffffff; border:1px solid #444;"
+| colspan="3" |<center>'''<big>Cone Head</big>'''</center>
+|-
+| rowspan="8" |[[File:Conehead.png|frameless|center]]
+|Affinity
+|Resistance
+|-
+|<font color="GREY">PHYSICAL</font>
+|NEUTRAL (1x)
+|-
+|<font color="ORANGE">FIRE</font>
+|NEUTRAL (1x)
+|-
+|<font color="LIGHTBLUE">FROST</font>
+|NEUTRAL (1x)
+|-
+|<font color="YELLOW">ELECTRIC</font>
+|NEUTRAL (1x)
+|-
+|<font color="#e4e08c">LUMINOUS</font>
+|RESIST (0.7x)
+|-
+|<font color="PURPLE">SHADOW</font>
+|WEAK (1.3x)
+|-
+|<font color="#f02ae0">POISON</font>
+|NEUTRAL (1x)
+|-
+| colspan="3" |Base HP: 20000
+|-
+| colspan="3" |Damage: <font color="GREY">PHYSICAL</font>
+|-
+| colspan="3" |Can inflict: [[File:Status Bleed.png|frameless|20x20px]]<font COLOR="DARKRED">BLEEDING</font>
+|-
+| colspan="3" |Phases: 2
+|}
+
+== Strategy ==
+Cone Head's main move set utilizes the traffic light gimmick of moving while the light is green and stopping while the light is red to avoid his attacks. In his first phase he uses one of his three swords to strike at his opponent and occasionally teleporting behind them or covering the majority of the battle field with a traffic light attack, dealing a devastating amount of damage if not followed correctly. Around 30% HP the sword is flung out of his hands and he goes into a melee sub-phase where he chases and punches his opponent until defeated.
+
+Once defeated he will enter his second phase, unsheathing his remaining two swords and utilizing the traffic light gimmick to its fullest. Now each of his slashes are either red or green and are able to be dodged by not moving or moving respectively. His large traffic light AOE attack now strikes 3 times, forcing his opponents to remember the order of the lights or take a significant amount of damage.
+
+== Credits ==
+Made by Scena and Mantibro
+
+Voiced by twui061 (おとぅい)
+
+Music Phase 1: [https://youtu.be/4d6WNmJo--E?si=-U8SeoF0HqUs9-fQ TETRA-FANG - Lightning to Heaven] 
+
+Music Phase 2: [https://youtu.be/MeZ6ECW4tWk?si=PUqLxoJBS7UG5aGw PelleK - Ah, My Romantic Road]
+
+== Statistics ==
+Base HP: 20000
+
+Damage: <font COLOR="GREY">PHYSICAL</font>
+
+This boss is made up of TWO phases
+{| class="wikitable" style="background:#000; color:#fff; border:1px solid #444;"
+! style="background:#000000; color:#ffffff;" | Affinity
+! style="background:#000000; color:#ffffff;" | Resistance
+|-
+|<font COLOR="GREY">PHYSICAL</font>
+|NEUTRAL (1x)
+|-
+|<font COLOR="ORANGE">FIRE</font>
+|NEUTRAL (1x)
+|-
+|<font COLOR="LIGHTBLUE">FROST</font>
+|NEUTRAL (1x)
+|-
+|<font COLOR="YELLOW">ELECTRIC</font>
+|NEUTRAL (1x)
+|-
+|<font COLOR="#e4e08c">LUMINOUS</font>
+|RESIST (0.7x)
+|-
+|<font COLOR="PURPLE">SHADOW</font>
+|WEAK (1.3x)
+|-
+|<font COLOR="#f02ae0">POISON</font>
+|NEUTRAL (1x)
+|}

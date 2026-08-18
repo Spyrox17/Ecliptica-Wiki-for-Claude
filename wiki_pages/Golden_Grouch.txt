@@ -1,0 +1,64 @@
+== Lore ==
+A sentient mascot costume, brought to life with the power of a mysterious entity known as "The Deity", an ethereal Soul Weaver. The soul inside the suit is that of an extreme substance abuser.
+
+Through the help of an unknown third party, this entity was empowered with the Golden Galaxy Gas, giving it the power and means to enact whatever murderous rampage it wishes.
+{| class="wikitable" style="background:#000000; color:#ffffff; border:1px solid #444;"
+| colspan="3" |<center>'''<big>Golden Grouch</big>'''</center>
+|-
+| rowspan="8" |[[File:Golden Grouch.png|frameless|center]]
+|Affinity
+|Resistance
+|-
+|<font color="GREY">PHYSICAL</font>
+|NEUTRAL (1x)
+|-
+|<font color="ORANGE">FIRE</font>
+|WEAK (1.25x)
+|-
+|<font color="LIGHTBLUE">FROST</font>
+|RESIST (0.75x)
+|-
+|<font color="YELLOW">ELECTRIC</font>
+|RESIST (0.55x)
+|-
+|<font color="#e4e08c">LUMINOUS</font>
+|WEAK (1.5x)
+|-
+|<font color="PURPLE">SHADOW</font>
+|NEUTRAL (1x)
+|-
+|<font color="#f02ae0">POISON</font>
+|RESIST (0.5x)
+|-
+| colspan="3" |Base HP: 18500
+|-
+| colspan="3" |Damage: <font color="GREY">PHYSICAL</font> and <font color="PURPLE">SHADOW</font>
+|-
+| colspan="3" |Can inflict: [[File:Status Bleed.png|frameless|20x20px]]<font COLOR="DARKRED">BLEEDING</font>, [[File:Status Breach.png|frameless|20x20px]]<font COLOR="LIGHTGREY">BREACHED</font>, [[File:Status Decay.png|frameless|20x20px]]<font COLOR="#76E065">DECAYED</font>, [[File:Status Frozen.png|frameless|20x20px]]<font color="LIGHTBLUE">FROZEN</font> and [[File:Status Heavy.png|frameless|20x20px]]<font COLOR="DARKGREY">HEAVY</font>
+|-
+| colspan="3" |Phases: 2
+|}
+
+== Strategy ==
+The Golden Grouch battle consists of 2 sub-phases (stances), the sword phase, and the barehanded phase. The sub-phases have fully unique move sets.
+Once per fight, Golden Grouch will have his sword knocked out of his hand upon falling below 70% HP, switching to the barehanded phase. The sword will be left as a passive entity next to the Gate. During the barehanded phase, Golden Grouch can perform a move which summons 6 Shadow Grouch enemies. This can be done up to 2 times.
+
+Shadow Grouch has decaying HP, losing 3% of their MAX HP per second. Every 10 seconds, each Shadow Grouch grants Golden Grouch a small duration of the INVINCIBLE status effect.
+
+After falling below 40% HP in the barehanded phase, Golden Grouch will begin to run towards the dropped sword, picking it up and switching back to the sword phase. Golden Grouch in sword phase has an expanded moveset when below 50% HP.
+
+== Credits ==
+Made by Scena and Mantibro
+
+Voiced by ruralist
+
+The Grouch originally from [https://slash.moe/en/slashers/# SlashCo VR]
+
+Music: [https://www.youtube.com/watch?v=eICijnr1k_I Casey Edwards, Devil May Cry 5 OST - Devil Trigger]
+
+== Fun Facts ==
+Golden Grouch was conceived as a mere joke, a "What if" if you will about all the different variations of Five Nights at Freddy's versions of Grouch you could have! Mantibro and ruralist spent the best part of an hour wheezing as they kept listing more off.
+
+All voice-lines Golden Grouch says, compiled into one video:
+
+https://www.youtube.com/watch?v=V9pM73txJ9Y
